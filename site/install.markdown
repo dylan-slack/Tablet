@@ -4,6 +4,8 @@ title: Install
 permalink: /install/
 ---
 
+Please use `Python>=3.9.6`.
+
 ### Getting the data
 
 To download the data, clone [the github repository](https://github.com/dylan-slack/Tablet).

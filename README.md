@@ -54,6 +54,8 @@ Tablet/data/benchmark
 
 ### Installing TABLET
 
+Please use `Python>=3.9.6`.
+
 If you want to install the tablet package from source, navigate into the TABLET package directory and install.
 
 ```shell
