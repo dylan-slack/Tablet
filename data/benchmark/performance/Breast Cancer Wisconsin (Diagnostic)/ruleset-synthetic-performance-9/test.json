@@ -1,0 +1,914 @@
+[
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.38\nconcave points1: 0.04\nsmoothness3: 0.13\nradius3: 16.67\nsymmetry1: 0.19\narea3: 862.1\nradius1: 14.42\nconcave points3: 0.14\nperimeter3: 111.4\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.29\nconcave points1: 0.03\nsmoothness3: 0.09\nradius3: 12.57\nsymmetry1: 0.12\narea3: 488.4\nradius1: 12.05\nconcave points3: 0.11\nperimeter3: 87.36\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.61\nconcave points1: 0.11\nsmoothness3: 0.15\nradius3: 25.93\nsymmetry1: 0.18\narea3: 2053\nradius1: 19.53\nconcave points3: 0.2\nperimeter3: 171.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.23\nconcave points1: 0.08\nsmoothness3: 0.11\nradius3: 20.39\nsymmetry1: 0.21\narea3: 1295\nradius1: 17.29\nconcave points3: 0.15\nperimeter3: 137.9\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.17\nconcave points1: 0.05\nsmoothness3: 0.13\nradius3: 18.13\nsymmetry1: 0.15\narea3: 1009\nradius1: 16.5\nconcave points3: 0.09\nperimeter3: 117.2\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.19\nconcave points1: 0.03\nsmoothness3: 0.09\nradius3: 18.22\nsymmetry1: 0.18\narea3: 1032\nradius1: 16.84\nconcave points3: 0.08\nperimeter3: 120.3\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.21\nconcave points1: 0.03\nsmoothness3: 0.15\nradius3: 12.82\nsymmetry1: 0.17\narea3: 510.5\nradius1: 11.41\nconcave points3: 0.09\nperimeter3: 83.74\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.09\nconcave points1: 0.05\nsmoothness3: 0.14\nradius3: 11.92\nsymmetry1: 0.18\narea3: 434\nradius1: 11.28\nconcave points3: 0.09\nperimeter3: 76.53\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.32\nconcave points1: 0.06\nsmoothness3: 0.14\nradius3: 16.33\nsymmetry1: 0.19\narea3: 826.4\nradius1: 14.42\nconcave points3: 0.16\nperimeter3: 109.5\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 1.25\nconcave points1: 0.04\nsmoothness3: 0.15\nradius3: 10.31\nsymmetry1: 0.21\narea3: 324.7\nradius1: 9.03\nconcave points3: 0.18\nperimeter3: 65.5\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.27\nconcave points1: 0.08\nsmoothness3: 0.12\nradius3: 24.86\nsymmetry1: 0.16\narea3: 1866\nradius1: 18.94\nconcave points3: 0.18\nperimeter3: 165.9\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.34\nconcave points1: 0.05\nsmoothness3: 0.14\nradius3: 14.8\nsymmetry1: 0.18\narea3: 675.2\nradius1: 13.51\nconcave points3: 0.15\nperimeter3: 97.33\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.06\nconcave points1: 0.02\nsmoothness3: 0.1\nradius3: 13.6\nsymmetry1: 0.19\narea3: 567.6\nradius1: 12.04\nconcave points3: 0.06\nperimeter3: 87.24\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.19\nconcave points1: 0.01\nsmoothness3: 0.13\nradius3: 12.76\nsymmetry1: 0.2\narea3: 489.5\nradius1: 10.8\nconcave points3: 0.07\nperimeter3: 83.69\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.26\nconcave points1: 0.02\nsmoothness3: 0.13\nradius3: 14.54\nsymmetry1: 0.18\narea3: 657\nradius1: 13.66\nconcave points3: 0.11\nperimeter3: 97.96\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.08\nconcave points1: 0.02\nsmoothness3: 0.14\nradius3: 11.06\nsymmetry1: 0.15\narea3: 375.4\nradius1: 10.49\nconcave points3: 0.07\nperimeter3: 70.76\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.1\nconcave points1: 0.02\nsmoothness3: 0.15\nradius3: 12.51\nsymmetry1: 0.16\narea3: 475.8\nradius1: 11.47\nconcave points3: 0.07\nperimeter3: 79.67\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.12\nconcave points1: 0.01\nsmoothness3: 0.13\nradius3: 14.17\nsymmetry1: 0.15\narea3: 622.9\nradius1: 12.25\nconcave points3: 0.06\nperimeter3: 92.74\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.04\nconcave points1: 0.02\nsmoothness3: 0.11\nradius3: 10.93\nsymmetry1: 0.17\narea3: 362.7\nradius1: 10.51\nconcave points3: 0.03\nperimeter3: 70.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.19\nconcave points1: 0.03\nsmoothness3: 0.16\nradius3: 13.57\nsymmetry1: 0.19\narea3: 552\nradius1: 12.54\nconcave points3: 0.08\nperimeter3: 86.67\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.11\nconcave points1: 0\nsmoothness3: 0.09\nradius3: 12.08\nsymmetry1: 0.19\narea3: 452.3\nradius1: 11.32\nconcave points3: 0.02\nperimeter3: 79.82\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.09\nconcave points1: 0.01\nsmoothness3: 0.12\nradius3: 13.87\nsymmetry1: 0.15\narea3: 594.7\nradius1: 12.77\nconcave points3: 0.06\nperimeter3: 88.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.4\nconcave points1: 0.07\nsmoothness3: 0.14\nradius3: 20.42\nsymmetry1: 0.18\narea3: 1299\nradius1: 15.78\nconcave points3: 0.18\nperimeter3: 136.5\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.33\nconcave points1: 0.03\nsmoothness3: 0.1\nradius3: 14.26\nsymmetry1: 0.14\narea3: 632.1\nradius1: 13.37\nconcave points3: 0.09\nperimeter3: 91.99\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.15\nconcave points1: 0.06\nsmoothness3: 0.1\nradius3: 11.86\nsymmetry1: 0.26\narea3: 437.6\nradius1: 11.26\nconcave points3: 0.09\nperimeter3: 78.27\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.34\nconcave points1: 0.08\nsmoothness3: 0.14\nradius3: 19.85\nsymmetry1: 0.18\narea3: 1222\nradius1: 17.3\nconcave points3: 0.19\nperimeter3: 130.9\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.11\nconcave points1: 0.02\nsmoothness3: 0.14\nradius3: 12.41\nsymmetry1: 0.17\narea3: 471.4\nradius1: 11.04\nconcave points3: 0.07\nperimeter3: 79.93\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.03\nconcave points1: 0.01\nsmoothness3: 0.13\nradius3: 11.52\nsymmetry1: 0.18\narea3: 395.4\nradius1: 10.44\nconcave points3: 0.04\nperimeter3: 73.47\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.26\nconcave points1: 0.06\nsmoothness3: 0.13\nradius3: 14.19\nsymmetry1: 0.2\narea3: 591.2\nradius1: 13.05\nconcave points3: 0.13\nperimeter3: 94.22\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.16\nconcave points1: 0.02\nsmoothness3: 0.12\nradius3: 13.34\nsymmetry1: 0.15\narea3: 547.4\nradius1: 12.16\nconcave points3: 0.06\nperimeter3: 88.83\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0\nconcave points1: 0\nsmoothness3: 0.1\nradius3: 11.66\nsymmetry1: 0.17\narea3: 412.3\nradius1: 10.86\nconcave points3: 0\nperimeter3: 74.08\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.14\nconcave points1: 0.02\nsmoothness3: 0.11\nradius3: 13.72\nsymmetry1: 0.17\narea3: 576\nradius1: 12.99\nconcave points3: 0.06\nperimeter3: 87.38\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.18\nconcave points1: 0.02\nsmoothness3: 0.16\nradius3: 13.11\nsymmetry1: 0.18\narea3: 525.1\nradius1: 11.45\nconcave points3: 0.06\nperimeter3: 84.53\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.17\nconcave points1: 0.02\nsmoothness3: 0.11\nradius3: 16.41\nsymmetry1: 0.16\narea3: 830.5\nradius1: 13.9\nconcave points3: 0.08\nperimeter3: 104.4\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.19\nconcave points1: 0.03\nsmoothness3: 0.1\nradius3: 13.46\nsymmetry1: 0.18\narea3: 551.3\nradius1: 12.46\nconcave points3: 0.08\nperimeter3: 88.13\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.46\nconcave points1: 0.06\nsmoothness3: 0.15\nradius3: 24.54\nsymmetry1: 0.2\narea3: 1873\nradius1: 18.77\nconcave points3: 0.2\nperimeter3: 161.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0\nconcave points1: 0\nsmoothness3: 0.07\nradius3: 9.97\nsymmetry1: 0.17\narea3: 303.8\nradius1: 9.72\nconcave points3: 0\nperimeter3: 62.25\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.54\nconcave points1: 0.09\nsmoothness3: 0.17\nradius3: 15.49\nsymmetry1: 0.24\narea3: 739.3\nradius1: 13\nconcave points3: 0.21\nperimeter3: 106.2\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.5\nconcave points1: 0.06\nsmoothness3: 0.14\nradius3: 20.38\nsymmetry1: 0.15\narea3: 1284\nradius1: 17.27\nconcave points3: 0.17\nperimeter3: 132.8\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.3\nconcave points1: 0.09\nsmoothness3: 0.16\nradius3: 17.31\nsymmetry1: 0.2\narea3: 925.1\nradius1: 14.78\nconcave points3: 0.16\nperimeter3: 114.6\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.27\nconcave points1: 0.05\nsmoothness3: 0.13\nradius3: 15.79\nsymmetry1: 0.16\narea3: 758.2\nradius1: 14.6\nconcave points3: 0.14\nperimeter3: 102.2\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.09\nconcave points1: 0.02\nsmoothness3: 0.15\nradius3: 10.41\nsymmetry1: 0.17\narea3: 330.7\nradius1: 9.46\nconcave points3: 0.07\nperimeter3: 67.03\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.59\nconcave points1: 0.09\nsmoothness3: 0.14\nradius3: 17.39\nsymmetry1: 0.22\narea3: 939.7\nradius1: 16.25\nconcave points3: 0.18\nperimeter3: 122.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.32\nconcave points1: 0.06\nsmoothness3: 0.13\nradius3: 16.46\nsymmetry1: 0.21\narea3: 809.2\nradius1: 14.69\nconcave points3: 0.11\nperimeter3: 114.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.11\nconcave points1: 0.01\nsmoothness3: 0.1\nradius3: 15.5\nsymmetry1: 0.16\narea3: 739.1\nradius1: 13.59\nconcave points3: 0.05\nperimeter3: 98.91\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.14\nconcave points1: 0.03\nsmoothness3: 0.15\nradius3: 14.45\nsymmetry1: 0.21\narea3: 624.1\nradius1: 12.75\nconcave points3: 0.08\nperimeter3: 93.63\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.1\nconcave points1: 0.04\nsmoothness3: 0.1\nradius3: 19.82\nsymmetry1: 0.12\narea3: 1210\nradius1: 17.85\nconcave points3: 0.08\nperimeter3: 127.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.38\nconcave points1: 0.1\nsmoothness3: 0.12\nradius3: 30.79\nsymmetry1: 0.15\narea3: 2782\nradius1: 23.09\nconcave points3: 0.23\nperimeter3: 211.5\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.08\nconcave points1: 0.02\nsmoothness3: 0.14\nradius3: 11.24\nsymmetry1: 0.14\narea3: 376.5\nradius1: 9.85\nconcave points3: 0.07\nperimeter3: 74.32\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.69\nconcave points1: 0.11\nsmoothness3: 0.21\nradius3: 14.91\nsymmetry1: 0.26\narea3: 567.7\nradius1: 11.42\nconcave points3: 0.26\nperimeter3: 98.87\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.43\nconcave points1: 0.09\nsmoothness3: 0.15\nradius3: 25.7\nsymmetry1: 0.18\narea3: 1972\nradius1: 19.45\nconcave points3: 0.2\nperimeter3: 163.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.22\nconcave points1: 0.04\nsmoothness3: 0.12\nradius3: 17.27\nsymmetry1: 0.15\narea3: 880.8\nradius1: 14.76\nconcave points3: 0.13\nperimeter3: 114.2\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.14\nconcave points1: 0.02\nsmoothness3: 0.11\nradius3: 13.35\nsymmetry1: 0.17\narea3: 546.7\nradius1: 12.3\nconcave points3: 0.05\nperimeter3: 86.65\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.31\nconcave points1: 0.04\nsmoothness3: 0.11\nradius3: 15.75\nsymmetry1: 0.13\narea3: 764\nradius1: 14.22\nconcave points3: 0.08\nperimeter3: 102.5\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.07\nconcave points1: 0.02\nsmoothness3: 0.12\nradius3: 14.45\nsymmetry1: 0.19\narea3: 626.9\nradius1: 12.87\nconcave points3: 0.06\nperimeter3: 95.14\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.1\nconcave points1: 0.02\nsmoothness3: 0.14\nradius3: 13.71\nsymmetry1: 0.17\narea3: 574.4\nradius1: 12.67\nconcave points3: 0.06\nperimeter3: 88.7\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.47\nconcave points1: 0.09\nsmoothness3: 0.19\nradius3: 18.81\nsymmetry1: 0.22\narea3: 1095\nradius1: 14.87\nconcave points3: 0.2\nperimeter3: 127.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.07\nconcave points1: 0.02\nsmoothness3: 0.14\nradius3: 10.88\nsymmetry1: 0.16\narea3: 357.1\nradius1: 10.26\nconcave points3: 0.04\nperimeter3: 70.89\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.02\nconcave points1: 0.02\nsmoothness3: 0.08\nradius3: 12.9\nsymmetry1: 0.15\narea3: 515.9\nradius1: 12.43\nconcave points3: 0.03\nperimeter3: 81.76\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.66\nconcave points1: 0.08\nsmoothness3: 0.16\nradius3: 23.32\nsymmetry1: 0.19\narea3: 1681\nradius1: 17.2\nconcave points3: 0.19\nperimeter3: 151.6\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.16\nconcave points1: 0.01\nsmoothness3: 0.09\nradius3: 16.22\nsymmetry1: 0.16\narea3: 819.7\nradius1: 14.26\nconcave points3: 0.08\nperimeter3: 105.8\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0\nconcave points1: 0\nsmoothness3: 0.09\nradius3: 9.46\nsymmetry1: 0.16\narea3: 268.6\nradius1: 7.76\nconcave points3: 0\nperimeter3: 59.16\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.29\nconcave points1: 0.03\nsmoothness3: 0.12\nradius3: 14.24\nsymmetry1: 0.16\narea3: 623.7\nradius1: 13.28\nconcave points3: 0.09\nperimeter3: 96.59\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.16\nconcave points1: 0.05\nsmoothness3: 0.13\nradius3: 16.77\nsymmetry1: 0.21\narea3: 873.2\nradius1: 14.34\nconcave points3: 0.11\nperimeter3: 110.4\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.21\nconcave points1: 0.05\nsmoothness3: 0.19\nradius3: 10.28\nsymmetry1: 0.24\narea3: 300.2\nradius1: 9.27\nconcave points3: 0.1\nperimeter3: 69.05\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.36\nconcave points1: 0.05\nsmoothness3: 0.15\nradius3: 14.38\nsymmetry1: 0.16\narea3: 633.7\nradius1: 12.65\nconcave points3: 0.14\nperimeter3: 95.29\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.32\nconcave points1: 0.03\nsmoothness3: 0.11\nradius3: 17.18\nsymmetry1: 0.17\narea3: 906.6\nradius1: 14.92\nconcave points3: 0.11\nperimeter3: 112\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.05\nconcave points1: 0.03\nsmoothness3: 0.13\nradius3: 15.53\nsymmetry1: 0.14\narea3: 749.9\nradius1: 14.11\nconcave points3: 0.06\nperimeter3: 98.4\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.32\nconcave points1: 0.06\nsmoothness3: 0.12\nradius3: 24.22\nsymmetry1: 0.15\narea3: 1750\nradius1: 20.48\nconcave points3: 0.14\nperimeter3: 161.7\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.96\nconcave points1: 0.18\nsmoothness3: 0.17\nradius3: 28.4\nsymmetry1: 0.26\narea3: 2360\nradius1: 22.27\nconcave points3: 0.29\nperimeter3: 206.8\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.26\nconcave points1: 0.07\nsmoothness3: 0.13\nradius3: 16.34\nsymmetry1: 0.21\narea3: 803.6\nradius1: 14.64\nconcave points3: 0.14\nperimeter3: 109.4\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.08\nconcave points1: 0.01\nsmoothness3: 0.12\nradius3: 12.61\nsymmetry1: 0.19\narea3: 483.1\nradius1: 11.7\nconcave points3: 0.06\nperimeter3: 80.92\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.32\nconcave points1: 0.03\nsmoothness3: 0.14\nradius3: 14.18\nsymmetry1: 0.18\narea3: 600.5\nradius1: 12.39\nconcave points3: 0.1\nperimeter3: 95.23\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.48\nconcave points1: 0.15\nsmoothness3: 0.13\nradius3: 27.66\nsymmetry1: 0.18\narea3: 2227\nradius1: 22.01\nconcave points3: 0.24\nperimeter3: 195\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.35\nconcave points1: 0.02\nsmoothness3: 0.14\nradius3: 13.16\nsymmetry1: 0.21\narea3: 515.3\nradius1: 12.22\nconcave points3: 0.08\nperimeter3: 85.13\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.48\nconcave points1: 0.14\nsmoothness3: 0.15\nradius3: 30.67\nsymmetry1: 0.18\narea3: 2906\nradius1: 23.51\nconcave points3: 0.21\nperimeter3: 202.4\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.39\nconcave points1: 0.1\nsmoothness3: 0.12\nradius3: 28.01\nsymmetry1: 0.18\narea3: 2403\nradius1: 23.27\nconcave points3: 0.23\nperimeter3: 184.2\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.19\nconcave points1: 0.05\nsmoothness3: 0.14\nradius3: 17.32\nsymmetry1: 0.17\narea3: 928.2\nradius1: 16.3\nconcave points3: 0.14\nperimeter3: 109.8\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0\nconcave points1: 0\nsmoothness3: 0.13\nradius3: 9.08\nsymmetry1: 0.19\narea3: 248\nradius1: 7.73\nconcave points3: 0\nperimeter3: 57.17\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.02\nconcave points1: 0.01\nsmoothness3: 0.12\nradius3: 12.36\nsymmetry1: 0.14\narea3: 470\nradius1: 10.9\nconcave points3: 0.04\nperimeter3: 78.07\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.05\nconcave points1: 0.02\nsmoothness3: 0.1\nradius3: 16.46\nsymmetry1: 0.16\narea3: 840.8\nradius1: 14.61\nconcave points3: 0.06\nperimeter3: 103.7\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.39\nconcave points1: 0.14\nsmoothness3: 0.15\nradius3: 22.25\nsymmetry1: 0.3\narea3: 1461\nradius1: 17.14\nconcave points3: 0.26\nperimeter3: 152.4\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.42\nconcave points1: 0.09\nsmoothness3: 0.14\nradius3: 23.73\nsymmetry1: 0.18\narea3: 1646\nradius1: 19.89\nconcave points3: 0.16\nperimeter3: 160.5\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.17\nconcave points1: 0.06\nsmoothness3: 0.12\nradius3: 17.5\nsymmetry1: 0.18\narea3: 922.8\nradius1: 15.71\nconcave points3: 0.14\nperimeter3: 114.3\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.14\nconcave points1: 0.05\nsmoothness3: 0.18\nradius3: 12.98\nsymmetry1: 0.21\narea3: 487.7\nradius1: 11.69\nconcave points3: 0.13\nperimeter3: 86.12\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.07\nconcave points1: 0.01\nsmoothness3: 0.11\nradius3: 10.67\nsymmetry1: 0.16\narea3: 349.9\nradius1: 9.76\nconcave points3: 0.05\nperimeter3: 68.03\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.09\nconcave points1: 0.02\nsmoothness3: 0.13\nradius3: 13.65\nsymmetry1: 0.16\narea3: 566.9\nradius1: 12.7\nconcave points3: 0.08\nperimeter3: 88.12\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.08\nconcave points1: 0.01\nsmoothness3: 0.11\nradius3: 14.69\nsymmetry1: 0.14\narea3: 680.6\nradius1: 13.46\nconcave points3: 0.06\nperimeter3: 97.11\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.42\nconcave points1: 0.08\nsmoothness3: 0.15\nradius3: 23.17\nsymmetry1: 0.21\narea3: 1748\nradius1: 15.5\nconcave points3: 0.21\nperimeter3: 157.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.18\nconcave points1: 0.03\nsmoothness3: 0.13\nradius3: 15.34\nsymmetry1: 0.14\narea3: 706.2\nradius1: 13.65\nconcave points3: 0.08\nperimeter3: 99.71\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.32\nconcave points1: 0.02\nsmoothness3: 0.09\nradius3: 12.79\nsymmetry1: 0.13\narea3: 507.2\nradius1: 11.87\nconcave points3: 0.09\nperimeter3: 83.51\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.38\nconcave points1: 0.09\nsmoothness3: 0.15\nradius3: 21.86\nsymmetry1: 0.19\narea3: 1493\nradius1: 18.31\nconcave points3: 0.15\nperimeter3: 142.2\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.39\nconcave points1: 0.02\nsmoothness3: 0.12\nradius3: 14.2\nsymmetry1: 0.15\narea3: 624\nradius1: 12.62\nconcave points3: 0.12\nperimeter3: 90.67\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.39\nconcave points1: 0.09\nsmoothness3: 0.14\nradius3: 22.66\nsymmetry1: 0.19\narea3: 1603\nradius1: 18.82\nconcave points3: 0.17\nperimeter3: 145.3\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.47\nconcave points1: 0.15\nsmoothness3: 0.13\nradius3: 29.92\nsymmetry1: 0.2\narea3: 2642\nradius1: 24.63\nconcave points3: 0.25\nperimeter3: 205.7\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.68\nconcave points1: 0.08\nsmoothness3: 0.09\nradius3: 15.3\nsymmetry1: 0.17\narea3: 709\nradius1: 14.26\nconcave points3: 0.15\nperimeter3: 107\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.69\nconcave points1: 0.08\nsmoothness3: 0.17\nradius3: 15.03\nsymmetry1: 0.21\narea3: 697.7\nradius1: 13.73\nconcave points3: 0.22\nperimeter3: 108.8\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.24\nconcave points1: 0.02\nsmoothness3: 0.12\nradius3: 13.89\nsymmetry1: 0.16\narea3: 595.7\nradius1: 12.88\nconcave points3: 0.06\nperimeter3: 88.84\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.15\nconcave points1: 0.02\nsmoothness3: 0.1\nradius3: 15.4\nsymmetry1: 0.17\narea3: 734.6\nradius1: 14.4\nconcave points3: 0.06\nperimeter3: 100.4\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0\nconcave points1: 0\nsmoothness3: 0.12\nradius3: 9.26\nsymmetry1: 0.17\narea3: 259.2\nradius1: 8.67\nconcave points3: 0\nperimeter3: 58.36\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.2\nconcave points1: 0.02\nsmoothness3: 0.13\nradius3: 14.06\nsymmetry1: 0.15\narea3: 607.3\nradius1: 12.47\nconcave points3: 0.11\nperimeter3: 92.82\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.54\nconcave points1: 0.09\nsmoothness3: 0.15\nradius3: 27.32\nsymmetry1: 0.16\narea3: 2398\nradius1: 19.81\nconcave points3: 0.24\nperimeter3: 186.8\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.38\nconcave points1: 0.07\nsmoothness3: 0.14\nradius3: 22.88\nsymmetry1: 0.18\narea3: 1606\nradius1: 18.25\nconcave points3: 0.19\nperimeter3: 153.2\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.14\nconcave points1: 0.01\nsmoothness3: 0.09\nradius3: 15.14\nsymmetry1: 0.18\narea3: 718.9\nradius1: 13.9\nconcave points3: 0.06\nperimeter3: 101.2\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.31\nconcave points1: 0.03\nsmoothness3: 0.1\nradius3: 13.13\nsymmetry1: 0.16\narea3: 529.9\nradius1: 12.21\nconcave points3: 0.09\nperimeter3: 87.65\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.14\nconcave points1: 0.02\nsmoothness3: 0.1\nradius3: 10.01\nsymmetry1: 0.23\narea3: 310.1\nradius1: 9.17\nconcave points3: 0.05\nperimeter3: 65.59\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.34\nconcave points1: 0.02\nsmoothness3: 0.13\nradius3: 11.94\nsymmetry1: 0.19\narea3: 433.1\nradius1: 10.88\nconcave points3: 0.08\nperimeter3: 80.78\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.05\nconcave points1: 0.03\nsmoothness3: 0.09\nradius3: 13.75\nsymmetry1: 0.17\narea3: 579.5\nradius1: 12.77\nconcave points3: 0.05\nperimeter3: 89.04\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.08\nconcave points1: 0.02\nsmoothness3: 0.12\nradius3: 12.97\nsymmetry1: 0.18\narea3: 508.9\nradius1: 11.5\nconcave points3: 0.07\nperimeter3: 83.12\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.79\nconcave points1: 0.16\nsmoothness3: 0.15\nradius3: 25.12\nsymmetry1: 0.22\narea3: 1986\nradius1: 23.29\nconcave points3: 0.27\nperimeter3: 177\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.4\nconcave points1: 0.04\nsmoothness3: 0.13\nradius3: 16.22\nsymmetry1: 0.19\narea3: 808.9\nradius1: 14.47\nconcave points3: 0.12\nperimeter3: 113.5\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.84\nconcave points1: 0.06\nsmoothness3: 0.22\nradius3: 13.24\nsymmetry1: 0.22\narea3: 508.1\nradius1: 11.08\nconcave points3: 0.25\nperimeter3: 91.76\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "M",
+        "serialization": "concavity3: 0.33\nconcave points1: 0.08\nsmoothness3: 0.14\nradius3: 17.73\nsymmetry1: 0.19\narea3: 975.2\nradius1: 16.26\nconcave points3: 0.1\nperimeter3: 113.7\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if someone has breast cancer.",
+        "lift_header": "You must predict if someone has breast cancer.",
+        "class_text": "Answer with one of the following: B | M.",
+        "instructions": " If the perimeter3 measurement is less than 106, then there is a 39% chance that an individual has breast cancer (class B); however, if the perimeter3 measurement is greater than 106, then it is more likely that an individual does not have breast cancer (class M) with a 61% probability.",
+        "label": "B",
+        "serialization": "concavity3: 0.28\nconcave points1: 0.02\nsmoothness3: 0.16\nradius3: 13.35\nsymmetry1: 0.19\narea3: 550.6\nradius1: 11.67\nconcave points3: 0.08\nperimeter3: 87\n"
+    }
+]

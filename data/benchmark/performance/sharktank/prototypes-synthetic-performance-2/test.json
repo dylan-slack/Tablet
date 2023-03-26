@@ -1,0 +1,794 @@
+[
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 120000\naskedFor: 30000\nexchangeForStake: 25\nentrepreneurs: Amanda Schlechter\nlocation: West Palm Beach, FL\nseason: 3\ncategory: Novelties\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 3000000\naskedFor: 150000\nexchangeForStake: 5\nentrepreneurs: Dave Jackson and Dave Petrillo\nlocation: Pennington, NJ\nseason: 4\ncategory: Novelties\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 500000\naskedFor: 75000\nexchangeForStake: 15\nentrepreneurs: Samantha Meis and Conor Riley\nlocation: Phoenix, AZ\nseason: 4\ncategory: Specialty Food\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1000000\naskedFor: 100000\nexchangeForStake: 10\nentrepreneurs: Brian Parks\nlocation: Eugene, OR\nseason: 1\ncategory: Kitchen Tools\nshark5: Kevin Harrington\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 850000\naskedFor: 85000\nexchangeForStake: 10\nentrepreneurs: Jonathan Boos\nlocation: Sarasota, FL\nseason: 2\ncategory: Men's Accessories\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 733333\naskedFor: 110000\nexchangeForStake: 15\nentrepreneurs: Naushad Ali\nlocation: Springfield, MO\nseason: 6\ncategory: Storage and Cleaning Products\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 500000\naskedFor: 100000\nexchangeForStake: 20\nentrepreneurs: Kristina Guerrero\nlocation: Bend, OR\nseason: 6\ncategory: Pet Products\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1000000\naskedFor: 100000\nexchangeForStake: 10\nentrepreneurs: Nancy Bush and Sue Kruskopf\nlocation: Minneapolis, MN\nseason: 3\ncategory: Consumer Services\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 5000000\naskedFor: 500000\nexchangeForStake: 10\nentrepreneurs: Unknown\nlocation: San Diego, CA\nseason: 5\ncategory: Personal Care and Cosmetics\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1000000\naskedFor: 100000\nexchangeForStake: 10\nentrepreneurs: Taylor Gwiazdon and Jayson Sandberg\nlocation: Las Vegas, NV\nseason: 4\ncategory: Novelties\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 333333\naskedFor: 100000\nexchangeForStake: 30\nentrepreneurs: Bea Arthur\nlocation: New York, NY\nseason: 4\ncategory: Online Services\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1500000\naskedFor: 150000\nexchangeForStake: 10\nentrepreneurs: Heather Murphy-Monteith and Andy Hurwitz\nlocation: Portland, OR\nseason: 4\ncategory: Baby and Children's Entertainment\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 100000\naskedFor: 25000\nexchangeForStake: 25\nentrepreneurs: Ryan and Daniella Kelly\nlocation: Norwalk, CT\nseason: 4\ncategory: Pet Products\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 625000\naskedFor: 125000\nexchangeForStake: 20\nentrepreneurs: Heidi K. Lovig\nlocation: Portland, OR\nseason: 6\ncategory: Specialty Food\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 6000000\naskedFor: 300000\nexchangeForStake: 5\nentrepreneurs: Unknown\nlocation: Los Angeles, CA\nseason: 5\ncategory: Online Services\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1000000\naskedFor: 100000\nexchangeForStake: 10\nentrepreneurs: Donny McCall\nlocation: Greensboro, NC\nseason: 3\ncategory: Automotive\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 20000000\naskedFor: 2000000\nexchangeForStake: 10\nentrepreneurs: Unknown\nlocation: Houston, TX\nseason: 5\ncategory: Electronics\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 2500000\naskedFor: 250000\nexchangeForStake: 10\nentrepreneurs: Unknown\nlocation: Brooklyn, NY\nseason: 5\ncategory: Party Supplies\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 350000\naskedFor: 105000\nexchangeForStake: 30\nentrepreneurs: Jill Quilln\nlocation: Knoxville, TN\nseason: 1\ncategory: Personal Care and Cosmetics\nshark5: Kevin Harrington\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1500000\naskedFor: 150000\nexchangeForStake: 10\nentrepreneurs: Mike Hartwick and Sarah Ponn\nlocation: Manchester, NH\nseason: 4\ncategory: Fitness Programs\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 250000\naskedFor: 50000\nexchangeForStake: 20\nentrepreneurs: Edna Ma, M.D.\nlocation: Beverly Hills, CA\nseason: 5\ncategory: Personal Care and Cosmetics\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 5000000\naskedFor: 500000\nexchangeForStake: 10\nentrepreneurs: Robert Alison\nlocation: Las Vegas, NV\nseason: 1\ncategory: Automotive\nshark5: Kevin Harrington\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1000000\naskedFor: 100000\nexchangeForStake: 10\nentrepreneurs: Nikki Pope\nlocation: Los Angeles, CA\nseason: 2\ncategory: Toys and Games\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1000000\naskedFor: 250000\nexchangeForStake: 25\nentrepreneurs: Jared Joyce\nlocation: Bozeman, MT\nseason: 3\ncategory: Furniture\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 1333333\naskedFor: 200000\nexchangeForStake: 15\nentrepreneurs: Erick Jansen\nlocation: Austin, TX\nseason: 5\ncategory: Baby and Child Care\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 1750000\naskedFor: 175000\nexchangeForStake: 10\nentrepreneurs: Unknown\nlocation: Austin, TX\nseason: 5\ncategory: Women's Accessories\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 708333\naskedFor: 85000\nexchangeForStake: 12\nentrepreneurs: Marvin Philip\nlocation: Salt Lake City, UT\nseason: 4\ncategory: Productivity Tools\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 625000\naskedFor: 125000\nexchangeForStake: 20\nentrepreneurs: Kimberly Cayce\nlocation: Charlotte, NC\nseason: 1\ncategory: Undergarments and Basics\nshark5: Kevin Harrington\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Kevin O'Leary\nvaluation: 2000000\naskedFor: 300000\nexchangeForStake: 15\nentrepreneurs: Unknown\nlocation: New York, NY\nseason: 5\ncategory: Party Supplies\nshark5: John Paul DeJoria\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 303030\naskedFor: 100000\nexchangeForStake: 33\nentrepreneurs: Brant Myers and Dan Grimm\nlocation: San Luis Obispo, CA\nseason: 4\ncategory: Party Supplies\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 3000000\naskedFor: 300000\nexchangeForStake: 10\nentrepreneurs: Rusty Allen\nlocation: San Diego, CA\nseason: 4\ncategory: Water Bottles\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 5000000\naskedFor: 250000\nexchangeForStake: 5\nentrepreneurs: Ryan Shell\nlocation: New York, NY\nseason: 6\ncategory: Men and Women's Apparel\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 2500000\naskedFor: 250000\nexchangeForStake: 10\nentrepreneurs: Unknown\nlocation: Salt Lake City, UT\nseason: 5\ncategory: Outdoor Recreation\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 430000\naskedFor: 86000\nexchangeForStake: 20\nentrepreneurs: Michele Kapustka and Melisa Moroko\nlocation: Chicago, IL\nseason: 1\ncategory: Novelties\nshark5: Kevin Harrington\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 2500000\naskedFor: 250000\nexchangeForStake: 10\nentrepreneurs: Mark Aramli\nlocation: Newport, RI\nseason: 6\ncategory: Home Accessories\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 500000\naskedFor: 75000\nexchangeForStake: 15\nentrepreneurs: Wade and Lori Morrell\nlocation: Pickerington, OH\nseason: 6\ncategory: Professional Services\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 4000000\naskedFor: 400000\nexchangeForStake: 10\nentrepreneurs: Sara and Josh Margulis\nlocation: Sebastopol, CA\nseason: 6\ncategory: Weddings\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 2000000\naskedFor: 300000\nexchangeForStake: 15\nentrepreneurs: Arlene Battishill and Desiree Estrada\nlocation: Los Angeles, CA\nseason: 3\ncategory: Men and Women's Apparel\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Kevin O'Leary\nvaluation: 3000000\naskedFor: 300000\nexchangeForStake: 10\nentrepreneurs: Joe Wilcox\nlocation: Palo Alto, CA\nseason: 6\ncategory: Automotive\nshark5: Nick Woodman\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 500000\naskedFor: 150000\nexchangeForStake: 30\nentrepreneurs: Kwami Kuadey\nlocation: Columbia, MD\nseason: 1\ncategory: Online Services\nshark5: Kevin Harrington\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 454545\naskedFor: 150000\nexchangeForStake: 33\nentrepreneurs: Amber Lee Forrester\nlocation: New York, NY\nseason: 5\ncategory: Pet Products\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 6000000\naskedFor: 300000\nexchangeForStake: 5\nentrepreneurs: Aviv Grill\nlocation: Santa Monica, CA\nseason: 3\ncategory: Music\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 7000000\naskedFor: 700000\nexchangeForStake: 10\nentrepreneurs: Unknown\nlocation: Santa Monica, CA\nseason: 5\ncategory: Home Security Solutions\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 200000\naskedFor: 60000\nexchangeForStake: 30\nentrepreneurs: Unknown\nlocation: Chicago, IL\nseason: 6\ncategory: Toys and Games\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 207692\naskedFor: 54000\nexchangeForStake: 26\nentrepreneurs: Rabbi Moshe Weiss\nlocation: St. Paul, MN\nseason: 4\ncategory: Electronics\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 2000000\naskedFor: 400000\nexchangeForStake: 20\nentrepreneurs: Mike Robinson\nlocation: Los Angeles, CA\nseason: 4\ncategory: Toys and Games\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 3000000\naskedFor: 300000\nexchangeForStake: 10\nentrepreneurs: Michael and Babz Barnett\nlocation: Blacksburg, VA\nseason: 1\ncategory: Baby and Children's Entertainment\nshark5: Kevin Harrington\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1000000\naskedFor: 150000\nexchangeForStake: 15\nentrepreneurs: Nicole Jones\nlocation: Chicago, IL\nseason: 1\ncategory: Women's Shoes\nshark5: Kevin Harrington\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 13000000\naskedFor: 650000\nexchangeForStake: 5\nentrepreneurs: Brian Lim\nlocation: Los Angeles, CA\nseason: 6\ncategory: Party Supplies\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 196078\naskedFor: 100000\nexchangeForStake: 51\nentrepreneurs: Blake St. Clair\nlocation: Oxnard, CA\nseason: 3\ncategory: Pet Products\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 200000\naskedFor: 50000\nexchangeForStake: 25\nentrepreneurs: Johnson Bailey\nlocation: Broken Arrow, OK\nseason: 2\ncategory: Home Accessories\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 3333333\naskedFor: 500000\nexchangeForStake: 15\nentrepreneurs: Tereson Dupuy\nlocation: Lafayette, LA\nseason: 4\ncategory: Baby and Child Care\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 300000\naskedFor: 60000\nexchangeForStake: 20\nentrepreneurs: Shelton Wilder\nlocation: Los Angeles, CA\nseason: 4\ncategory: Undergarments and Basics\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 5000000\naskedFor: 500000\nexchangeForStake: 10\nentrepreneurs: Joe Moore\nlocation: New Port Richey, FL\nseason: 2\ncategory: Health and Well-Being\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 25000000\naskedFor: 2500000\nexchangeForStake: 10\nentrepreneurs: Andrew McMurray\nlocation: Santa Rosa, CA\nseason: 6\ncategory: Alcoholic Beverages\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1000000\naskedFor: 200000\nexchangeForStake: 20\nentrepreneurs: Craig French\nlocation: Hollywood, CA\nseason: 1\ncategory: Men and Women's Apparel\nshark5: Kevin Harrington\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 5000000\naskedFor: 500000\nexchangeForStake: 10\nentrepreneurs: Stuart and David Pikoff\nlocation: Austin, TX\nseason: 2\ncategory: Entertainment\nshark5: Daymond John\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1800000\naskedFor: 450000\nexchangeForStake: 25\nentrepreneurs: Doug Marshall\nlocation: Tyler, TX\nseason: 4\ncategory: Novelties\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1785714\naskedFor: 125000\nexchangeForStake: 7\nentrepreneurs: Maria Curcio and Veronica Periongo\nlocation: Boston, MA\nseason: 4\ncategory: Pest Control\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1500000\naskedFor: 150000\nexchangeForStake: 10\nentrepreneurs: Unknown\nlocation: Wilmington, DE\nseason: 5\ncategory: Home Improvement\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 933333\naskedFor: 140000\nexchangeForStake: 15\nentrepreneurs: Stacy Erwin\nlocation: Overland Park, KS\nseason: 2\ncategory: Fitness Apparel and Accessories\nshark5: Kevin Harrington\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 6000000\naskedFor: 300000\nexchangeForStake: 5\nentrepreneurs: James Martin\nlocation: The Dalles, OR\nseason: 2\ncategory: Alcoholic Beverages\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 30000000\naskedFor: 1500000\nexchangeForStake: 5\nentrepreneurs: John Devecka and Eric Berkowitz\nlocation: New York, NY\nseason: 6\ncategory: Electronics\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1166667\naskedFor: 175000\nexchangeForStake: 15\nentrepreneurs: Mona Weiss and Scott Shields\nlocation: Los Angeles, CA\nseason: 4\ncategory: Storage and Cleaning Products\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 300000\naskedFor: 45000\nexchangeForStake: 15\nentrepreneurs: Rachel and Melissa\nlocation: Beverly Hills, CA\nseason: 5\ncategory: Personal Care and Cosmetics\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 2000000\naskedFor: 400000\nexchangeForStake: 20\nentrepreneurs: Matthew and Emily Griffin\nlocation: Carmel, IN\nseason: 5\ncategory: Kitchen Tools\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 2000000\naskedFor: 200000\nexchangeForStake: 10\nentrepreneurs: Michael Levin\nlocation: Irvine, CA\nseason: 3\ncategory: Professional Services\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 200000\naskedFor: 50000\nexchangeForStake: 25\nentrepreneurs: Sandy Hyun and Roman Pietrs\nlocation: New York, NY\nseason: 1\ncategory: Electronics\nshark5: Kevin Harrington\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1800000\naskedFor: 90000\nexchangeForStake: 5\nentrepreneurs: Michael Tseng\nlocation: San Francisco, CA\nseason: 4\ncategory: Kitchen Tools\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1550000\naskedFor: 155000\nexchangeForStake: 10\nentrepreneurs: Ken Bradford\nlocation: Dallas, TX\nseason: 1\ncategory: Education\nshark5: Kevin Harrington\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1500000\naskedFor: 150000\nexchangeForStake: 10\nentrepreneurs: Stephan Aarstol\nlocation: San Diego, CA\nseason: 3\ncategory: Outdoor Recreation\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 400000\naskedFor: 80000\nexchangeForStake: 20\nentrepreneurs: April Morris\nlocation: Indianapolis, IN\nseason: 2\ncategory: Personal Care and Cosmetics\nshark5: Kevin Harrington\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 10000000\naskedFor: 500000\nexchangeForStake: 5\nentrepreneurs: Dr. Amy Baxter\nlocation: Atlanta, GA\nseason: 5\ncategory: Baby and Child Care\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1000000\naskedFor: 150000\nexchangeForStake: 15\nentrepreneurs: David A. Cox\nlocation: Provincetown, MA\nseason: 4\ncategory: Online Services\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 450000\naskedFor: 90000\nexchangeForStake: 20\nentrepreneurs: Brooke Bryant and Brittany Hayes\nlocation: Loganville, GA\nseason: 4\ncategory: Baby and Children's Bedding\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1200000\naskedFor: 60000\nexchangeForStake: 5\nentrepreneurs: Dave Mayer\nlocation: Oakland, CA\nseason: 3\ncategory: Water Bottles\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 333333\naskedFor: 50000\nexchangeForStake: 15\nentrepreneurs: Morri Chowaiki\nlocation: San Diego, CA\nseason: 5\ncategory: Holiday Cheer\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1000000\naskedFor: 100000\nexchangeForStake: 10\nentrepreneurs: Bryan Scott\nlocation: Atlanta, GA\nseason: 6\ncategory: Fitness Apparel and Accessories\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 500000\naskedFor: 75000\nexchangeForStake: 15\nentrepreneurs: Erika Pope\nlocation: Sarasota, FL\nseason: 5\ncategory: Toys and Games\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 600000\naskedFor: 150000\nexchangeForStake: 25\nentrepreneurs: Paige Dellavalle and Ashley Jung\nlocation: Hillsborough, NJ\nseason: 4\ncategory: Women's Accessories\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 625000\naskedFor: 125000\nexchangeForStake: 20\nentrepreneurs: Unknown\nlocation: Tacoma, WA\nseason: 5\ncategory: Specialty Food\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1250000\naskedFor: 125000\nexchangeForStake: 10\nentrepreneurs: Travis Perry\nlocation: Dothan, AL\nseason: 3\ncategory: Music\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 10000000\naskedFor: 500000\nexchangeForStake: 5\nentrepreneurs: Patrick  Whaley\nlocation: Atlanta, GA\nseason: 6\ncategory: Fitness Apparel and Accessories\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 1500000\naskedFor: 150000\nexchangeForStake: 10\nentrepreneurs: Andrew Feld\nlocation: Davenport, FL\nseason: 6\ncategory: Pet Products\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 2666667\naskedFor: 400000\nexchangeForStake: 15\nentrepreneurs: Eric Bandholz\nlocation: San Francisco, CA\nseason: 6\ncategory: Personal Care and Cosmetics\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 3000000\naskedFor: 300000\nexchangeForStake: 10\nentrepreneurs: Ned Kensing and Jennifer Wright-Laracy\nlocation: New York, NY\nseason: 6\ncategory: Storage and Cleaning Products\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1250000\naskedFor: 250000\nexchangeForStake: 20\nentrepreneurs: Peter Ferreira, Dennis Iannotti and Neil Cameron\nlocation: Pawtucket, RI\nseason: 4\ncategory: Specialty Food\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 200000\naskedFor: 100000\nexchangeForStake: 50\nentrepreneurs: Lyle Schuette\nlocation: Derby, KS\nseason: 3\ncategory: Home Accessories\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 250000\naskedFor: 50000\nexchangeForStake: 20\nentrepreneurs: Juli Deveau and Ozma Khan\nlocation: Los Angeles, CA\nseason: 5\ncategory: Kitchen Tools\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 1500000\naskedFor: 150000\nexchangeForStake: 10\nentrepreneurs: Neal Hoffman\nlocation: Madeira, OH\nseason: 6\ncategory: Holiday Cheer\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 6000000\naskedFor: 300000\nexchangeForStake: 5\nentrepreneurs: James Martin\nlocation: The Dalles, OR\nseason: 3\ncategory: Alcoholic Beverages\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1666667\naskedFor: 250000\nexchangeForStake: 15\nentrepreneurs: Beverly Vines-Haines and Charlotte Clary\nlocation: Yelm, WA\nseason: 4\ncategory: Specialty Food\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 100000\naskedFor: 10000\nexchangeForStake: 10\nentrepreneurs: Jim O'Brien\nlocation: Waterford, MI\nseason: 5\ncategory: Novelties\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 3500000\naskedFor: 350000\nexchangeForStake: 10\nentrepreneurs: Alex Milewski and Sherisse Hawkins\nlocation: Boulder, CO\nseason: 6\ncategory: Online Services\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1500000\naskedFor: 150000\nexchangeForStake: 10\nentrepreneurs: Taylor, Brooks and Tanner Dame\nlocation: Boise, ID\nseason: 4\ncategory: Men and Women's Accessories\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 3000000\naskedFor: 300000\nexchangeForStake: 10\nentrepreneurs: Tom Kanemoto and Lance Yabut\nlocation: Los Angeles, CA\nseason: 4\ncategory: Entertainment\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "no",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 1250000\naskedFor: 125000\nexchangeForStake: 10\nentrepreneurs: Aida and Phil Lough\nlocation: La Habra, CA\nseason: 1\ncategory: Gardening\nshark5: Kevin Harrington\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Barbara Corcoran\nvaluation: 500000\naskedFor: 75000\nexchangeForStake: 15\nentrepreneurs: Dr. Sylvie Shapiro and Nicole Brooks\nlocation: Los Angeles, CA\nseason: 5\ncategory: Online Services\nshark5: Mark Cuban\nMultiple Entreprenuers: True\n"
+    },
+    {
+        "header": "You must follow the instructions to predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "lift_header": "You must predict if the pitch on the ABC show Shark Tank resulted in a deal (yes or no).",
+        "class_text": "Answer with one of the following: no | yes.",
+        "instructions": " When attempting to predict if a pitch on Shark Tank resulted in a deal, deals are more likely when the valuation is lower and the other features remain constant (i.e. Robert Herjavec as shark2, askedFor 100000, exchangeForStake 20, entrepreneurs Unknown, location Los Angeles, CA, Mark Cuban present as shark5 and no multiple entrepreneurs). The season plays an important role too, with deals being more likely in an earlier season than a later one.",
+        "label": "yes",
+        "serialization": "shark2: Robert Herjavec\nvaluation: 500000\naskedFor: 50000\nexchangeForStake: 10\nentrepreneurs: Gary Gagnon\nlocation: Charlotte, NC\nseason: 3\ncategory: Men and Women's Shoes\nshark5: Mark Cuban\nMultiple Entreprenuers: False\n"
+    }
+]

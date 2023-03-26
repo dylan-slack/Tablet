@@ -1,0 +1,1138 @@
+[
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.07\n0D280 0D315 of diluted wines: 2.65\nMalicacid: 1.92\nMagnesium: 120\nAlcohol: 14.3\nAsh: 2.72\nTotal phenols: 2.8\nProline: 1280\nColor intensity: 6.2\nFlavanoids: 3.14\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.96\n0D280 0D315 of diluted wines: 3.36\nMalicacid: 3.1\nMagnesium: 116\nAlcohol: 13.64\nAsh: 2.56\nTotal phenols: 2.7\nProline: 845\nColor intensity: 5.1\nFlavanoids: 3.03\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.03\n0D280 0D315 of diluted wines: 3.17\nMalicacid: 2.36\nMagnesium: 101\nAlcohol: 13.16\nAsh: 2.67\nTotal phenols: 2.8\nProline: 1185\nColor intensity: 5.68\nFlavanoids: 3.24\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.57\n0D280 0D315 of diluted wines: 1.78\nMalicacid: 1.67\nMagnesium: 89\nAlcohol: 13.48\nAsh: 2.64\nTotal phenols: 2.6\nProline: 620\nColor intensity: 11.75\nFlavanoids: 1.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.73\n0D280 0D315 of diluted wines: 1.58\nMalicacid: 2.46\nMagnesium: 94\nAlcohol: 12.6\nAsh: 2.2\nTotal phenols: 1.62\nProline: 695\nColor intensity: 7.1\nFlavanoids: 0.66\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.04\n0D280 0D315 of diluted wines: 3.59\nMalicacid: 1.68\nMagnesium: 96\nAlcohol: 14.02\nAsh: 2.21\nTotal phenols: 2.65\nProline: 1035\nColor intensity: 4.7\nFlavanoids: 2.33\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.12\n0D280 0D315 of diluted wines: 3.82\nMalicacid: 1.81\nMagnesium: 96\nAlcohol: 13.5\nAsh: 2.61\nTotal phenols: 2.53\nProline: 845\nColor intensity: 3.52\nFlavanoids: 2.61\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.98\n0D280 0D315 of diluted wines: 1.59\nMalicacid: 1.36\nMagnesium: 100\nAlcohol: 12.64\nAsh: 2.02\nTotal phenols: 2.02\nProline: 450\nColor intensity: 5.75\nFlavanoids: 1.41\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.86\n0D280 0D315 of diluted wines: 3.02\nMalicacid: 1.29\nMagnesium: 92\nAlcohol: 12.22\nAsh: 1.94\nTotal phenols: 2.36\nProline: 312\nColor intensity: 2.7\nFlavanoids: 2.04\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.05\n0D280 0D315 of diluted wines: 2.85\nMalicacid: 1.76\nMagnesium: 112\nAlcohol: 14.2\nAsh: 2.45\nTotal phenols: 3.27\nProline: 1450\nColor intensity: 6.75\nFlavanoids: 3.39\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.04\n0D280 0D315 of diluted wines: 2.77\nMalicacid: 1.34\nMagnesium: 88\nAlcohol: 12.6\nAsh: 1.9\nTotal phenols: 1.45\nProline: 562\nColor intensity: 2.45\nFlavanoids: 1.36\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.7\n0D280 0D315 of diluted wines: 2.47\nMalicacid: 2.56\nMagnesium: 89\nAlcohol: 13.36\nAsh: 2.35\nTotal phenols: 1.4\nProline: 780\nColor intensity: 5.6\nFlavanoids: 0.5\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.13\n0D280 0D315 of diluted wines: 3.2\nMalicacid: 2.05\nMagnesium: 124\nAlcohol: 13.05\nAsh: 3.22\nTotal phenols: 2.63\nProline: 830\nColor intensity: 3.58\nFlavanoids: 2.68\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.55\n0D280 0D315 of diluted wines: 1.62\nMalicacid: 3.24\nMagnesium: 92\nAlcohol: 13.32\nAsh: 2.38\nTotal phenols: 1.93\nProline: 650\nColor intensity: 8.42\nFlavanoids: 0.76\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.86\n0D280 0D315 of diluted wines: 3.28\nMalicacid: 2.16\nMagnesium: 85\nAlcohol: 12.07\nAsh: 2.17\nTotal phenols: 2.6\nProline: 378\nColor intensity: 2.76\nFlavanoids: 2.65\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.07\n0D280 0D315 of diluted wines: 3.21\nMalicacid: 1.33\nMagnesium: 70\nAlcohol: 12.08\nAsh: 2.3\nTotal phenols: 2.2\nProline: 625\nColor intensity: 1.74\nFlavanoids: 1.59\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.23\n0D280 0D315 of diluted wines: 2.74\nMalicacid: 1.41\nMagnesium: 85\nAlcohol: 12.29\nAsh: 1.98\nTotal phenols: 2.55\nProline: 428\nColor intensity: 2.9\nFlavanoids: 2.5\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.17\n0D280 0D315 of diluted wines: 2.82\nMalicacid: 1.48\nMagnesium: 95\nAlcohol: 14.12\nAsh: 2.32\nTotal phenols: 2.2\nProline: 1280\nColor intensity: 5\nFlavanoids: 2.43\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.25\n0D280 0D315 of diluted wines: 3.4\nMalicacid: 1.9\nMagnesium: 107\nAlcohol: 13.87\nAsh: 2.8\nTotal phenols: 2.95\nProline: 915\nColor intensity: 4.5\nFlavanoids: 2.97\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.31\n0D280 0D315 of diluted wines: 2.72\nMalicacid: 1.13\nMagnesium: 78\nAlcohol: 12.08\nAsh: 2.51\nTotal phenols: 2\nProline: 630\nColor intensity: 2.2\nFlavanoids: 1.58\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.84\n0D280 0D315 of diluted wines: 2.01\nMalicacid: 3.86\nMagnesium: 85\nAlcohol: 13.05\nAsh: 2.32\nTotal phenols: 1.65\nProline: 515\nColor intensity: 4.8\nFlavanoids: 1.59\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1\n0D280 0D315 of diluted wines: 3.17\nMalicacid: 1.73\nMagnesium: 80\nAlcohol: 12.25\nAsh: 2.12\nTotal phenols: 1.65\nProline: 510\nColor intensity: 3.4\nFlavanoids: 2.03\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.87\n0D280 0D315 of diluted wines: 2.11\nMalicacid: 3.27\nMagnesium: 106\nAlcohol: 12.85\nAsh: 2.58\nTotal phenols: 1.65\nProline: 570\nColor intensity: 5.58\nFlavanoids: 0.6\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.61\n0D280 0D315 of diluted wines: 1.33\nMalicacid: 1.9\nMagnesium: 116\nAlcohol: 13.11\nAsh: 2.75\nTotal phenols: 2.2\nProline: 425\nColor intensity: 7.1\nFlavanoids: 1.28\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.1\n0D280 0D315 of diluted wines: 2.87\nMalicacid: 1.8\nMagnesium: 110\nAlcohol: 13.51\nAsh: 2.65\nTotal phenols: 2.35\nProline: 1095\nColor intensity: 4.2\nFlavanoids: 2.53\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.59\n0D280 0D315 of diluted wines: 1.3\nMalicacid: 3.12\nMagnesium: 123\nAlcohol: 13.5\nAsh: 2.62\nTotal phenols: 1.4\nProline: 500\nColor intensity: 8.6\nFlavanoids: 1.57\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.42\n0D280 0D315 of diluted wines: 2.83\nMalicacid: 3.17\nMagnesium: 88\nAlcohol: 12.29\nAsh: 2.21\nTotal phenols: 2.85\nProline: 406\nColor intensity: 2.3\nFlavanoids: 2.99\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.36\n0D280 0D315 of diluted wines: 3.16\nMalicacid: 1.51\nMagnesium: 86\nAlcohol: 13.86\nAsh: 2.67\nTotal phenols: 2.95\nProline: 410\nColor intensity: 3.38\nFlavanoids: 2.86\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1\n0D280 0D315 of diluted wines: 2.75\nMalicacid: 2.06\nMagnesium: 84\nAlcohol: 11.64\nAsh: 2.46\nTotal phenols: 1.95\nProline: 680\nColor intensity: 2.8\nFlavanoids: 1.69\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.91\n0D280 0D315 of diluted wines: 3\nMalicacid: 3.84\nMagnesium: 90\nAlcohol: 13.41\nAsh: 2.12\nTotal phenols: 2.45\nProline: 1035\nColor intensity: 4.28\nFlavanoids: 2.68\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.78\n0D280 0D315 of diluted wines: 1.29\nMalicacid: 3.55\nMagnesium: 106\nAlcohol: 12.7\nAsh: 2.36\nTotal phenols: 1.7\nProline: 600\nColor intensity: 5\nFlavanoids: 1.2\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.89\n0D280 0D315 of diluted wines: 2.78\nMalicacid: 1.63\nMagnesium: 88\nAlcohol: 12.37\nAsh: 2.3\nTotal phenols: 2.22\nProline: 342\nColor intensity: 2.12\nFlavanoids: 2.45\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.79\n0D280 0D315 of diluted wines: 3.08\nMalicacid: 0.89\nMagnesium: 94\nAlcohol: 11.84\nAsh: 2.58\nTotal phenols: 2.2\nProline: 520\nColor intensity: 3.05\nFlavanoids: 2.21\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.09\n0D280 0D315 of diluted wines: 3.71\nMalicacid: 1.63\nMagnesium: 126\nAlcohol: 14.06\nAsh: 2.28\nTotal phenols: 3\nProline: 780\nColor intensity: 5.65\nFlavanoids: 3.17\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.8\n0D280 0D315 of diluted wines: 3.39\nMalicacid: 2.4\nMagnesium: 96\nAlcohol: 11.45\nAsh: 2.42\nTotal phenols: 2.9\nProline: 625\nColor intensity: 3.25\nFlavanoids: 2.79\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.19\n0D280 0D315 of diluted wines: 2.3\nMalicacid: 1.21\nMagnesium: 98\nAlcohol: 12.37\nAsh: 2.56\nTotal phenols: 2.42\nProline: 678\nColor intensity: 4.6\nFlavanoids: 2.65\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.7\n0D280 0D315 of diluted wines: 2.12\nMalicacid: 3.43\nMagnesium: 80\nAlcohol: 12.77\nAsh: 1.98\nTotal phenols: 1.63\nProline: 372\nColor intensity: 3.4\nFlavanoids: 1.25\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.04\n0D280 0D315 of diluted wines: 3.47\nMalicacid: 1.81\nMagnesium: 100\nAlcohol: 13.48\nAsh: 2.41\nTotal phenols: 2.7\nProline: 920\nColor intensity: 5.1\nFlavanoids: 2.98\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.23\n0D280 0D315 of diluted wines: 2.5\nMalicacid: 2.68\nMagnesium: 103\nAlcohol: 11.76\nAsh: 2.92\nTotal phenols: 1.75\nProline: 607\nColor intensity: 3.8\nFlavanoids: 2.03\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.48\n0D280 0D315 of diluted wines: 1.47\nMalicacid: 2.67\nMagnesium: 112\nAlcohol: 12.79\nAsh: 2.48\nTotal phenols: 1.48\nProline: 480\nColor intensity: 10.8\nFlavanoids: 1.36\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.88\n0D280 0D315 of diluted wines: 3.56\nMalicacid: 1.89\nMagnesium: 101\nAlcohol: 13.88\nAsh: 2.59\nTotal phenols: 3.25\nProline: 1095\nColor intensity: 5.43\nFlavanoids: 3.56\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.04\n0D280 0D315 of diluted wines: 3.44\nMalicacid: 3.59\nMagnesium: 102\nAlcohol: 14.38\nAsh: 2.28\nTotal phenols: 3.25\nProline: 1065\nColor intensity: 4.9\nFlavanoids: 3.17\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.45\n0D280 0D315 of diluted wines: 2.23\nMalicacid: 1.45\nMagnesium: 104\nAlcohol: 12.17\nAsh: 2.53\nTotal phenols: 1.89\nProline: 355\nColor intensity: 2.95\nFlavanoids: 1.75\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.38\n0D280 0D315 of diluted wines: 3.12\nMalicacid: 0.92\nMagnesium: 86\nAlcohol: 12\nAsh: 2\nTotal phenols: 2.42\nProline: 278\nColor intensity: 2.5\nFlavanoids: 2.26\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.56\n0D280 0D315 of diluted wines: 1.58\nMalicacid: 3.83\nMagnesium: 88\nAlcohol: 12.36\nAsh: 2.38\nTotal phenols: 2.3\nProline: 520\nColor intensity: 7.65\nFlavanoids: 0.92\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.7\n0D280 0D315 of diluted wines: 1.68\nMalicacid: 2.76\nMagnesium: 90\nAlcohol: 13.78\nAsh: 2.3\nTotal phenols: 1.35\nProline: 615\nColor intensity: 9.58\nFlavanoids: 0.68\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.66\n0D280 0D315 of diluted wines: 1.36\nMalicacid: 2.31\nMagnesium: 98\nAlcohol: 12.81\nAsh: 2.4\nTotal phenols: 1.15\nProline: 560\nColor intensity: 5.7\nFlavanoids: 1.09\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.22\n0D280 0D315 of diluted wines: 2.87\nMalicacid: 1.13\nMagnesium: 87\nAlcohol: 12.37\nAsh: 2.16\nTotal phenols: 3.5\nProline: 420\nColor intensity: 4.45\nFlavanoids: 3.1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.06\n0D280 0D315 of diluted wines: 3.58\nMalicacid: 2.15\nMagnesium: 121\nAlcohol: 14.06\nAsh: 2.61\nTotal phenols: 2.6\nProline: 1295\nColor intensity: 5.05\nFlavanoids: 2.51\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.25\n0D280 0D315 of diluted wines: 3.17\nMalicacid: 2.16\nMagnesium: 105\nAlcohol: 14.1\nAsh: 2.3\nTotal phenols: 2.95\nProline: 1510\nColor intensity: 5.75\nFlavanoids: 3.32\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.57\n0D280 0D315 of diluted wines: 1.96\nMalicacid: 1.68\nMagnesium: 98\nAlcohol: 14.34\nAsh: 2.7\nTotal phenols: 2.8\nProline: 660\nColor intensity: 13\nFlavanoids: 1.31\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.25\n0D280 0D315 of diluted wines: 2.73\nMalicacid: 1.73\nMagnesium: 91\nAlcohol: 14.75\nAsh: 2.39\nTotal phenols: 3.1\nProline: 1150\nColor intensity: 5.4\nFlavanoids: 3.69\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.28\n0D280 0D315 of diluted wines: 2.88\nMalicacid: 1.81\nMagnesium: 112\nAlcohol: 13.63\nAsh: 2.7\nTotal phenols: 2.85\nProline: 1310\nColor intensity: 7.3\nFlavanoids: 2.91\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.33\n0D280 0D315 of diluted wines: 2.26\nMalicacid: 1.61\nMagnesium: 90\nAlcohol: 12.16\nAsh: 2.31\nTotal phenols: 1.78\nProline: 495\nColor intensity: 2.45\nFlavanoids: 1.69\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.82\n0D280 0D315 of diluted wines: 3\nMalicacid: 3.98\nMagnesium: 103\nAlcohol: 13.24\nAsh: 2.29\nTotal phenols: 2.64\nProline: 680\nColor intensity: 4.36\nFlavanoids: 2.63\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.25\n0D280 0D315 of diluted wines: 1.67\nMalicacid: 1.1\nMagnesium: 101\nAlcohol: 12.33\nAsh: 2.28\nTotal phenols: 2.05\nProline: 680\nColor intensity: 3.27\nFlavanoids: 1.09\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.02\n0D280 0D315 of diluted wines: 2.77\nMalicacid: 1.72\nMagnesium: 94\nAlcohol: 13.3\nAsh: 2.14\nTotal phenols: 2.4\nProline: 1285\nColor intensity: 3.95\nFlavanoids: 2.19\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.75\n0D280 0D315 of diluted wines: 2.81\nMalicacid: 3.74\nMagnesium: 107\nAlcohol: 11.46\nAsh: 1.82\nTotal phenols: 3.18\nProline: 562\nColor intensity: 2.9\nFlavanoids: 2.58\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.81\n0D280 0D315 of diluted wines: 1.82\nMalicacid: 3.59\nMagnesium: 88\nAlcohol: 13.49\nAsh: 2.19\nTotal phenols: 1.62\nProline: 580\nColor intensity: 5.7\nFlavanoids: 0.48\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.59\n0D280 0D315 of diluted wines: 1.56\nMalicacid: 4.28\nMagnesium: 120\nAlcohol: 13.27\nAsh: 2.26\nTotal phenols: 1.59\nProline: 835\nColor intensity: 10.2\nFlavanoids: 0.69\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.12\n0D280 0D315 of diluted wines: 3.48\nMalicacid: 1.17\nMagnesium: 78\nAlcohol: 12.37\nAsh: 1.92\nTotal phenols: 2.11\nProline: 510\nColor intensity: 4.68\nFlavanoids: 2\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.93\n0D280 0D315 of diluted wines: 3.05\nMalicacid: 3.43\nMagnesium: 87\nAlcohol: 12\nAsh: 2\nTotal phenols: 2\nProline: 564\nColor intensity: 1.28\nFlavanoids: 1.64\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.9\n0D280 0D315 of diluted wines: 2.78\nMalicacid: 2.43\nMagnesium: 88\nAlcohol: 12.52\nAsh: 2.17\nTotal phenols: 2.55\nProline: 325\nColor intensity: 2\nFlavanoids: 2.27\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.91\n0D280 0D315 of diluted wines: 1.82\nMalicacid: 1.61\nMagnesium: 103\nAlcohol: 12.29\nAsh: 2.21\nTotal phenols: 1.1\nProline: 870\nColor intensity: 3.05\nFlavanoids: 1.02\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.95\n0D280 0D315 of diluted wines: 3.33\nMalicacid: 1.47\nMagnesium: 86\nAlcohol: 11.82\nAsh: 1.99\nTotal phenols: 1.98\nProline: 495\nColor intensity: 1.95\nFlavanoids: 1.6\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.89\n0D280 0D315 of diluted wines: 3.53\nMalicacid: 3.99\nMagnesium: 128\nAlcohol: 14.22\nAsh: 2.51\nTotal phenols: 3\nProline: 760\nColor intensity: 5.1\nFlavanoids: 3.04\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.58\n0D280 0D315 of diluted wines: 1.55\nMalicacid: 1.29\nMagnesium: 103\nAlcohol: 12.58\nAsh: 2.1\nTotal phenols: 1.48\nProline: 640\nColor intensity: 7.6\nFlavanoids: 0.58\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.58\n0D280 0D315 of diluted wines: 1.33\nMalicacid: 5.04\nMagnesium: 80\nAlcohol: 13.88\nAsh: 2.23\nTotal phenols: 0.98\nProline: 415\nColor intensity: 4.9\nFlavanoids: 0.34\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.73\n0D280 0D315 of diluted wines: 3.1\nMalicacid: 5.8\nMagnesium: 86\nAlcohol: 13.05\nAsh: 2.13\nTotal phenols: 2.62\nProline: 380\nColor intensity: 2.6\nFlavanoids: 2.65\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.23\n0D280 0D315 of diluted wines: 2.46\nMalicacid: 1.25\nMagnesium: 94\nAlcohol: 13.67\nAsh: 1.92\nTotal phenols: 2.1\nProline: 630\nColor intensity: 3.8\nFlavanoids: 1.79\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.02\n0D280 0D315 of diluted wines: 1.93\nMalicacid: 0.94\nMagnesium: 110\nAlcohol: 13.34\nAsh: 2.36\nTotal phenols: 2.53\nProline: 750\nColor intensity: 3.17\nFlavanoids: 1.3\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.13\n0D280 0D315 of diluted wines: 2.93\nMalicacid: 1.9\nMagnesium: 115\nAlcohol: 13.77\nAsh: 2.68\nTotal phenols: 3\nProline: 1375\nColor intensity: 6.3\nFlavanoids: 2.79\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.01\n0D280 0D315 of diluted wines: 3.55\nMalicacid: 1.35\nMagnesium: 98\nAlcohol: 13.86\nAsh: 2.27\nTotal phenols: 2.98\nProline: 1045\nColor intensity: 7.22\nFlavanoids: 3.15\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.06\n0D280 0D315 of diluted wines: 2.31\nMalicacid: 0.99\nMagnesium: 136\nAlcohol: 12.33\nAsh: 1.95\nTotal phenols: 1.9\nProline: 750\nColor intensity: 3.4\nFlavanoids: 1.85\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.13\n0D280 0D315 of diluted wines: 2.57\nMalicacid: 1.57\nMagnesium: 115\nAlcohol: 13.83\nAsh: 2.62\nTotal phenols: 2.95\nProline: 1130\nColor intensity: 6.6\nFlavanoids: 3.4\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.95\n0D280 0D315 of diluted wines: 3.38\nMalicacid: 1.71\nMagnesium: 117\nAlcohol: 13.56\nAsh: 2.31\nTotal phenols: 3.15\nProline: 795\nColor intensity: 6.13\nFlavanoids: 3.29\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.09\n0D280 0D315 of diluted wines: 2.88\nMalicacid: 1.66\nMagnesium: 106\nAlcohol: 13.58\nAsh: 2.36\nTotal phenols: 2.86\nProline: 1515\nColor intensity: 6.9\nFlavanoids: 3.19\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.27\n0D280 0D315 of diluted wines: 2.96\nMalicacid: 2.08\nMagnesium: 97\nAlcohol: 12.08\nAsh: 1.7\nTotal phenols: 2.23\nProline: 710\nColor intensity: 3.3\nFlavanoids: 2.17\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.97\n0D280 0D315 of diluted wines: 2.44\nMalicacid: 2.13\nMagnesium: 92\nAlcohol: 11.79\nAsh: 2.78\nTotal phenols: 2.13\nProline: 466\nColor intensity: 3\nFlavanoids: 2.24\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.57\n0D280 0D315 of diluted wines: 1.63\nMalicacid: 2.39\nMagnesium: 86\nAlcohol: 12.77\nAsh: 2.28\nTotal phenols: 1.39\nProline: 470\nColor intensity: 9.9\nFlavanoids: 0.51\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.54\n0D280 0D315 of diluted wines: 1.86\nMalicacid: 4.61\nMagnesium: 86\nAlcohol: 12.87\nAsh: 2.48\nTotal phenols: 1.7\nProline: 625\nColor intensity: 7.65\nFlavanoids: 0.65\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.04\n0D280 0D315 of diluted wines: 2.93\nMalicacid: 2.59\nMagnesium: 118\nAlcohol: 13.24\nAsh: 2.87\nTotal phenols: 2.8\nProline: 735\nColor intensity: 4.32\nFlavanoids: 2.69\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.56\n0D280 0D315 of diluted wines: 1.51\nMalicacid: 3.3\nMagnesium: 98\nAlcohol: 13.23\nAsh: 2.28\nTotal phenols: 1.8\nProline: 675\nColor intensity: 10.52\nFlavanoids: 0.83\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.95\n0D280 0D315 of diluted wines: 2.26\nMalicacid: 2.12\nMagnesium: 134\nAlcohol: 11.81\nAsh: 2.74\nTotal phenols: 1.6\nProline: 625\nColor intensity: 2.5\nFlavanoids: 0.99\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.67\n0D280 0D315 of diluted wines: 1.92\nMalicacid: 4.6\nMagnesium: 112\nAlcohol: 13.4\nAsh: 2.86\nTotal phenols: 1.98\nProline: 630\nColor intensity: 8.5\nFlavanoids: 0.96\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.92\n0D280 0D315 of diluted wines: 3.2\nMalicacid: 1.67\nMagnesium: 118\nAlcohol: 13.74\nAsh: 2.25\nTotal phenols: 2.6\nProline: 1060\nColor intensity: 5.85\nFlavanoids: 2.9\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.61\n0D280 0D315 of diluted wines: 1.6\nMalicacid: 4.1\nMagnesium: 96\nAlcohol: 14.13\nAsh: 2.74\nTotal phenols: 2.05\nProline: 560\nColor intensity: 9.2\nFlavanoids: 0.76\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.76\n0D280 0D315 of diluted wines: 1.29\nMalicacid: 1.35\nMagnesium: 122\nAlcohol: 12.86\nAsh: 2.32\nTotal phenols: 1.51\nProline: 630\nColor intensity: 4.1\nFlavanoids: 1.25\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.98\n0D280 0D315 of diluted wines: 2.78\nMalicacid: 1.66\nMagnesium: 87\nAlcohol: 13.49\nAsh: 2.24\nTotal phenols: 1.88\nProline: 472\nColor intensity: 3.74\nFlavanoids: 1.84\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.12\n0D280 0D315 of diluted wines: 2.51\nMalicacid: 1.65\nMagnesium: 98\nAlcohol: 13.05\nAsh: 2.55\nTotal phenols: 2.45\nProline: 1105\nColor intensity: 4.25\nFlavanoids: 2.43\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.93\n0D280 0D315 of diluted wines: 3.69\nMalicacid: 2.05\nMagnesium: 119\nAlcohol: 11.56\nAsh: 3.23\nTotal phenols: 3.18\nProline: 465\nColor intensity: 6\nFlavanoids: 5.08\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.08\n0D280 0D315 of diluted wines: 2.85\nMalicacid: 1.64\nMagnesium: 97\nAlcohol: 14.83\nAsh: 2.17\nTotal phenols: 2.8\nProline: 1045\nColor intensity: 5.2\nFlavanoids: 2.98\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.24\n0D280 0D315 of diluted wines: 3.37\nMalicacid: 1.65\nMagnesium: 94\nAlcohol: 13.83\nAsh: 2.6\nTotal phenols: 2.45\nProline: 1265\nColor intensity: 5.6\nFlavanoids: 2.99\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.88\n0D280 0D315 of diluted wines: 2.42\nMalicacid: 1.75\nMagnesium: 84\nAlcohol: 12.72\nAsh: 2.28\nTotal phenols: 1.38\nProline: 488\nColor intensity: 3.3\nFlavanoids: 1.76\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.05\n0D280 0D315 of diluted wines: 1.82\nMalicacid: 0.94\nMagnesium: 88\nAlcohol: 12.37\nAsh: 1.36\nTotal phenols: 1.98\nProline: 520\nColor intensity: 1.95\nFlavanoids: 0.57\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.09\n0D280 0D315 of diluted wines: 2.78\nMalicacid: 1.64\nMagnesium: 110\nAlcohol: 13.28\nAsh: 2.84\nTotal phenols: 2.6\nProline: 880\nColor intensity: 4.6\nFlavanoids: 2.68\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.19\n0D280 0D315 of diluted wines: 3.13\nMalicacid: 3.87\nMagnesium: 101\nAlcohol: 12.7\nAsh: 2.4\nTotal phenols: 2.83\nProline: 463\nColor intensity: 2.57\nFlavanoids: 2.55\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.23\n0D280 0D315 of diluted wines: 3.16\nMalicacid: 0.98\nMagnesium: 99\nAlcohol: 12.67\nAsh: 2.24\nTotal phenols: 2.2\nProline: 450\nColor intensity: 2.62\nFlavanoids: 1.94\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.89\n0D280 0D315 of diluted wines: 2.15\nMalicacid: 2.96\nMagnesium: 101\nAlcohol: 12.84\nAsh: 2.61\nTotal phenols: 2.32\nProline: 590\nColor intensity: 4.92\nFlavanoids: 0.6\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.6\n0D280 0D315 of diluted wines: 1.48\nMalicacid: 5.19\nMagnesium: 93\nAlcohol: 13.17\nAsh: 2.32\nTotal phenols: 1.74\nProline: 725\nColor intensity: 7.9\nFlavanoids: 0.63\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.09\n0D280 0D315 of diluted wines: 3.63\nMalicacid: 1.6\nMagnesium: 95\nAlcohol: 12.85\nAsh: 2.52\nTotal phenols: 2.48\nProline: 1015\nColor intensity: 3.93\nFlavanoids: 2.37\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.23\n0D280 0D315 of diluted wines: 2.14\nMalicacid: 1.88\nMagnesium: 97\nAlcohol: 11.66\nAsh: 1.92\nTotal phenols: 1.61\nProline: 428\nColor intensity: 3.8\nFlavanoids: 1.57\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.11\n0D280 0D315 of diluted wines: 4\nMalicacid: 1.86\nMagnesium: 101\nAlcohol: 13.71\nAsh: 2.36\nTotal phenols: 2.61\nProline: 1035\nColor intensity: 3.8\nFlavanoids: 2.88\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.6\n0D280 0D315 of diluted wines: 1.68\nMalicacid: 3.57\nMagnesium: 102\nAlcohol: 13.16\nAsh: 2.15\nTotal phenols: 1.5\nProline: 830\nColor intensity: 4\nFlavanoids: 0.55\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.31\n0D280 0D315 of diluted wines: 3.5\nMalicacid: 1.67\nMagnesium: 139\nAlcohol: 12.99\nAsh: 2.6\nTotal phenols: 3.3\nProline: 985\nColor intensity: 3.35\nFlavanoids: 2.89\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.62\n0D280 0D315 of diluted wines: 1.71\nMalicacid: 2.51\nMagnesium: 91\nAlcohol: 14.16\nAsh: 2.48\nTotal phenols: 1.68\nProline: 660\nColor intensity: 9.7\nFlavanoids: 0.7\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.16\n0D280 0D315 of diluted wines: 2.63\nMalicacid: 1.52\nMagnesium: 162\nAlcohol: 12.47\nAsh: 2.2\nTotal phenols: 2.5\nProline: 937\nColor intensity: 2.6\nFlavanoids: 2.27\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.04\n0D280 0D315 of diluted wines: 2.77\nMalicacid: 1.07\nMagnesium: 88\nAlcohol: 12.37\nAsh: 2.1\nTotal phenols: 3.52\nProline: 660\nColor intensity: 4.5\nFlavanoids: 3.75\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.71\n0D280 0D315 of diluted wines: 2.87\nMalicacid: 1.51\nMagnesium: 85\nAlcohol: 11.03\nAsh: 2.2\nTotal phenols: 2.46\nProline: 407\nColor intensity: 1.9\nFlavanoids: 2.17\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.93\n0D280 0D315 of diluted wines: 3.19\nMalicacid: 1.39\nMagnesium: 84\nAlcohol: 12.08\nAsh: 2.5\nTotal phenols: 2.56\nProline: 385\nColor intensity: 2.9\nFlavanoids: 2.29\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.86\n0D280 0D315 of diluted wines: 3.45\nMalicacid: 1.95\nMagnesium: 113\nAlcohol: 14.37\nAsh: 2.5\nTotal phenols: 3.85\nProline: 1480\nColor intensity: 7.8\nFlavanoids: 3.49\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.96\n0D280 0D315 of diluted wines: 1.82\nMalicacid: 3.26\nMagnesium: 107\nAlcohol: 13.69\nAsh: 2.54\nTotal phenols: 1.83\nProline: 680\nColor intensity: 5.88\nFlavanoids: 0.56\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.23\n0D280 0D315 of diluted wines: 2.87\nMalicacid: 1.83\nMagnesium: 104\nAlcohol: 13.68\nAsh: 2.36\nTotal phenols: 2.42\nProline: 990\nColor intensity: 3.84\nFlavanoids: 2.69\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.64\n0D280 0D315 of diluted wines: 1.74\nMalicacid: 5.65\nMagnesium: 95\nAlcohol: 13.71\nAsh: 2.45\nTotal phenols: 1.68\nProline: 740\nColor intensity: 7.7\nFlavanoids: 0.61\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.12\n0D280 0D315 of diluted wines: 3.18\nMalicacid: 1.01\nMagnesium: 78\nAlcohol: 13.11\nAsh: 1.7\nTotal phenols: 2.98\nProline: 502\nColor intensity: 5.3\nFlavanoids: 3.18\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.12\n0D280 0D315 of diluted wines: 3.1\nMalicacid: 1.73\nMagnesium: 108\nAlcohol: 13.94\nAsh: 2.27\nTotal phenols: 2.88\nProline: 1260\nColor intensity: 8.9\nFlavanoids: 3.54\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.75\n0D280 0D315 of diluted wines: 1.27\nMalicacid: 4.72\nMagnesium: 89\nAlcohol: 12.25\nAsh: 2.54\nTotal phenols: 1.38\nProline: 720\nColor intensity: 3.85\nFlavanoids: 0.47\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.19\n0D280 0D315 of diluted wines: 2.71\nMalicacid: 1.5\nMagnesium: 101\nAlcohol: 13.73\nAsh: 2.7\nTotal phenols: 3\nProline: 1285\nColor intensity: 5.7\nFlavanoids: 3.25\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.06\n0D280 0D315 of diluted wines: 2.96\nMalicacid: 1.61\nMagnesium: 108\nAlcohol: 12.42\nAsh: 2.19\nTotal phenols: 2\nProline: 345\nColor intensity: 2.06\nFlavanoids: 2.09\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.94\n0D280 0D315 of diluted wines: 3.31\nMalicacid: 1.7\nMagnesium: 118\nAlcohol: 14.22\nAsh: 2.3\nTotal phenols: 3.2\nProline: 970\nColor intensity: 6.38\nFlavanoids: 3\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.57\n0D280 0D315 of diluted wines: 1.33\nMalicacid: 3.9\nMagnesium: 113\nAlcohol: 13.08\nAsh: 2.36\nTotal phenols: 1.41\nProline: 550\nColor intensity: 9.4\nFlavanoids: 1.39\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.03\n0D280 0D315 of diluted wines: 3.52\nMalicacid: 3.8\nMagnesium: 102\nAlcohol: 12.93\nAsh: 2.65\nTotal phenols: 2.41\nProline: 770\nColor intensity: 4.5\nFlavanoids: 2.41\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.04\n0D280 0D315 of diluted wines: 3.92\nMalicacid: 1.71\nMagnesium: 127\nAlcohol: 14.23\nAsh: 2.43\nTotal phenols: 2.8\nProline: 1065\nColor intensity: 5.64\nFlavanoids: 3.06\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.74\n0D280 0D315 of diluted wines: 1.42\nMalicacid: 2.99\nMagnesium: 104\nAlcohol: 12.88\nAsh: 2.4\nTotal phenols: 1.3\nProline: 530\nColor intensity: 5.4\nFlavanoids: 1.22\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.01\n0D280 0D315 of diluted wines: 3.26\nMalicacid: 1.75\nMagnesium: 111\nAlcohol: 13.82\nAsh: 2.42\nTotal phenols: 3.88\nProline: 1190\nColor intensity: 7.05\nFlavanoids: 3.74\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.69\n0D280 0D315 of diluted wines: 2.84\nMalicacid: 1.53\nMagnesium: 86\nAlcohol: 12.43\nAsh: 2.29\nTotal phenols: 2.74\nProline: 352\nColor intensity: 3.94\nFlavanoids: 3.15\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.18\n0D280 0D315 of diluted wines: 2.69\nMalicacid: 1.5\nMagnesium: 98\nAlcohol: 13.07\nAsh: 2.1\nTotal phenols: 2.4\nProline: 1020\nColor intensity: 3.7\nFlavanoids: 2.64\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.88\n0D280 0D315 of diluted wines: 3.35\nMalicacid: 1.77\nMagnesium: 107\nAlcohol: 13.05\nAsh: 2.1\nTotal phenols: 3\nProline: 885\nColor intensity: 5.04\nFlavanoids: 3\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.6\n0D280 0D315 of diluted wines: 1.62\nMalicacid: 2.59\nMagnesium: 120\nAlcohol: 13.17\nAsh: 2.37\nTotal phenols: 1.65\nProline: 840\nColor intensity: 9.3\nFlavanoids: 0.68\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.07\n0D280 0D315 of diluted wines: 2.84\nMalicacid: 1.97\nMagnesium: 102\nAlcohol: 13.29\nAsh: 2.68\nTotal phenols: 3\nProline: 1270\nColor intensity: 6\nFlavanoids: 3.23\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.98\n0D280 0D315 of diluted wines: 3.03\nMalicacid: 1.73\nMagnesium: 116\nAlcohol: 13.56\nAsh: 2.46\nTotal phenols: 2.96\nProline: 1120\nColor intensity: 6.25\nFlavanoids: 2.78\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.16\n0D280 0D315 of diluted wines: 2.96\nMalicacid: 1.99\nMagnesium: 98\nAlcohol: 11.62\nAsh: 2.28\nTotal phenols: 3.02\nProline: 345\nColor intensity: 3.25\nFlavanoids: 2.26\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.96\n0D280 0D315 of diluted wines: 3.26\nMalicacid: 1.35\nMagnesium: 94\nAlcohol: 11.61\nAsh: 2.7\nTotal phenols: 2.74\nProline: 680\nColor intensity: 2.65\nFlavanoids: 2.92\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.94\n0D280 0D315 of diluted wines: 2.44\nMalicacid: 1.72\nMagnesium: 86\nAlcohol: 11.82\nAsh: 1.88\nTotal phenols: 2.5\nProline: 415\nColor intensity: 2.06\nFlavanoids: 1.64\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 0.89\n0D280 0D315 of diluted wines: 2.87\nMalicacid: 1.43\nMagnesium: 108\nAlcohol: 13.72\nAsh: 2.5\nTotal phenols: 3.4\nProline: 1285\nColor intensity: 6.8\nFlavanoids: 3.67\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.82\n0D280 0D315 of diluted wines: 1.69\nMalicacid: 5.51\nMagnesium: 96\nAlcohol: 12.53\nAsh: 2.64\nTotal phenols: 1.79\nProline: 515\nColor intensity: 5\nFlavanoids: 0.6\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "1",
+        "serialization": "Hue: 1.12\n0D280 0D315 of diluted wines: 2.91\nMalicacid: 1.73\nMagnesium: 92\nAlcohol: 13.05\nAsh: 2.04\nTotal phenols: 2.72\nProline: 1150\nColor intensity: 7.2\nFlavanoids: 3.27\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.36\n0D280 0D315 of diluted wines: 3.21\nMalicacid: 1.67\nMagnesium: 88\nAlcohol: 11.65\nAsh: 2.62\nTotal phenols: 1.92\nProline: 562\nColor intensity: 2.6\nFlavanoids: 1.61\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 1.04\n0D280 0D315 of diluted wines: 3.57\nMalicacid: 1.73\nMagnesium: 85\nAlcohol: 12.51\nAsh: 1.98\nTotal phenols: 2.2\nProline: 672\nColor intensity: 2.94\nFlavanoids: 1.92\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.79\n0D280 0D315 of diluted wines: 2.57\nMalicacid: 4.3\nMagnesium: 80\nAlcohol: 12.04\nAsh: 2.38\nTotal phenols: 2.1\nProline: 580\nColor intensity: 2.6\nFlavanoids: 1.75\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "3",
+        "serialization": "Hue: 0.7\n0D280 0D315 of diluted wines: 1.56\nMalicacid: 3.91\nMagnesium: 102\nAlcohol: 13.4\nAsh: 2.48\nTotal phenols: 1.8\nProline: 750\nColor intensity: 7.3\nFlavanoids: 0.75\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " Wines from origin class 1 are likely to have Proline concentrations above 755 with 65% confidence. Wines from origin class 2 are likely to have Color Intensity below 3.5 with 59% confidence, and wines from origin class 3 are likely to have Flavanoids below 1.4 with 75% confidence.",
+        "label": "2",
+        "serialization": "Hue: 0.92\n0D280 0D315 of diluted wines: 3.12\nMalicacid: 4.43\nMagnesium: 102\nAlcohol: 12.42\nAsh: 2.73\nTotal phenols: 2.2\nProline: 365\nColor intensity: 2.08\nFlavanoids: 2.13\n"
+    }
+]

@@ -1,0 +1,1106 @@
+[
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 11.62\nA11: 1\ngreater than 200 DM: 160\nA5: 9\nA4: 1\nA10: 0\nA14: 301\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.29\nA11: 1\ngreater than 200 DM: 140\nA5: 4\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 1\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.5\nA11: 0\ngreater than 200 DM: 368\nA5: 7\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 1\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 8.5\nA11: 0\ngreater than 200 DM: 0\nA5: 8\nA4: 2\nA10: 0\nA14: 352\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 3.75\nA11: 1\ngreater than 200 DM: 40\nA5: 8\nA4: 2\nA10: 1\nA14: 155\nA9: 1\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 2.5\nA11: 0\ngreater than 200 DM: 200\nA5: 9\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 1\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 11.75\nA11: 1\ngreater than 200 DM: 180\nA5: 8\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 0.75\nA11: 0\ngreater than 200 DM: 333\nA5: 11\nA4: 2\nA10: 1\nA14: 893\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 11.5\nA11: 1\ngreater than 200 DM: 290\nA5: 9\nA4: 2\nA10: 11\nA14: 285\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 26.34\nA11: 1\ngreater than 200 DM: 0\nA5: 1\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 13.34\nA11: 1\ngreater than 200 DM: 120\nA5: 6\nA4: 1\nA10: 0\nA14: 476\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 10.25\nA11: 0\ngreater than 200 DM: 320\nA5: 8\nA4: 2\nA10: 0\nA14: 14\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 3.29\nA11: 1\ngreater than 200 DM: 140\nA5: 3\nA4: 2\nA10: 0\nA14: 3\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0\nA11: 0\ngreater than 200 DM: 45\nA5: 1\nA4: 1\nA10: 4\nA14: 2\nA9: 1\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 5\nA11: 0\ngreater than 200 DM: 550\nA5: 3\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 7.5\nA11: 0\ngreater than 200 DM: 80\nA5: 6\nA4: 2\nA10: 1\nA14: 9801\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.71\nA11: 0\ngreater than 200 DM: 400\nA5: 7\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 1\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.5\nA11: 1\ngreater than 200 DM: 100\nA5: 5\nA4: 2\nA10: 0\nA14: 28\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.25\nA11: 0\ngreater than 200 DM: 0\nA5: 9\nA4: 1\nA10: 0\nA14: 196\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 15.5\nA11: 0\ngreater than 200 DM: 120\nA5: 8\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 0.79\nA11: 1\ngreater than 200 DM: 80\nA5: 11\nA4: 1\nA10: 2\nA14: 401\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 1.75\nA11: 1\ngreater than 200 DM: 393\nA5: 10\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 1.84\nA11: 0\ngreater than 200 DM: 220\nA5: 11\nA4: 2\nA10: 5\nA14: 2504\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 2\nA11: 1\ngreater than 200 DM: 0\nA5: 7\nA4: 2\nA10: 2\nA14: 16\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 2.5\nA11: 0\ngreater than 200 DM: 160\nA5: 13\nA4: 2\nA10: 6\nA14: 2073\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 4.46\nA11: 0\ngreater than 200 DM: 80\nA5: 8\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 1\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.5\nA11: 1\ngreater than 200 DM: 100\nA5: 13\nA4: 1\nA10: 0\nA14: 21\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 0.29\nA11: 0\ngreater than 200 DM: 0\nA5: 8\nA4: 2\nA10: 20\nA14: 15001\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 8.5\nA11: 1\ngreater than 200 DM: 88\nA5: 13\nA4: 2\nA10: 1\nA14: 2001\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 6.5\nA11: 1\ngreater than 200 DM: 350\nA5: 11\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.34\nA11: 1\ngreater than 200 DM: 252\nA5: 3\nA4: 2\nA10: 0\nA14: 2198\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 3.75\nA11: 0\ngreater than 200 DM: 100\nA5: 3\nA4: 2\nA10: 0\nA14: 3\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 12\nA11: 1\ngreater than 200 DM: 120\nA5: 4\nA4: 2\nA10: 2\nA14: 6\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.25\nA11: 0\ngreater than 200 DM: 280\nA5: 8\nA4: 1\nA10: 0\nA14: 205\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.84\nA11: 0\ngreater than 200 DM: 120\nA5: 10\nA4: 2\nA10: 0\nA14: 6\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 9\nA11: 1\ngreater than 200 DM: 0\nA5: 6\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 17.75\nA11: 1\ngreater than 200 DM: 0\nA5: 1\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 10.12\nA11: 0\ngreater than 200 DM: 520\nA5: 14\nA4: 2\nA10: 6\nA14: 197\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 0.16\nA11: 1\ngreater than 200 DM: 432\nA5: 8\nA4: 1\nA10: 1\nA14: 8001\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 9.5\nA11: 1\ngreater than 200 DM: 40\nA5: 9\nA4: 2\nA10: 6\nA14: 601\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.75\nA11: 1\ngreater than 200 DM: 112\nA5: 8\nA4: 1\nA10: 0\nA14: 7\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 3.75\nA11: 1\ngreater than 200 DM: 181\nA5: 13\nA4: 2\nA10: 9\nA14: 1\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 9\nA11: 1\ngreater than 200 DM: 154\nA5: 9\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 3\nA11: 0\ngreater than 200 DM: 160\nA5: 5\nA4: 1\nA10: 0\nA14: 21\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.25\nA11: 0\ngreater than 200 DM: 200\nA5: 9\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.25\nA11: 0\ngreater than 200 DM: 200\nA5: 11\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 2.5\nA11: 1\ngreater than 200 DM: 100\nA5: 1\nA4: 2\nA10: 0\nA14: 4209\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 2.5\nA11: 0\ngreater than 200 DM: 200\nA5: 3\nA4: 1\nA10: 0\nA14: 457\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 11.58\nA11: 0\ngreater than 200 DM: 80\nA5: 13\nA4: 2\nA10: 0\nA14: 1350\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 9.62\nA11: 0\ngreater than 200 DM: 0\nA5: 10\nA4: 2\nA10: 5\nA14: 1\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.34\nA11: 0\ngreater than 200 DM: 200\nA5: 4\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 1\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 2.54\nA11: 1\ngreater than 200 DM: 180\nA5: 1\nA4: 1\nA10: 0\nA14: 61\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 2.29\nA11: 1\ngreater than 200 DM: 140\nA5: 11\nA4: 2\nA10: 7\nA14: 2385\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 2.88\nA11: 0\ngreater than 200 DM: 360\nA5: 14\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.54\nA11: 1\ngreater than 200 DM: 80\nA5: 8\nA4: 2\nA10: 1\nA14: 6\nA9: 1\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 2\nA11: 1\ngreater than 200 DM: 181\nA5: 4\nA4: 2\nA10: 2\nA14: 1\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 3.16\nA11: 1\ngreater than 200 DM: 680\nA5: 14\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 5\nA11: 0\ngreater than 200 DM: 17\nA5: 1\nA4: 2\nA10: 2\nA14: 2\nA9: 1\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.5\nA11: 0\ngreater than 200 DM: 400\nA5: 7\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 1\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 4\nA11: 1\ngreater than 200 DM: 360\nA5: 7\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 3\nA11: 0\ngreater than 200 DM: 0\nA5: 3\nA4: 1\nA10: 0\nA14: 2\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 4.04\nA11: 1\ngreater than 200 DM: 195\nA5: 3\nA4: 1\nA10: 7\nA14: 1\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 9.79\nA11: 0\ngreater than 200 DM: 0\nA5: 14\nA4: 2\nA10: 8\nA14: 1\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.58\nA11: 0\ngreater than 200 DM: 180\nA5: 8\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.16\nA11: 1\ngreater than 200 DM: 380\nA5: 11\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 5\nA11: 1\ngreater than 200 DM: 0\nA5: 13\nA4: 2\nA10: 10\nA14: 1\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.66\nA11: 0\ngreater than 200 DM: 220\nA5: 9\nA4: 2\nA10: 0\nA14: 6\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 2.54\nA11: 0\ngreater than 200 DM: 0\nA5: 1\nA4: 2\nA10: 0\nA14: 1001\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 21.5\nA11: 0\ngreater than 200 DM: 0\nA5: 10\nA4: 2\nA10: 11\nA14: 1201\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.84\nA11: 0\ngreater than 200 DM: 200\nA5: 5\nA4: 2\nA10: 1\nA14: 54\nA9: 1\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 9.25\nA11: 0\ngreater than 200 DM: 60\nA5: 11\nA4: 2\nA10: 4\nA14: 541\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.66\nA11: 1\ngreater than 200 DM: 440\nA5: 11\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 13.58\nA11: 1\ngreater than 200 DM: 0\nA5: 4\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.34\nA11: 1\ngreater than 200 DM: 340\nA5: 4\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 1.54\nA11: 0\ngreater than 200 DM: 216\nA5: 3\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 6\nA11: 0\ngreater than 200 DM: 80\nA5: 6\nA4: 2\nA10: 3\nA14: 919\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 11.5\nA11: 0\ngreater than 200 DM: 56\nA5: 3\nA4: 2\nA10: 9\nA14: 743\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 5.5\nA11: 1\ngreater than 200 DM: 228\nA5: 11\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 3\nA11: 1\ngreater than 200 DM: 396\nA5: 8\nA4: 2\nA10: 8\nA14: 4160\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 6.5\nA11: 0\ngreater than 200 DM: 0\nA5: 4\nA4: 2\nA10: 15\nA14: 11203\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 25.21\nA11: 0\ngreater than 200 DM: 760\nA5: 11\nA4: 2\nA10: 1\nA14: 91\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.58\nA11: 0\ngreater than 200 DM: 100\nA5: 1\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.75\nA11: 1\ngreater than 200 DM: 231\nA5: 4\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 5.84\nA11: 0\ngreater than 200 DM: 465\nA5: 9\nA4: 2\nA10: 0\nA14: 151\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 11.5\nA11: 1\ngreater than 200 DM: 100\nA5: 3\nA4: 2\nA10: 0\nA14: 69\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 4.16\nA11: 1\ngreater than 200 DM: 520\nA5: 14\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 10.42\nA11: 0\ngreater than 200 DM: 120\nA5: 6\nA4: 1\nA10: 0\nA14: 376\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 4\nA11: 1\ngreater than 200 DM: 120\nA5: 9\nA4: 1\nA10: 2\nA14: 1001\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.21\nA11: 0\ngreater than 200 DM: 200\nA5: 6\nA4: 2\nA10: 0\nA14: 2\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 14.79\nA11: 1\ngreater than 200 DM: 168\nA5: 6\nA4: 2\nA10: 5\nA14: 1\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 0.12\nA11: 0\ngreater than 200 DM: 240\nA5: 11\nA4: 2\nA10: 1\nA14: 769\nA9: 1\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.5\nA11: 0\ngreater than 200 DM: 288\nA5: 7\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 1\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 2.04\nA11: 1\ngreater than 200 DM: 370\nA5: 6\nA4: 1\nA10: 3\nA14: 561\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1\nA11: 0\ngreater than 200 DM: 176\nA5: 2\nA4: 1\nA10: 0\nA14: 538\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 2.54\nA11: 0\ngreater than 200 DM: 0\nA5: 8\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 0.92\nA11: 0\ngreater than 200 DM: 0\nA5: 6\nA4: 2\nA10: 4\nA14: 1584\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 4\nA11: 1\ngreater than 200 DM: 160\nA5: 8\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 1.5\nA11: 0\ngreater than 200 DM: 200\nA5: 2\nA4: 2\nA10: 6\nA14: 328\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.84\nA11: 1\ngreater than 200 DM: 240\nA5: 6\nA4: 2\nA10: 0\nA14: 118\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.16\nA11: 0\ngreater than 200 DM: 280\nA5: 4\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 1\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 2.16\nA11: 0\ngreater than 200 DM: 120\nA5: 4\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 3\nA11: 0\ngreater than 200 DM: 0\nA5: 3\nA4: 2\nA10: 0\nA14: 201\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 1.54\nA11: 1\ngreater than 200 DM: 260\nA5: 11\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 10.5\nA11: 1\ngreater than 200 DM: 154\nA5: 14\nA4: 1\nA10: 0\nA14: 33\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 2.29\nA11: 0\ngreater than 200 DM: 200\nA5: 1\nA4: 2\nA10: 0\nA14: 4\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 2.75\nA11: 1\ngreater than 200 DM: 60\nA5: 9\nA4: 2\nA10: 5\nA14: 59\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 2.71\nA11: 1\ngreater than 200 DM: 80\nA5: 7\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 1\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 3.5\nA11: 0\ngreater than 200 DM: 0\nA5: 13\nA4: 2\nA10: 7\nA14: 7060\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 19.5\nA11: 0\ngreater than 200 DM: 0\nA5: 8\nA4: 2\nA10: 16\nA14: 5001\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 2.5\nA11: 1\ngreater than 200 DM: 280\nA5: 9\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 2.16\nA11: 0\ngreater than 200 DM: 120\nA5: 8\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 3\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 6.5\nA11: 0\ngreater than 200 DM: 80\nA5: 9\nA4: 2\nA10: 7\nA14: 2955\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 10.5\nA11: 1\ngreater than 200 DM: 0\nA5: 11\nA4: 2\nA10: 7\nA14: 1\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 0\nA11: 1\ngreater than 200 DM: 500\nA5: 7\nA4: 1\nA10: 0\nA14: 2\nA9: 0\nA12: 1\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.42\nA11: 0\ngreater than 200 DM: 200\nA5: 8\nA4: 1\nA10: 1\nA14: 2\nA9: 1\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 1\nA11: 1\ngreater than 200 DM: 280\nA5: 11\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 5\nA11: 1\ngreater than 200 DM: 470\nA5: 11\nA4: 2\nA10: 6\nA14: 1\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 0.88\nA11: 1\ngreater than 200 DM: 396\nA5: 7\nA4: 2\nA10: 3\nA14: 1\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 2\nA11: 0\ngreater than 200 DM: 140\nA5: 14\nA4: 2\nA10: 4\nA14: 7545\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.84\nA11: 0\ngreater than 200 DM: 200\nA5: 7\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 1\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 3.79\nA11: 1\ngreater than 200 DM: 200\nA5: 9\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 10.66\nA11: 1\ngreater than 200 DM: 129\nA5: 11\nA4: 2\nA10: 12\nA14: 4\nA9: 1\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 0.96\nA11: 0\ngreater than 200 DM: 510\nA5: 14\nA4: 2\nA10: 0\nA14: 601\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 22.29\nA11: 1\ngreater than 200 DM: 0\nA5: 10\nA4: 2\nA10: 1\nA14: 110\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 1.04\nA11: 1\ngreater than 200 DM: 300\nA5: 8\nA4: 2\nA10: 5\nA14: 1431\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 6.5\nA11: 1\ngreater than 200 DM: 0\nA5: 8\nA4: 2\nA10: 7\nA14: 3066\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 1.12\nA11: 0\ngreater than 200 DM: 0\nA5: 14\nA4: 2\nA10: 0\nA14: 5299\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.29\nA11: 1\ngreater than 200 DM: 160\nA5: 8\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.62\nA11: 0\ngreater than 200 DM: 0\nA5: 8\nA4: 2\nA10: 0\nA14: 317\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 5\nA11: 1\ngreater than 200 DM: 0\nA5: 14\nA4: 2\nA10: 6\nA14: 1001\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.25\nA11: 0\ngreater than 200 DM: 120\nA5: 9\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 1.5\nA11: 1\ngreater than 200 DM: 372\nA5: 8\nA4: 2\nA10: 0\nA14: 123\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "1",
+        "serialization": "A3: 0.5\nA11: 0\ngreater than 200 DM: 32\nA5: 8\nA4: 2\nA10: 11\nA14: 541\nA9: 1\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 9.75\nA11: 0\ngreater than 200 DM: 140\nA5: 8\nA4: 2\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 0.34\nA11: 0\ngreater than 200 DM: 180\nA5: 13\nA4: 1\nA10: 0\nA14: 1\nA9: 0\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 10.92\nA11: 1\ngreater than 200 DM: 200\nA5: 8\nA4: 2\nA10: 2\nA14: 8\nA9: 1\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 3\nA11: 1\ngreater than 200 DM: 280\nA5: 7\nA4: 2\nA10: 1\nA14: 11\nA9: 1\nA12: 2\nA8: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict whether to approve credit card.",
+        "lift_header": "You must predict whether to approve credit card.",
+        "class_text": "Answer with one of the following: 0 | 1.",
+        "instructions": " Credit card approval is determined by evaluating the data point's similarity or proximity to the exemplar patterns that have been identified. This evaluation looks at eight features (A3, A5, A4, A10, A14, A9, A12, A8) and a single extra condition of being greater than 200 DM. If all the feature values match the exemplar pattern of data point A3 being 3.8 and A11 being 0, then the answer is 0. Similarly, if all the feature values match the exemplar pattern of data point A3 being 5.93 and A11 being 0, then the answer is 1.",
+        "label": "0",
+        "serialization": "A3: 4.25\nA11: 0\ngreater than 200 DM: 454\nA5: 11\nA4: 2\nA10: 0\nA14: 51\nA9: 0\nA12: 2\nA8: 0\n"
+    }
+]

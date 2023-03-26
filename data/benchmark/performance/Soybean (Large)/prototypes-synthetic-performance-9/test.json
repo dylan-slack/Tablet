@@ -1,0 +1,498 @@
+[
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "12",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "1",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 2\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "17",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "14",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "9",
+        "serialization": "seed discolor: 0\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 1\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "1",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 2\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "2",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "4",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 1\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "0",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "14",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "17",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "11",
+        "serialization": "seed discolor: 1\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "10",
+        "serialization": "seed discolor: 1\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "9",
+        "serialization": "seed discolor: 0\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 1\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "8",
+        "serialization": "seed discolor: 0\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 1\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "4",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 1\nshriveling: 0\nleafspots halo: 0\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "8",
+        "serialization": "seed discolor: 0\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "16",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "1",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 2\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "5",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 0\nleaf mild: 1\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "12",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "14",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "10",
+        "serialization": "seed discolor: 1\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "16",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "12",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "14",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "4",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 1\nshriveling: 0\nleafspots halo: 0\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "12",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "0",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "6",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 2\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "5",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 0\nleaf mild: 1\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "1",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 2\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "12",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "9",
+        "serialization": "seed discolor: 0\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 1\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "1",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 2\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " The class in the dataset can be determined by looking at prototypical data points. If the seed discolor, leafspot size and stem values are all high (2 or 1), then the answer is likely to be a disease with a value of 2 or 17. If the leaf mildness is high (2) but other values low (0), then the answer is 6. Leaf spots halo, int discolor and shriveling also need to be taken into account. If all values are 0, then the answer should typically be 8 or 9 depending on plant growth and shriveling.",
+        "label": "6",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 2\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    }
+]

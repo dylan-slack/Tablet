@@ -1,0 +1,498 @@
+[
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "12",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "1",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 2\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "17",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "14",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "9",
+        "serialization": "seed discolor: 0\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 1\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "1",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 2\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "2",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "4",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 1\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "0",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "14",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "17",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "11",
+        "serialization": "seed discolor: 1\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "10",
+        "serialization": "seed discolor: 1\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "9",
+        "serialization": "seed discolor: 0\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 1\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "8",
+        "serialization": "seed discolor: 0\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 1\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "4",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 1\nshriveling: 0\nleafspots halo: 0\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "8",
+        "serialization": "seed discolor: 0\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "16",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "1",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 2\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "5",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 0\nleaf mild: 1\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "12",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "14",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "10",
+        "serialization": "seed discolor: 1\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "16",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "12",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "14",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "4",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 1\nshriveling: 0\nleafspots halo: 0\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "12",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "13",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "0",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "6",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 2\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "5",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 0\nleaf mild: 1\nint discolor: 0\nshriveling: 0\nleafspots halo: 0\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "1",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 2\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "3",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 1\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "7",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "12",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "9",
+        "serialization": "seed discolor: 0\nleafspot size: 0\nstem: 0\nleaf mild: 0\nint discolor: 0\nshriveling: 0\nleafspots halo: 1\nplant growth: 0\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "1",
+        "serialization": "seed discolor: 0\nleafspot size: 2\nstem: 1\nleaf mild: 0\nint discolor: 2\nshriveling: 0\nleafspots halo: 0\nplant growth: 1\n"
+    },
+    {
+        "header": "You must follow the instructions to predict soybean disease.",
+        "lift_header": "You must predict soybean disease.",
+        "class_text": "Answer with one of the following: 0 | 1 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9.",
+        "instructions": " To predict soybean disease, look for plant-growth values of 0 or 1, int-discolor values of 1.0 or 2.0, seed-discolor values of 1.0, shriveling values of 0.0 or 1.0, stem values of 0 or 1, leafspot-size values of 0.0, 1.0, or 2.0, and leaf-mild values of 1.0 or 2.0. Depending on the combination of these values, you can accurately classify a given data point into one of 17 possible classes with 100% confidence.",
+        "label": "6",
+        "serialization": "seed discolor: 0\nleafspot size: 1\nstem: 0\nleaf mild: 2\nint discolor: 0\nshriveling: 0\nleafspots halo: 2\nplant growth: 0\n"
+    }
+]

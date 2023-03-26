@@ -1,0 +1,290 @@
+[
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.68\n0D280 0D315 of diluted wines: 1.75\nMalicacid: 3.45\nMagnesium: 106\nAlcohol: 12.96\nAsh: 2.35\nTotal phenols: 1.39\nProline: 675\nColor intensity: 5.28\nFlavanoids: 0.7\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.89\n0D280 0D315 of diluted wines: 2.06\nMalicacid: 3.17\nMagnesium: 97\nAlcohol: 13.52\nAsh: 2.72\nTotal phenols: 1.55\nProline: 520\nColor intensity: 4.35\nFlavanoids: 0.52\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "1",
+        "serialization": "Hue: 1.2\n0D280 0D315 of diluted wines: 3\nMalicacid: 1.87\nMagnesium: 102\nAlcohol: 14.38\nAsh: 2.38\nTotal phenols: 3.3\nProline: 1547\nColor intensity: 7.5\nFlavanoids: 3.64\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "1",
+        "serialization": "Hue: 0.87\n0D280 0D315 of diluted wines: 3.33\nMalicacid: 4.04\nMagnesium: 111\nAlcohol: 14.21\nAsh: 2.44\nTotal phenols: 2.85\nProline: 1080\nColor intensity: 5.24\nFlavanoids: 2.65\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 1.16\n0D280 0D315 of diluted wines: 3.14\nMalicacid: 1.81\nMagnesium: 86\nAlcohol: 12.72\nAsh: 2.2\nTotal phenols: 2.2\nProline: 714\nColor intensity: 3.9\nFlavanoids: 2.53\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.67\n0D280 0D315 of diluted wines: 1.73\nMalicacid: 3.03\nMagnesium: 97\nAlcohol: 12.45\nAsh: 2.64\nTotal phenols: 1.9\nProline: 880\nColor intensity: 7.5\nFlavanoids: 0.58\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "1",
+        "serialization": "Hue: 0.92\n0D280 0D315 of diluted wines: 3.22\nMalicacid: 1.77\nMagnesium: 93\nAlcohol: 13.39\nAsh: 2.62\nTotal phenols: 2.85\nProline: 1195\nColor intensity: 4.8\nFlavanoids: 2.94\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 0.99\n0D280 0D315 of diluted wines: 3.13\nMalicacid: 1.09\nMagnesium: 101\nAlcohol: 11.96\nAsh: 2.3\nTotal phenols: 3.38\nProline: 886\nColor intensity: 3.21\nFlavanoids: 2.14\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "1",
+        "serialization": "Hue: 1.05\n0D280 0D315 of diluted wines: 3.4\nMalicacid: 1.78\nMagnesium: 100\nAlcohol: 13.2\nAsh: 2.14\nTotal phenols: 2.65\nProline: 1050\nColor intensity: 4.38\nFlavanoids: 2.76\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 1.19\n0D280 0D315 of diluted wines: 2.48\nMalicacid: 0.9\nMagnesium: 86\nAlcohol: 13.03\nAsh: 1.71\nTotal phenols: 1.95\nProline: 392\nColor intensity: 4.6\nFlavanoids: 2.03\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 1.08\n0D280 0D315 of diluted wines: 2.27\nMalicacid: 1.83\nMagnesium: 81\nAlcohol: 12.08\nAsh: 2.32\nTotal phenols: 1.6\nProline: 480\nColor intensity: 2.4\nFlavanoids: 1.5\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "1",
+        "serialization": "Hue: 1.23\n0D280 0D315 of diluted wines: 2.82\nMalicacid: 1.59\nMagnesium: 108\nAlcohol: 14.19\nAsh: 2.48\nTotal phenols: 3.3\nProline: 1680\nColor intensity: 8.7\nFlavanoids: 3.93\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.66\n0D280 0D315 of diluted wines: 1.83\nMalicacid: 3.03\nMagnesium: 96\nAlcohol: 12.2\nAsh: 2.32\nTotal phenols: 1.25\nProline: 510\nColor intensity: 5.5\nFlavanoids: 0.49\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.85\n0D280 0D315 of diluted wines: 1.56\nMalicacid: 3.7\nMagnesium: 111\nAlcohol: 13.45\nAsh: 2.6\nTotal phenols: 1.7\nProline: 695\nColor intensity: 10.68\nFlavanoids: 0.92\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "1",
+        "serialization": "Hue: 1.25\n0D280 0D315 of diluted wines: 3\nMalicacid: 1.53\nMagnesium: 132\nAlcohol: 13.76\nAsh: 2.7\nTotal phenols: 2.95\nProline: 1235\nColor intensity: 5.4\nFlavanoids: 2.74\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 0.86\n0D280 0D315 of diluted wines: 3.3\nMalicacid: 2.55\nMagnesium: 90\nAlcohol: 12.42\nAsh: 2.27\nTotal phenols: 1.68\nProline: 315\nColor intensity: 2.7\nFlavanoids: 1.84\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "1",
+        "serialization": "Hue: 1.07\n0D280 0D315 of diluted wines: 2.75\nMalicacid: 2.02\nMagnesium: 103\nAlcohol: 14.1\nAsh: 2.4\nTotal phenols: 2.75\nProline: 1060\nColor intensity: 6.2\nFlavanoids: 2.92\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 0.8\n0D280 0D315 of diluted wines: 3.38\nMalicacid: 2.45\nMagnesium: 98\nAlcohol: 12.34\nAsh: 2.46\nTotal phenols: 2.56\nProline: 438\nColor intensity: 2.8\nFlavanoids: 2.11\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 1.15\n0D280 0D315 of diluted wines: 3.3\nMalicacid: 2.83\nMagnesium: 88\nAlcohol: 12.29\nAsh: 2.22\nTotal phenols: 2.45\nProline: 290\nColor intensity: 2.15\nFlavanoids: 2.25\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.57\n0D280 0D315 of diluted wines: 1.64\nMalicacid: 4.12\nMagnesium: 89\nAlcohol: 13.84\nAsh: 2.38\nTotal phenols: 1.8\nProline: 480\nColor intensity: 9.01\nFlavanoids: 0.83\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 1.05\n0D280 0D315 of diluted wines: 2.65\nMalicacid: 1.51\nMagnesium: 86\nAlcohol: 12\nAsh: 2.42\nTotal phenols: 1.45\nProline: 450\nColor intensity: 3.6\nFlavanoids: 1.25\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.78\n0D280 0D315 of diluted wines: 1.75\nMalicacid: 4.36\nMagnesium: 88\nAlcohol: 13.73\nAsh: 2.26\nTotal phenols: 1.28\nProline: 520\nColor intensity: 6.62\nFlavanoids: 0.47\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 0.75\n0D280 0D315 of diluted wines: 3.64\nMalicacid: 4.31\nMagnesium: 82\nAlcohol: 11.87\nAsh: 2.39\nTotal phenols: 2.86\nProline: 380\nColor intensity: 2.8\nFlavanoids: 3.03\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.74\n0D280 0D315 of diluted wines: 1.8\nMalicacid: 2.58\nMagnesium: 105\nAlcohol: 13.58\nAsh: 2.69\nTotal phenols: 1.55\nProline: 750\nColor intensity: 8.66\nFlavanoids: 0.84\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "1",
+        "serialization": "Hue: 1.02\n0D280 0D315 of diluted wines: 3.58\nMalicacid: 1.87\nMagnesium: 96\nAlcohol: 14.39\nAsh: 2.45\nTotal phenols: 2.5\nProline: 1290\nColor intensity: 5.25\nFlavanoids: 2.52\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.75\n0D280 0D315 of diluted wines: 1.51\nMalicacid: 1.24\nMagnesium: 85\nAlcohol: 12.51\nAsh: 2.25\nTotal phenols: 2\nProline: 650\nColor intensity: 5.45\nFlavanoids: 0.58\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 1.28\n0D280 0D315 of diluted wines: 3.07\nMalicacid: 1.19\nMagnesium: 151\nAlcohol: 12.21\nAsh: 1.75\nTotal phenols: 1.85\nProline: 718\nColor intensity: 2.85\nFlavanoids: 1.28\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 0.96\n0D280 0D315 of diluted wines: 2.06\nMalicacid: 1.53\nMagnesium: 80\nAlcohol: 12.69\nAsh: 2.26\nTotal phenols: 1.38\nProline: 495\nColor intensity: 3.05\nFlavanoids: 1.46\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.91\n0D280 0D315 of diluted wines: 2.05\nMalicacid: 4.95\nMagnesium: 92\nAlcohol: 13.62\nAsh: 2.35\nTotal phenols: 2\nProline: 550\nColor intensity: 4.4\nFlavanoids: 0.8\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.65\n0D280 0D315 of diluted wines: 2\nMalicacid: 3.88\nMagnesium: 112\nAlcohol: 12.25\nAsh: 2.2\nTotal phenols: 1.38\nProline: 855\nColor intensity: 8.21\nFlavanoids: 0.78\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "1",
+        "serialization": "Hue: 0.91\n0D280 0D315 of diluted wines: 3.33\nMalicacid: 1.68\nMagnesium: 101\nAlcohol: 13.9\nAsh: 2.12\nTotal phenols: 3.1\nProline: 985\nColor intensity: 6.1\nFlavanoids: 3.39\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 0.96\n0D280 0D315 of diluted wines: 2.52\nMalicacid: 2.89\nMagnesium: 112\nAlcohol: 11.84\nAsh: 2.23\nTotal phenols: 1.72\nProline: 500\nColor intensity: 2.65\nFlavanoids: 1.32\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "1",
+        "serialization": "Hue: 1.15\n0D280 0D315 of diluted wines: 2.9\nMalicacid: 1.73\nMagnesium: 89\nAlcohol: 13.75\nAsh: 2.41\nTotal phenols: 2.6\nProline: 1320\nColor intensity: 5.6\nFlavanoids: 2.76\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "2",
+        "serialization": "Hue: 1.1\n0D280 0D315 of diluted wines: 2.31\nMalicacid: 0.74\nMagnesium: 88\nAlcohol: 11.41\nAsh: 2.5\nTotal phenols: 2.48\nProline: 434\nColor intensity: 3.08\nFlavanoids: 2.01\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.72\n0D280 0D315 of diluted wines: 1.75\nMalicacid: 3.37\nMagnesium: 88\nAlcohol: 12.82\nAsh: 2.3\nTotal phenols: 1.48\nProline: 685\nColor intensity: 10.26\nFlavanoids: 0.66\n"
+    },
+    {
+        "header": "You must follow the instructions to predict the origin of wines.",
+        "lift_header": "You must predict the origin of wines.",
+        "class_text": "Answer with one of the following: 1 | 2 | 3.",
+        "instructions": " When predicting the origin of a wine, you can use Proline to look for values greater than 755 to determine whether a wine is class 1 with 65% confidence. You can also use Color intensity to look for values less than 3.5 to detect class 2 wines with 59% confidence. Finally, checking the Flavanoids value of the wine can help determine class 3 origin with 75% confidence when values are below 1.4.",
+        "label": "3",
+        "serialization": "Hue: 0.77\n0D280 0D315 of diluted wines: 2.31\nMalicacid: 2.81\nMagnesium: 96\nAlcohol: 12.93\nAsh: 2.7\nTotal phenols: 1.54\nProline: 600\nColor intensity: 4.6\nFlavanoids: 0.5\n"
+    }
+]

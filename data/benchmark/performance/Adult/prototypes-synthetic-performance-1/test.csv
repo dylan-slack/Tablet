@@ -1,0 +1,1001 @@
+,workclass,hours-per-week,sex,age,occupation,capital-loss,education,capital-gain,marital-status,relationship,y_temp
+10014, Private,40, Female,24, Sales,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+32551, Private,40, Male,32, Handlers-cleaners,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+32062, ?,40, Male,26, ?,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+20359, Private,40, Male,41, Farming-fishing,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+25555, State-gov,40, Male,43, Exec-managerial,0, Some-college,0, Divorced, Unmarried,less than or equal to 50K
+8335, Private,30, Female,27, Other-service,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+6656, Private,20, Female,18, Adm-clerical,0, 11th,0, Never-married, Own-child,less than or equal to 50K
+2953, Private,60, Male,45, Exec-managerial,1977, Masters,0, Married-civ-spouse, Husband,greater than 50K
+7834, Private,78, Male,38, Craft-repair,0, 7th-8th,3781, Married-civ-spouse, Husband,less than or equal to 50K
+21517, Private,43, Male,31, Tech-support,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+19732, Private,56, Male,24, Adm-clerical,0, Masters,0, Never-married, Not-in-family,less than or equal to 50K
+12246, Private,40, Male,50, Transport-moving,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+16223, Private,35, Female,30, Other-service,0, HS-grad,0, Separated, Not-in-family,less than or equal to 50K
+9249, Private,16, Female,19, Other-service,0, HS-grad,0, Married-civ-spouse, Wife,less than or equal to 50K
+15266, ?,15, Male,18, ?,0, 11th,0, Never-married, Own-child,less than or equal to 50K
+9885, Private,40, Male,23, Machine-op-inspct,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+26056, Private,50, Male,25, Exec-managerial,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+12099, Private,40, Male,38, Adm-clerical,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+6001, Private,38, Female,48, Sales,0, Bachelors,0, Never-married, Other-relative,greater than 50K
+6032, Private,35, Female,27, Adm-clerical,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+2517, Private,40, Male,43, Prof-specialty,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+25738, Private,45, Female,39, Adm-clerical,0, Some-college,13550, Never-married, Not-in-family,greater than 50K
+3727, Private,36, Female,30, Prof-specialty,0, Assoc-voc,0, Married-civ-spouse, Wife,greater than 50K
+27814, Private,45, Male,28, Sales,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+1160, Private,40, Male,44, Craft-repair,0, Assoc-voc,3411, Married-civ-spouse, Husband,less than or equal to 50K
+8900, ?,40, Male,64, ?,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+15618, Local-gov,60, Male,37, Prof-specialty,0, Prof-school,0, Married-civ-spouse, Husband,greater than 50K
+10496, Federal-gov,40, Male,62, Prof-specialty,0, Some-college,0, Never-married, Not-in-family,greater than 50K
+28406, Self-emp-not-inc,50, Male,66, Farming-fishing,0, 7th-8th,0, Widowed, Unmarried,less than or equal to 50K
+29601, ?,20, Male,65, ?,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+2814, Private,40, Male,27, Sales,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+11284, Private,40, Male,36, Other-service,0, HS-grad,0, Married-spouse-absent, Not-in-family,less than or equal to 50K
+30987, Private,37, Male,18, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+12009, Self-emp-inc,40, Male,40, Tech-support,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+15261, Private,40, Male,44, Prof-specialty,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+3468, Private,40, Female,40, Exec-managerial,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+29517, State-gov,15, Female,19, Adm-clerical,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+4663, Private,40, Female,35, Machine-op-inspct,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+1311, Private,50, Male,34, Adm-clerical,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+19428, Private,40, Female,41, Priv-house-serv,0, 9th,0, Never-married, Unmarried,less than or equal to 50K
+15029, Local-gov,16, Female,28, Adm-clerical,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+13106, Local-gov,35, Female,34, Prof-specialty,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+7908, Private,45, Male,33, Prof-specialty,0, Masters,0, Married-civ-spouse, Husband,less than or equal to 50K
+1127, Federal-gov,40, Male,63, Handlers-cleaners,0, HS-grad,0, Widowed, Not-in-family,less than or equal to 50K
+4580, Private,40, Male,22, Other-service,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+9404, Self-emp-not-inc,40, Male,54, Sales,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+29085, Private,40, Male,20, Transport-moving,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+8061, Private,35, Male,33, Machine-op-inspct,0, 9th,0, Divorced, Not-in-family,less than or equal to 50K
+23578, Private,40, Male,56, Sales,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+27598, Private,54, Male,24, Prof-specialty,0, Some-college,0, Separated, Own-child,less than or equal to 50K
+15033, Private,40, Male,55, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+30330, Local-gov,40, Male,28, Protective-serv,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+1328, Private,20, Female,24, Sales,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+20798, Federal-gov,40, Male,49, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+29088, Private,48, Male,38, Craft-repair,0, HS-grad,4386, Married-civ-spouse, Husband,less than or equal to 50K
+7733, Private,40, Female,33, Exec-managerial,0, Assoc-voc,0, Never-married, Unmarried,less than or equal to 50K
+2174, Private,12, Male,17, Handlers-cleaners,0, 10th,0, Never-married, Own-child,less than or equal to 50K
+23885, Private,40, Female,40, Exec-managerial,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+14032, Private,84, Male,52, Craft-repair,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+2486, Private,40, Male,19, Machine-op-inspct,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+25461, Private,40, Male,38, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+27700, Private,40, Female,44, Other-service,0, 11th,0, Never-married, Not-in-family,less than or equal to 50K
+2302, Private,60, Male,26, Tech-support,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+8415, Private,30, Female,20, Sales,0, Bachelors,0, Never-married, Other-relative,less than or equal to 50K
+10382, State-gov,20, Male,22, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+30156, ?,5, Male,32, ?,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+3790, Private,45, Male,28, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+26081, ?,8, Female,40, ?,0, 7th-8th,0, Separated, Not-in-family,less than or equal to 50K
+15529, Self-emp-not-inc,25, Male,45, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+8814, Private,60, Male,34, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+5804, State-gov,10, Female,20, Adm-clerical,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+3886, Private,25, Female,19, Adm-clerical,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+18004, State-gov,40, Male,46, Other-service,0, HS-grad,7298, Married-civ-spouse, Husband,greater than 50K
+5007, Self-emp-not-inc,40, Male,63, Sales,0, Bachelors,10605, Married-civ-spouse, Husband,greater than 50K
+32074, Private,35, Female,30, Tech-support,0, Assoc-voc,0, Married-civ-spouse, Wife,less than or equal to 50K
+15980, Private,40, Male,33, Machine-op-inspct,0, Assoc-voc,0, Married-civ-spouse, Husband,less than or equal to 50K
+10046, Local-gov,48, Male,50, Protective-serv,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+2582, Private,50, Male,28, Craft-repair,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+18358, ?,3, Male,72, ?,0, Some-college,0, Married-spouse-absent, Not-in-family,less than or equal to 50K
+1604, State-gov,40, Male,46, Tech-support,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+19553, Self-emp-not-inc,5, Male,52, Adm-clerical,0, Some-college,0, Never-married, Unmarried,less than or equal to 50K
+646, Private,25, Female,20, Other-service,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+12988, Self-emp-not-inc,40, Male,28, Farming-fishing,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+5033, Self-emp-inc,50, Male,42, Prof-specialty,1977, Prof-school,0, Married-civ-spouse, Husband,greater than 50K
+26264, Private,40, Male,29, Machine-op-inspct,0, Assoc-voc,0, Married-civ-spouse, Husband,less than or equal to 50K
+13001, Private,15, Male,17, Other-service,0, 10th,0, Never-married, Own-child,less than or equal to 50K
+22035, Private,40, Male,52, Transport-moving,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+14193, Private,60, Male,35, Prof-specialty,0, Prof-school,15024, Married-civ-spouse, Husband,greater than 50K
+3668, Private,38, Male,45, Transport-moving,0, 5th-6th,0, Married-civ-spouse, Husband,less than or equal to 50K
+8060, Private,20, Female,34, Adm-clerical,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+27156, Self-emp-not-inc,40, Male,34, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+31634, Private,25, Male,29, Other-service,0, HS-grad,0, Married-civ-spouse, Own-child,less than or equal to 50K
+6124, Private,18, Female,17, Priv-house-serv,0, 12th,0, Never-married, Own-child,less than or equal to 50K
+9137, Private,26, Male,66, Sales,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+15929, Private,40, Male,32, Prof-specialty,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+11098, Local-gov,40, Male,30, Protective-serv,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+19875, Private,50, Male,32, Sales,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+19836, Private,40, Female,34, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Wife,less than or equal to 50K
+3860, Private,40, Male,43, Sales,1887, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+31957, Private,30, Female,26, Other-service,0, HS-grad,0, Married-civ-spouse, Wife,less than or equal to 50K
+31641, Private,30, Female,26, Other-service,0, 7th-8th,0, Never-married, Unmarried,less than or equal to 50K
+27003, Self-emp-inc,70, Male,43, Exec-managerial,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+4726, Private,45, Male,31, Transport-moving,1579, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+2317, Self-emp-inc,47, Male,58, Sales,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+8310, Private,50, Female,39, Adm-clerical,0, Assoc-voc,0, Divorced, Unmarried,less than or equal to 50K
+9396, Private,45, Male,35, Handlers-cleaners,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+23383, Private,30, Male,30, Transport-moving,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+6780, Private,38, Female,19, Adm-clerical,0, Some-college,0, Never-married, Other-relative,less than or equal to 50K
+12464, Private,40, Male,27, Sales,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+7352, ?,60, Male,18, ?,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+12064, Private,48, Male,51, Handlers-cleaners,0, Some-college,3464, Married-civ-spouse, Husband,less than or equal to 50K
+12853, ?,6, Male,37, ?,0, Prof-school,0, Married-civ-spouse, Husband,less than or equal to 50K
+17547, Private,14, Male,52, Sales,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+28856, Private,38, Female,32, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+5675, State-gov,40, Female,38, Prof-specialty,0, Bachelors,0, Divorced, Not-in-family,less than or equal to 50K
+10506, Private,40, Male,28, Machine-op-inspct,0, 12th,0, Married-civ-spouse, Husband,less than or equal to 50K
+5315, Local-gov,45, Male,33, Adm-clerical,0, Some-college,3103, Married-civ-spouse, Husband,greater than 50K
+12598, Self-emp-not-inc,65, Male,33, Sales,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+4638, Private,38, Female,29, Exec-managerial,0, Assoc-acdm,0, Never-married, Other-relative,less than or equal to 50K
+4234, Private,30, Female,31, Exec-managerial,0, Some-college,0, Widowed, Unmarried,less than or equal to 50K
+12767, Private,20, Female,20, Prof-specialty,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+19214, Private,40, Male,41, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+27557, Private,50, Male,36, Transport-moving,0, HS-grad,0, Never-married, Other-relative,less than or equal to 50K
+15736, Federal-gov,40, Male,33, Transport-moving,0, Masters,0, Married-civ-spouse, Husband,less than or equal to 50K
+25008, Private,40, Male,46, Machine-op-inspct,0, Assoc-voc,0, Divorced, Unmarried,less than or equal to 50K
+6750, Private,40, Female,37, Exec-managerial,0, Bachelors,0, Married-spouse-absent, Not-in-family,less than or equal to 50K
+1811, Private,44, Male,34, Prof-specialty,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+2357, Private,40, Male,47, Other-service,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+6912, Self-emp-not-inc,50, Male,49, Farming-fishing,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+30477, Private,45, Male,44, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+8876, Private,50, Male,38, Craft-repair,0, Masters,0, Married-civ-spouse, Husband,less than or equal to 50K
+14942, Private,22, Female,64, Adm-clerical,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+31907, Private,40, Male,48, Prof-specialty,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+6341, Private,40, Female,36, Adm-clerical,0, Bachelors,0, Divorced, Unmarried,less than or equal to 50K
+2233, Private,50, Male,33, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+769, Private,40, Male,32, Machine-op-inspct,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+11312, Private,40, Male,42, Adm-clerical,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+9305, Private,40, Male,28, Other-service,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+22760, Private,40, Male,34, Machine-op-inspct,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+24029, Self-emp-not-inc,60, Male,43, Handlers-cleaners,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+31025, Private,40, Male,61, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+11188, State-gov,50, Male,25, Craft-repair,0, Some-college,0, Married-civ-spouse, Own-child,greater than 50K
+13297, Private,40, Male,39, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+4924, Private,40, Male,22, Handlers-cleaners,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+15071, Private,40, Male,39, Exec-managerial,0, HS-grad,14344, Separated, Not-in-family,greater than 50K
+1389, Self-emp-inc,40, Male,69, Sales,0, Assoc-acdm,0, Married-civ-spouse, Husband,greater than 50K
+29916, Private,24, Female,43, Prof-specialty,0, Bachelors,0, Divorced, Unmarried,less than or equal to 50K
+1787, Private,40, Male,39, Exec-managerial,0, Masters,15024, Married-civ-spouse, Husband,greater than 50K
+12616, Private,40, Male,49, Craft-repair,0, 5th-6th,0, Married-civ-spouse, Husband,less than or equal to 50K
+18325, Private,20, Female,28, Transport-moving,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+16125, Private,40, Male,24, Tech-support,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+25754, Private,40, Male,20, Transport-moving,0, 11th,0, Never-married, Other-relative,less than or equal to 50K
+26674, Private,60, Male,42, Sales,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+19141, Private,99, Female,59, Other-service,0, 7th-8th,0, Married-civ-spouse, Wife,less than or equal to 50K
+30047, Federal-gov,40, Female,32, Exec-managerial,1380, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+14734, Private,60, Male,30, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+12457, Private,50, Male,23, Tech-support,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+542, Private,40, Female,37, Exec-managerial,0, Bachelors,0, Divorced, Not-in-family,greater than 50K
+29081, Local-gov,40, Female,37, Adm-clerical,0, Some-college,0, Married-spouse-absent, Unmarried,less than or equal to 50K
+4310, Private,40, Male,39, Sales,0, Bachelors,0, Divorced, Not-in-family,less than or equal to 50K
+24327, Self-emp-not-inc,25, Female,48, Exec-managerial,0, Assoc-voc,0, Married-civ-spouse, Wife,greater than 50K
+5877, Private,20, Male,20, Handlers-cleaners,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+13449, Private,40, Female,59, Adm-clerical,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+25443, Private,40, Female,44, Adm-clerical,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+1730, Private,90, Male,24, Exec-managerial,0, Masters,6849, Never-married, Own-child,less than or equal to 50K
+31858, Private,50, Male,35, Sales,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+5345, Private,53, Male,30, Handlers-cleaners,0, Assoc-voc,0, Married-civ-spouse, Husband,less than or equal to 50K
+6607, Private,50, Male,45, Machine-op-inspct,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+23592, ?,40, Male,62, ?,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+17364, Private,40, Male,43, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+4022, Self-emp-inc,99, Female,31, Prof-specialty,0, Prof-school,0, Married-civ-spouse, Wife,greater than 50K
+10984, Private,12, Male,64, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+20639, Self-emp-not-inc,40, Male,38, Handlers-cleaners,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+26798, Private,35, Male,20, Handlers-cleaners,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+15717, Private,40, Female,18, Exec-managerial,0, HS-grad,0, Never-married, Other-relative,less than or equal to 50K
+3439, Private,55, Female,50, Exec-managerial,0, Assoc-voc,0, Widowed, Unmarried,less than or equal to 50K
+13054, Private,50, Female,40, Prof-specialty,0, Masters,15024, Married-civ-spouse, Wife,greater than 50K
+9427, Private,41, Male,38, Prof-specialty,0, Bachelors,0, Never-married, Not-in-family,greater than 50K
+24038, Private,70, Male,28, Tech-support,1887, Assoc-acdm,0, Married-civ-spouse, Husband,greater than 50K
+16528, Private,20, Female,36, Other-service,0, HS-grad,0, Widowed, Unmarried,less than or equal to 50K
+2491, Private,40, Male,33, Prof-specialty,0, Masters,15024, Married-civ-spouse, Husband,greater than 50K
+19432, Private,40, Male,24, Other-service,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+3385, Private,40, Male,44, Transport-moving,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+1350, Private,50, Male,34, Prof-specialty,0, Some-college,0, Never-married, Not-in-family,greater than 50K
+22998, Private,50, Male,41, Exec-managerial,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+15987, Private,40, Female,18, Other-service,0, 10th,0, Never-married, Other-relative,less than or equal to 50K
+6023, Private,40, Male,34, Handlers-cleaners,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+16359, Self-emp-not-inc,60, Male,30, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+10273, Private,40, Male,22, Sales,0, HS-grad,0, Divorced, Own-child,less than or equal to 50K
+17253, Private,98, Male,24, Farming-fishing,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+14930, State-gov,15, Male,48, Exec-managerial,0, Assoc-voc,0, Married-civ-spouse, Husband,greater than 50K
+2679, Private,40, Female,64, Tech-support,0, Some-college,0, Widowed, Unmarried,less than or equal to 50K
+8010, State-gov,40, Male,41, Adm-clerical,0, HS-grad,3464, Married-civ-spouse, Husband,less than or equal to 50K
+20487, Private,25, Male,46, Other-service,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+3154, Private,65, Male,36, Sales,0, Bachelors,15024, Married-civ-spouse, Husband,greater than 50K
+15511, Private,20, Female,18, Adm-clerical,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+30894, Private,40, Male,20, Handlers-cleaners,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+6543, Private,40, Male,31, Exec-managerial,0, HS-grad,7688, Married-civ-spouse, Husband,greater than 50K
+4827, Self-emp-inc,54, Male,34, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+15781, ?,40, Female,21, ?,0, HS-grad,0, Married-civ-spouse, Other-relative,less than or equal to 50K
+26446, Private,40, Male,21, Adm-clerical,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+2454, Private,37, Female,48, Adm-clerical,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+4415, Self-emp-not-inc,40, Male,38, Craft-repair,0, 9th,0, Divorced, Not-in-family,less than or equal to 50K
+5961, Private,36, Female,24, Craft-repair,0, HS-grad,0, Married-civ-spouse, Wife,less than or equal to 50K
+6297, Local-gov,50, Female,45, Prof-specialty,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+11706, Private,45, Male,38, Adm-clerical,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+22333, Self-emp-not-inc,60, Male,42, Farming-fishing,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+5664, Self-emp-not-inc,60, Male,43, Sales,0, Masters,0, Married-civ-spouse, Husband,less than or equal to 50K
+11558, Private,40, Female,26, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Wife,less than or equal to 50K
+26617, Self-emp-not-inc,50, Male,33, Craft-repair,0, HS-grad,0, Separated, Unmarried,less than or equal to 50K
+9230, Self-emp-not-inc,50, Male,38, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+5084, Private,60, Female,41, Sales,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+28881, Private,40, Male,45, Prof-specialty,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+9126, Private,55, Male,68, Prof-specialty,0, Doctorate,20051, Married-civ-spouse, Husband,greater than 50K
+10682, Private,15, Female,18, Sales,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+8006, Federal-gov,50, Male,37, Tech-support,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+8149, Private,84, Male,22, Transport-moving,0, 10th,0, Never-married, Not-in-family,less than or equal to 50K
+6737, Private,40, Male,42, Other-service,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+23730, Private,40, Female,44, Transport-moving,0, 12th,0, Divorced, Not-in-family,less than or equal to 50K
+1420, Private,40, Male,47, Craft-repair,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+28512, Private,40, Female,26, Other-service,0, Bachelors,0, Never-married, Other-relative,less than or equal to 50K
+22937, Private,45, Female,39, Prof-specialty,0, Some-college,0, Divorced, Not-in-family,greater than 50K
+15230, Private,50, Male,54, Sales,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+12634, Private,50, Female,34, Exec-managerial,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+8913, Private,52, Male,45, Prof-specialty,1977, Masters,0, Married-civ-spouse, Husband,greater than 50K
+410, Private,40, Female,36, Transport-moving,0, 11th,0, Divorced, Unmarried,less than or equal to 50K
+13030, Private,13, Female,21, Sales,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+5977, ?,50, Male,29, ?,0, Doctorate,0, Married-civ-spouse, Husband,greater than 50K
+10381, Private,40, Male,38, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+5898, Private,40, Male,65, Craft-repair,0, HS-grad,1848, Widowed, Not-in-family,less than or equal to 50K
+7453, Private,35, Female,31, Sales,0, Some-college,0, Divorced, Own-child,less than or equal to 50K
+13648, Private,40, Female,36, Prof-specialty,0, Masters,0, Married-civ-spouse, Wife,greater than 50K
+13887, Private,40, Male,28, Handlers-cleaners,0, Assoc-acdm,0, Married-civ-spouse, Husband,less than or equal to 50K
+27184, Private,40, Female,23, Other-service,0, Some-college,0, Never-married, Other-relative,less than or equal to 50K
+14668, Private,40, Male,30, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+4153, Self-emp-inc,60, Male,47, Sales,0, Bachelors,3325, Never-married, Not-in-family,less than or equal to 50K
+3752, Private,35, Male,24, Other-service,0, 11th,0, Never-married, Other-relative,less than or equal to 50K
+9345, Private,45, Male,49, Exec-managerial,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+22427, Private,40, Male,34, Transport-moving,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+27631, Private,20, Male,18, Handlers-cleaners,0, 12th,0, Never-married, Own-child,less than or equal to 50K
+878, Private,40, Male,58, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+11134, Private,40, Female,32, Machine-op-inspct,0, Preschool,4508, Married-civ-spouse, Wife,less than or equal to 50K
+31323, Private,40, Male,23, Exec-managerial,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+19856, Private,40, Female,29, Prof-specialty,0, Assoc-acdm,8614, Never-married, Not-in-family,greater than 50K
+7788, Private,42, Male,28, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+6235, Federal-gov,60, Female,39, Prof-specialty,0, HS-grad,0, Widowed, Unmarried,less than or equal to 50K
+16192, Private,40, Female,26, Prof-specialty,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+2698, Self-emp-not-inc,40, Male,50, Farming-fishing,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+6126, Private,40, Male,35, Exec-managerial,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+22113, Private,40, Female,33, Other-service,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+6813, Private,40, Male,22, Handlers-cleaners,0, HS-grad,0, Divorced, Own-child,less than or equal to 50K
+14426, Local-gov,40, Male,35, Protective-serv,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+3488, Private,45, Female,26, Sales,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+20665, Private,40, Male,25, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+22824, Private,40, Female,35, Prof-specialty,0, HS-grad,0, Separated, Other-relative,less than or equal to 50K
+14702, Private,40, Male,41, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+12098, ?,30, Male,35, ?,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+30659, Private,25, Female,72, Adm-clerical,0, Some-college,0, Widowed, Not-in-family,less than or equal to 50K
+14479, Private,40, Male,56, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+10166, State-gov,40, Male,55, Protective-serv,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+14343, Self-emp-inc,45, Male,64, Sales,0, Bachelors,0, Divorced, Not-in-family,less than or equal to 50K
+31018, ?,40, Male,21, ?,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+17774, Private,40, Female,33, Other-service,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+19263, Private,50, Female,56, Prof-specialty,0, Bachelors,0, Divorced, Unmarried,less than or equal to 50K
+859, Private,56, Female,49, Exec-managerial,0, Bachelors,0, Never-married, Not-in-family,greater than 50K
+27247, State-gov,50, Male,59, Exec-managerial,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+25854, Self-emp-not-inc,30, Male,42, Sales,0, 7th-8th,0, Married-civ-spouse, Husband,less than or equal to 50K
+9978, Private,40, Male,47, Sales,1876, HS-grad,0, Divorced, Own-child,less than or equal to 50K
+15796, ?,10, Male,63, ?,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+3429, Private,50, Male,30, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+11272, Private,50, Male,40, Machine-op-inspct,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+15932, Private,20, Female,22, Sales,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+24059, Private,30, Female,19, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+1891, Private,40, Female,25, Sales,0, Some-college,0, Married-spouse-absent, Not-in-family,less than or equal to 50K
+17028, Private,32, Female,43, Tech-support,1902, Assoc-voc,0, Married-civ-spouse, Wife,greater than 50K
+8499, Self-emp-not-inc,45, Male,41, Prof-specialty,0, Prof-school,0, Married-civ-spouse, Husband,greater than 50K
+8854, Private,60, Male,37, Sales,0, HS-grad,15024, Married-civ-spouse, Husband,greater than 50K
+2603, Self-emp-not-inc,50, Female,51, Prof-specialty,0, Assoc-acdm,0, Widowed, Unmarried,less than or equal to 50K
+3846, Private,40, Female,29, Adm-clerical,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+1727, Private,45, Male,29, Sales,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+10107, Private,60, Male,31, Adm-clerical,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+31631, Private,50, Male,45, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+11653, Self-emp-not-inc,17, Male,66, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+16486, Private,40, Male,51, Farming-fishing,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+1878, Private,35, Male,26, Craft-repair,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+16374, Private,40, Female,32, Sales,0, HS-grad,0, Married-civ-spouse, Wife,less than or equal to 50K
+3559, Private,40, Male,23, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+8083, Private,40, Male,40, Other-service,1485, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+31947, Private,40, Female,68, Sales,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+6598, Private,40, Male,43, Machine-op-inspct,0, HS-grad,4386, Married-civ-spouse, Husband,greater than 50K
+7396, Private,40, Male,47, Sales,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+8558, Private,40, Male,28, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+22826, Private,40, Male,21, Machine-op-inspct,0, HS-grad,0, Never-married, Other-relative,less than or equal to 50K
+31780, Private,40, Male,62, Sales,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+2607, Self-emp-not-inc,48, Male,31, Craft-repair,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+6693, Private,90, Male,42, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+14387, Federal-gov,40, Female,24, Exec-managerial,0, Assoc-acdm,0, Married-civ-spouse, Wife,less than or equal to 50K
+5050, Private,48, Male,52, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+9772, Self-emp-not-inc,40, Male,46, Tech-support,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+28897, Private,40, Male,31, Tech-support,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+9719, Federal-gov,40, Female,48, Adm-clerical,0, Assoc-acdm,0, Separated, Unmarried,less than or equal to 50K
+1939, Local-gov,40, Female,26, Adm-clerical,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+24964, Private,40, Female,44, Other-service,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+8910, Private,40, Male,21, Other-service,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+29646, State-gov,30, Female,37, Prof-specialty,0, Some-college,0, Divorced, Unmarried,less than or equal to 50K
+16030, Private,40, Male,24, Machine-op-inspct,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+21123, Private,40, Male,28, Transport-moving,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+15579, Private,40, Male,30, Sales,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+3681, State-gov,40, Female,26, Exec-managerial,0, Assoc-voc,0, Divorced, Unmarried,less than or equal to 50K
+6367, Private,30, Female,25, Adm-clerical,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+24091, Private,40, Female,25, Exec-managerial,0, Bachelors,3325, Never-married, Not-in-family,less than or equal to 50K
+8656, Self-emp-not-inc,45, Male,36, Other-service,0, Bachelors,0, Divorced, Unmarried,greater than 50K
+8710, ?,40, Male,19, ?,0, Some-college,0, Never-married, Other-relative,less than or equal to 50K
+18081, Private,40, Male,31, Other-service,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+12771, Local-gov,56, Male,44, Protective-serv,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+21912, Private,56, Male,44, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+27394, Private,40, Female,35, Machine-op-inspct,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+2756, Local-gov,60, Male,43, Exec-managerial,1977, Masters,0, Married-civ-spouse, Husband,greater than 50K
+8727, Private,30, Female,23, Adm-clerical,0, Assoc-voc,0, Divorced, Not-in-family,less than or equal to 50K
+22758, Self-emp-not-inc,60, Male,36, Craft-repair,0, Prof-school,0, Married-civ-spouse, Husband,less than or equal to 50K
+9119, Self-emp-not-inc,60, Male,33, Craft-repair,1590, Bachelors,0, Divorced, Not-in-family,less than or equal to 50K
+3781, Private,40, Female,64, Exec-managerial,0, Bachelors,0, Divorced, Not-in-family,less than or equal to 50K
+7516, Federal-gov,40, Male,53, Adm-clerical,0, HS-grad,7298, Married-civ-spouse, Husband,greater than 50K
+4434, Federal-gov,9, Male,25, Exec-managerial,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+21585, Private,40, Female,27, Adm-clerical,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+9718, Private,40, Female,40, Machine-op-inspct,0, HS-grad,0, Divorced, Own-child,less than or equal to 50K
+23134, Self-emp-inc,60, Male,60, Sales,0, 7th-8th,0, Married-civ-spouse, Husband,less than or equal to 50K
+13017, Private,40, Female,27, Sales,0, Some-college,0, Divorced, Unmarried,less than or equal to 50K
+11801, Self-emp-not-inc,60, Male,52, Exec-managerial,0, HS-grad,0, Separated, Not-in-family,less than or equal to 50K
+31202, Private,40, Male,27, Other-service,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+13027, State-gov,40, Male,53, Handlers-cleaners,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+2516, Private,40, Male,24, Prof-specialty,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+8370, Self-emp-inc,50, Male,56, Craft-repair,0, 7th-8th,0, Married-civ-spouse, Husband,greater than 50K
+23756, Private,50, Male,34, Sales,1977, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+13392, Private,40, Male,57, Machine-op-inspct,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+4951, Private,60, Male,40, Sales,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+7537, Private,40, Female,18, Adm-clerical,0, Some-college,0, Married-spouse-absent, Other-relative,less than or equal to 50K
+26307, Local-gov,40, Female,34, Prof-specialty,0, Masters,0, Separated, Unmarried,less than or equal to 50K
+31462, Private,50, Male,42, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+21878, Private,50, Male,37, Craft-repair,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+1625, Self-emp-not-inc,35, Male,61, Prof-specialty,0, Prof-school,0, Married-civ-spouse, Husband,greater than 50K
+1454, Private,40, Male,58, Adm-clerical,0, Bachelors,3325, Divorced, Not-in-family,less than or equal to 50K
+15173, State-gov,70, Male,54, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+11859, Private,30, Female,30, Sales,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+12151, Private,40, Male,25, Craft-repair,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+3570, Private,40, Male,35, Machine-op-inspct,0, 7th-8th,0, Married-civ-spouse, Husband,less than or equal to 50K
+26508, Private,40, Male,25, Transport-moving,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+11289, Private,40, Male,23, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+24288, Private,45, Male,33, Craft-repair,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+6528, Local-gov,90, Male,28, Sales,1669, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+25715, Local-gov,40, Male,35, Protective-serv,0, Assoc-acdm,0, Married-civ-spouse, Husband,greater than 50K
+3729, Private,50, Male,56, Farming-fishing,0, HS-grad,0, Never-married, Not-in-family,greater than 50K
+9884, Self-emp-inc,80, Male,50, Exec-managerial,0, Masters,0, Divorced, Not-in-family,greater than 50K
+14114, Private,40, Male,33, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+26961, Private,30, Female,48, Adm-clerical,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+10101, Private,60, Male,56, Exec-managerial,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+24959, Private,35, Female,43, Adm-clerical,0, HS-grad,0, Married-civ-spouse, Wife,greater than 50K
+5926, Private,40, Male,42, Prof-specialty,0, Masters,4650, Divorced, Not-in-family,less than or equal to 50K
+19808, Private,40, Female,32, Machine-op-inspct,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+13441, Private,40, Male,32, Craft-repair,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+5868, Private,20, Female,33, Sales,0, 11th,0, Separated, Own-child,less than or equal to 50K
+12351, ?,20, Female,22, ?,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+15688, Private,40, Male,32, Craft-repair,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+1429, Private,40, Male,57, Transport-moving,1887, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+3977, ?,40, Male,29, ?,0, HS-grad,2407, Married-civ-spouse, Husband,less than or equal to 50K
+18726, Private,40, Female,20, Adm-clerical,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+24626, Self-emp-not-inc,42, Male,37, Other-service,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+28348, Self-emp-inc,48, Male,59, Exec-managerial,1977, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+10488, Private,40, Male,31, Farming-fishing,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+7338, Private,48, Male,24, Handlers-cleaners,0, Assoc-acdm,0, Married-civ-spouse, Husband,less than or equal to 50K
+7926, Private,30, Female,18, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+20472, Private,40, Female,28, Protective-serv,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+9918, Private,40, Male,64, Machine-op-inspct,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+6443, Self-emp-not-inc,50, Male,51, Farming-fishing,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+16003, Self-emp-not-inc,15, Male,80, Farming-fishing,0, 7th-8th,0, Married-spouse-absent, Unmarried,less than or equal to 50K
+905, Private,38, Female,46, Machine-op-inspct,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+13984, Private,13, Female,19, Other-service,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+12800, Private,40, Male,50, Sales,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+20279, Private,25, Male,21, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+19247, Private,50, Male,50, Exec-managerial,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+20268, Private,50, Male,52, Craft-repair,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+4233, ?,40, Female,28, ?,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+335, Private,40, Female,19, Sales,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+28329, State-gov,40, Male,25, Protective-serv,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+32030, Private,30, Female,20, Other-service,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+31056, Private,60, Female,31, Exec-managerial,1564, Bachelors,0, Never-married, Not-in-family,greater than 50K
+4570, Private,27, Female,58, Adm-clerical,0, HS-grad,0, Widowed, Not-in-family,less than or equal to 50K
+11176, Private,40, Male,58, Handlers-cleaners,0, 7th-8th,0, Married-civ-spouse, Husband,less than or equal to 50K
+31310, Private,40, Male,27, Craft-repair,0, 11th,0, Divorced, Own-child,less than or equal to 50K
+12757, Private,40, Male,45, Adm-clerical,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+4357, Private,40, Male,22, Craft-repair,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+13569, ?,28, Male,19, ?,0, 12th,0, Never-married, Own-child,less than or equal to 50K
+22962, Self-emp-not-inc,60, Male,33, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+1931, Federal-gov,40, Female,43, Adm-clerical,1848, HS-grad,0, Married-civ-spouse, Wife,greater than 50K
+2139, Private,50, Male,46, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+24677, Private,40, Female,19, Adm-clerical,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+1271, Self-emp-not-inc,40, Male,30, Sales,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+6258, Private,40, Male,25, Machine-op-inspct,0, 11th,0, Never-married, Other-relative,less than or equal to 50K
+3541, Self-emp-not-inc,60, Male,39, Farming-fishing,0, Assoc-voc,0, Married-civ-spouse, Husband,less than or equal to 50K
+25249, Private,35, Female,36, Exec-managerial,0, Some-college,0, Married-civ-spouse, Wife,greater than 50K
+6145, Private,40, Male,46, Handlers-cleaners,0, HS-grad,0, Married-spouse-absent, Not-in-family,less than or equal to 50K
+23821, Private,65, Male,31, Transport-moving,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+17263, Private,40, Male,34, Machine-op-inspct,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+5103, Private,46, Female,43, Sales,0, HS-grad,0, Divorced, Other-relative,less than or equal to 50K
+13746, Private,30, Female,17, Sales,0, 9th,0, Never-married, Not-in-family,less than or equal to 50K
+24146, Private,40, Male,52, Sales,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+20739, Local-gov,40, Male,55, Adm-clerical,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+3037, Private,40, Female,42, Adm-clerical,0, HS-grad,0, Divorced, Own-child,less than or equal to 50K
+11616, Private,45, Male,52, Exec-managerial,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+31311, Local-gov,60, Male,52, Exec-managerial,0, Masters,7298, Married-civ-spouse, Husband,greater than 50K
+15505, Private,24, Male,39, Farming-fishing,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+15873, Local-gov,69, Male,36, Protective-serv,0, HS-grad,0, Married-spouse-absent, Not-in-family,greater than 50K
+3375, Private,54, Male,21, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+19720, Private,44, Female,41, Machine-op-inspct,0, HS-grad,0, Separated, Unmarried,less than or equal to 50K
+21700, Private,40, Female,47, Adm-clerical,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+28801, Private,60, Male,45, Sales,1887, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+5646, ?,40, Female,21, ?,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+8911, Private,45, Male,26, Handlers-cleaners,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+31329, Local-gov,40, Female,28, Prof-specialty,0, Doctorate,0, Divorced, Not-in-family,less than or equal to 50K
+13923, Private,40, Male,34, Other-service,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+12623, Private,40, Female,25, Other-service,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+9186, Private,50, Male,30, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+949, Federal-gov,44, Male,34, Exec-managerial,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+17679, Private,35, Female,31, Adm-clerical,0, Assoc-acdm,0, Divorced, Unmarried,less than or equal to 50K
+10256, Private,40, Female,57, Handlers-cleaners,0, HS-grad,0, Divorced, Other-relative,less than or equal to 50K
+17393, Private,65, Male,40, Exec-managerial,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+22896, Private,15, Female,19, Adm-clerical,0, 11th,0, Never-married, Own-child,less than or equal to 50K
+20522, Private,45, Male,27, Craft-repair,0, Assoc-acdm,0, Married-civ-spouse, Husband,greater than 50K
+6829, Private,12, Male,24, Handlers-cleaners,0, 9th,0, Never-married, Own-child,less than or equal to 50K
+1532, Private,40, Female,48, Exec-managerial,0, Masters,0, Divorced, Unmarried,greater than 50K
+11996, Private,40, Male,28, Sales,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+24548, State-gov,38, Female,37, Prof-specialty,0, Assoc-acdm,0, Divorced, Unmarried,less than or equal to 50K
+26273, Private,35, Male,29, Transport-moving,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+30328, Private,26, Male,17, Handlers-cleaners,0, 10th,0, Never-married, Own-child,less than or equal to 50K
+10289, Private,26, Female,27, Craft-repair,1594, HS-grad,0, Widowed, Unmarried,less than or equal to 50K
+19467, Self-emp-inc,51, Male,45, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+26349, Private,40, Female,25, Sales,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+19125, Private,15, Male,19, Exec-managerial,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+30594, Private,40, Male,24, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+23221, Private,35, Male,21, Sales,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+3927, Private,48, Male,53, Exec-managerial,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+1667, Private,50, Male,33, Prof-specialty,0, Bachelors,0, Never-married, Not-in-family,greater than 50K
+14882, Private,9, Female,18, Other-service,0, 11th,0, Never-married, Own-child,less than or equal to 50K
+26290, Private,40, Male,19, Sales,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+4965, Private,40, Male,51, Prof-specialty,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+10949, Private,60, Male,43, Transport-moving,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+23934, Private,55, Male,38, Exec-managerial,0, Bachelors,0, Divorced, Not-in-family,greater than 50K
+26792, Private,40, Male,62, Farming-fishing,0, 5th-6th,0, Married-civ-spouse, Husband,less than or equal to 50K
+11282, Private,40, Male,40, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+8031, Private,40, Female,34, Prof-specialty,0, Bachelors,0, Divorced, Unmarried,greater than 50K
+25031, Private,40, Female,20, Exec-managerial,0, 9th,0, Never-married, Other-relative,less than or equal to 50K
+132, Self-emp-not-inc,35, Male,38, Craft-repair,0, HS-grad,4386, Married-civ-spouse, Husband,less than or equal to 50K
+9147, ?,1, Female,75, ?,0, 10th,0, Widowed, Other-relative,less than or equal to 50K
+9168, Local-gov,20, Male,23, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+17702, Self-emp-inc,50, Male,62, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+21852, Self-emp-not-inc,91, Male,31, Farming-fishing,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+6558, Private,40, Male,22, Handlers-cleaners,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+10338, Private,40, Male,29, Sales,0, Assoc-acdm,0, Never-married, Not-in-family,less than or equal to 50K
+3867, ?,38, Female,38, ?,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+5053, Local-gov,40, Male,57, Prof-specialty,1902, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+27588, Private,40, Male,20, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+20290, Private,40, Male,46, Craft-repair,1902, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+11652, Private,20, Male,19, Adm-clerical,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+14652, Self-emp-not-inc,60, Female,38, Sales,0, Bachelors,0, Married-civ-spouse, Wife,greater than 50K
+24491, Private,40, Female,48, Other-service,0, 11th,0, Married-civ-spouse, Wife,less than or equal to 50K
+7522, Private,40, Male,54, Adm-clerical,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+1293, Private,40, Female,30, Sales,0, Bachelors,0, Divorced, Own-child,less than or equal to 50K
+12567, Private,40, Female,36, Prof-specialty,1408, Masters,0, Never-married, Not-in-family,less than or equal to 50K
+16001, Private,40, Male,24, Prof-specialty,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+7800, Private,35, Male,23, Farming-fishing,0, 5th-6th,0, Never-married, Other-relative,less than or equal to 50K
+8344, Private,45, Female,27, Adm-clerical,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+14679, Private,50, Male,28, Handlers-cleaners,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+1749, Private,40, Male,27, Handlers-cleaners,0, 11th,0, Never-married, Other-relative,less than or equal to 50K
+9241, Private,40, Male,38, Sales,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+16108, Private,10, Male,74, Craft-repair,0, 9th,0, Widowed, Not-in-family,less than or equal to 50K
+12570, Private,40, Male,30, Sales,0, Bachelors,27828, Divorced, Not-in-family,greater than 50K
+10662, Private,25, Male,18, Handlers-cleaners,0, HS-grad,2176, Never-married, Own-child,less than or equal to 50K
+15374, Self-emp-not-inc,80, Male,25, Craft-repair,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+17880, State-gov,8, Male,18, Other-service,0, 11th,0, Never-married, Own-child,less than or equal to 50K
+32326, Private,45, Male,48, Prof-specialty,0, Doctorate,0, Married-civ-spouse, Husband,greater than 50K
+20670, Federal-gov,40, Male,40, Adm-clerical,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+31374, Private,15, Male,20, Handlers-cleaners,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+2270, Private,40, Male,38, Craft-repair,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+14613, Federal-gov,50, Male,39, Armed-Forces,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+13186, Local-gov,75, Female,40, Protective-serv,0, HS-grad,0, Married-civ-spouse, Wife,less than or equal to 50K
+18785, Private,45, Male,30, Sales,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+20412, Self-emp-inc,45, Male,70, Sales,0, 9th,0, Divorced, Not-in-family,less than or equal to 50K
+11115, Private,40, Female,36, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Wife,greater than 50K
+8216, Private,40, Male,51, Sales,0, Assoc-voc,0, Married-civ-spouse, Husband,less than or equal to 50K
+8298, Private,40, Male,27, Craft-repair,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+5259, Private,38, Female,44, Other-service,0, HS-grad,0, Married-civ-spouse, Wife,greater than 50K
+16914, Federal-gov,40, Male,30, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+30813, Local-gov,40, Female,28, Adm-clerical,0, Assoc-acdm,0, Never-married, Not-in-family,less than or equal to 50K
+1205, ?,30, Male,20, ?,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+19616, ?,8, Male,40, ?,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+14881, Private,40, Male,43, Other-service,0, 11th,0, Never-married, Not-in-family,less than or equal to 50K
+11145, Private,40, Female,47, Other-service,0, 5th-6th,0, Separated, Unmarried,less than or equal to 50K
+30266, Private,50, Male,59, Prof-specialty,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+9646, Private,35, Male,44, Adm-clerical,0, Assoc-acdm,0, Separated, Not-in-family,less than or equal to 50K
+31742, Private,45, Male,44, Exec-managerial,0, Bachelors,15024, Married-civ-spouse, Husband,greater than 50K
+25571, Private,30, Male,19, Other-service,0, 11th,0, Never-married, Other-relative,less than or equal to 50K
+4087, Private,24, Female,45, Other-service,0, Some-college,0, Married-spouse-absent, Not-in-family,less than or equal to 50K
+21742, Private,55, Male,33, Transport-moving,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+4144, Private,40, Female,52, Craft-repair,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+14313, Private,30, Male,21, Other-service,0, Assoc-voc,0, Never-married, Not-in-family,less than or equal to 50K
+26986, ?,40, Male,20, ?,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+1127, ?,20, Male,67, ?,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+15195, Private,20, Female,68, Other-service,0, Some-college,0, Widowed, Not-in-family,less than or equal to 50K
+28902, Private,40, Male,42, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+7858, Private,16, Female,18, Other-service,0, 11th,0, Never-married, Own-child,less than or equal to 50K
+12855, Private,55, Male,28, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+12962, Private,40, Male,44, Craft-repair,0, Masters,0, Married-civ-spouse, Husband,less than or equal to 50K
+8934, Local-gov,45, Male,53, Other-service,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+15305, Private,65, Male,34, Transport-moving,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+5330, Private,40, Male,58, Other-service,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+12117, Private,50, Male,23, Transport-moving,1902, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+24945, Private,45, Male,55, Transport-moving,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+2587, Private,38, Female,44, Tech-support,0, Some-college,0, Widowed, Unmarried,less than or equal to 50K
+8910, Private,45, Male,36, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+10792, Private,60, Male,32, Sales,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+28899, Private,40, Male,35, Sales,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+23988, Private,45, Male,33, Sales,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+12501, Private,40, Female,28, Sales,0, Assoc-voc,0, Never-married, Not-in-family,less than or equal to 50K
+12643, Private,40, Male,45, Craft-repair,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+9726, Private,20, Male,18, Other-service,0, 10th,0, Never-married, Own-child,less than or equal to 50K
+5780, Private,15, Female,41, Sales,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+20826, ?,5, Male,81, ?,0, Bachelors,0, Widowed, Not-in-family,less than or equal to 50K
+131, Private,40, Female,24, Craft-repair,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+8447, ?,1, Female,67, ?,0, Assoc-voc,0, Widowed, Not-in-family,less than or equal to 50K
+5693, Private,37, Female,40, Adm-clerical,0, HS-grad,0, Separated, Unmarried,less than or equal to 50K
+24292, Private,40, Female,29, Adm-clerical,0, HS-grad,0, Separated, Own-child,less than or equal to 50K
+1984, Self-emp-inc,40, Male,32, Craft-repair,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+6903, Private,40, Male,42, Other-service,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+26638, Self-emp-not-inc,99, Male,55, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+4696, Local-gov,40, Female,52, Other-service,0, HS-grad,0, Married-civ-spouse, Wife,greater than 50K
+6416, Private,40, Female,74, Adm-clerical,0, HS-grad,15831, Widowed, Not-in-family,greater than 50K
+5692, Private,50, Male,32, Craft-repair,0, Assoc-voc,0, Married-civ-spouse, Husband,greater than 50K
+22065, Private,18, Male,18, Handlers-cleaners,0, 12th,0, Never-married, Own-child,less than or equal to 50K
+15799, Private,30, Female,28, Adm-clerical,0, HS-grad,0, Married-civ-spouse, Wife,less than or equal to 50K
+14638, Private,40, Male,31, Sales,0, HS-grad,2202, Divorced, Not-in-family,less than or equal to 50K
+14445, Federal-gov,45, Male,27, Prof-specialty,0, Prof-school,0, Married-civ-spouse, Husband,greater than 50K
+10256, Private,40, Female,45, Other-service,0, 10th,0, Divorced, Unmarried,less than or equal to 50K
+16826, Private,40, Female,27, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Wife,less than or equal to 50K
+23363, Local-gov,40, Male,23, Handlers-cleaners,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+8844, Self-emp-not-inc,54, Male,28, Sales,0, Masters,0, Divorced, Not-in-family,less than or equal to 50K
+4551, State-gov,40, Male,25, Prof-specialty,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+20518, Private,45, Male,59, Transport-moving,0, 10th,0, Married-civ-spouse, Husband,greater than 50K
+8889, Private,40, Male,36, Other-service,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+28346, Self-emp-inc,50, Male,45, Sales,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+3793, Private,20, Male,19, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+30944, Private,52, Male,33, Prof-specialty,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+5969, Private,40, Male,32, Machine-op-inspct,0, HS-grad,0, Never-married, Other-relative,less than or equal to 50K
+2099, Self-emp-not-inc,4, Male,61, Craft-repair,0, Masters,0, Married-civ-spouse, Husband,less than or equal to 50K
+26048, Private,40, Female,30, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+4267, Private,40, Male,49, Craft-repair,1902, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+1896, Private,50, Male,48, Sales,2415, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+31668, ?,4, Female,64, ?,0, 7th-8th,0, Widowed, Not-in-family,less than or equal to 50K
+4323, Private,40, Male,30, Handlers-cleaners,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+15378, Self-emp-not-inc,60, Male,39, Farming-fishing,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+1906, Local-gov,45, Female,45, Prof-specialty,0, Masters,1506, Divorced, Unmarried,less than or equal to 50K
+3743, Private,32, Female,45, Other-service,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+6137, Private,50, Male,36, Sales,0, Assoc-voc,0, Married-civ-spouse, Husband,greater than 50K
+15217, Private,40, Male,30, Craft-repair,0, Assoc-voc,0, Married-civ-spouse, Husband,less than or equal to 50K
+6722, Private,40, Female,50, Adm-clerical,0, Bachelors,0, Divorced, Not-in-family,less than or equal to 50K
+2585, State-gov,52, Male,51, Craft-repair,0, HS-grad,3103, Married-civ-spouse, Husband,greater than 50K
+4490, Private,40, Male,21, Machine-op-inspct,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+16767, Private,36, Female,39, Machine-op-inspct,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+22080, Private,40, Female,44, Adm-clerical,0, Assoc-acdm,0, Divorced, Unmarried,less than or equal to 50K
+3815, Private,16, Female,20, Other-service,0, Some-college,594, Never-married, Own-child,less than or equal to 50K
+2023, ?,40, Male,55, ?,0, 7th-8th,2105, Married-civ-spouse, Husband,less than or equal to 50K
+10534, Private,40, Male,47, Machine-op-inspct,0, Some-college,3103, Married-civ-spouse, Husband,greater than 50K
+9341, Private,40, Male,33, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+25521, Private,40, Male,34, Exec-managerial,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+23349, Private,40, Female,30, Exec-managerial,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+10514, Private,43, Female,58, Exec-managerial,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+10311, Private,30, Female,26, Other-service,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+4988, Self-emp-inc,50, Male,43, Exec-managerial,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+10108, Private,40, Female,24, Other-service,0, Some-college,0, Married-civ-spouse, Wife,less than or equal to 50K
+19058, ?,32, Female,48, ?,0, HS-grad,0, Married-spouse-absent, Unmarried,less than or equal to 50K
+2284, Private,25, Male,23, Exec-managerial,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+26501, Private,40, Male,52, Machine-op-inspct,0, Preschool,0, Married-civ-spouse, Husband,less than or equal to 50K
+7110, Private,60, Female,40, Prof-specialty,0, Bachelors,0, Never-married, Not-in-family,greater than 50K
+5690, State-gov,40, Female,72, Other-service,0, 7th-8th,0, Widowed, Unmarried,less than or equal to 50K
+27796, Self-emp-not-inc,35, Male,48, Prof-specialty,0, Prof-school,0, Married-civ-spouse, Husband,greater than 50K
+29674, Private,40, Male,27, Sales,0, Bachelors,0, Married-civ-spouse, Other-relative,greater than 50K
+19440, State-gov,10, Male,21, Exec-managerial,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+5715, Private,50, Male,37, Tech-support,1485, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+10056, ?,35, Male,18, ?,0, 11th,0, Never-married, Own-child,less than or equal to 50K
+3319, Private,40, Male,20, Machine-op-inspct,1590, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+5975, Private,24, Male,62, Farming-fishing,0, 5th-6th,0, Married-civ-spouse, Husband,less than or equal to 50K
+13625, Private,40, Male,27, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+10948, Private,40, Male,46, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+30741, Private,40, Male,62, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+17450, Private,40, Male,19, Other-service,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+16218, Private,10, Male,19, Handlers-cleaners,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+29809, Local-gov,42, Female,39, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Wife,less than or equal to 50K
+4954, Private,40, Male,21, Adm-clerical,0, Assoc-acdm,0, Never-married, Own-child,less than or equal to 50K
+5030, Private,30, Male,29, Other-service,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+23179, Private,99, Male,31, Farming-fishing,0, HS-grad,2907, Never-married, Not-in-family,less than or equal to 50K
+11432, Private,36, Female,23, Other-service,0, Some-college,0, Never-married, Unmarried,less than or equal to 50K
+29411, Private,45, Male,27, Sales,0, Bachelors,10520, Never-married, Not-in-family,greater than 50K
+17839, Private,40, Male,38, Other-service,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+31080, Private,40, Male,32, Sales,1902, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+14963, Private,30, Male,41, Other-service,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+12474, Private,65, Male,41, Exec-managerial,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+1379, Self-emp-not-inc,50, Male,33, Prof-specialty,0, Prof-school,7688, Married-civ-spouse, Husband,greater than 50K
+10568, Local-gov,40, Female,39, Prof-specialty,0, Masters,0, Divorced, Not-in-family,less than or equal to 50K
+11220, Private,40, Male,24, Sales,0, Assoc-voc,0, Never-married, Not-in-family,less than or equal to 50K
+16047, Private,16, Male,18, Other-service,0, 11th,0, Never-married, Own-child,less than or equal to 50K
+30771, Private,35, Female,29, Adm-clerical,0, Assoc-voc,0, Never-married, Own-child,less than or equal to 50K
+8059, Private,40, Male,27, Machine-op-inspct,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+30969, Private,40, Male,51, Craft-repair,0, Assoc-voc,0, Married-civ-spouse, Husband,greater than 50K
+15595, Local-gov,35, Female,44, Prof-specialty,0, Masters,8614, Divorced, Not-in-family,greater than 50K
+15594, Self-emp-not-inc,40, Male,45, Craft-repair,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+18837, Private,40, Male,19, Craft-repair,0, 10th,0, Never-married, Not-in-family,less than or equal to 50K
+25356, Private,60, Male,45, Exec-managerial,0, Masters,15024, Married-civ-spouse, Husband,greater than 50K
+9061, Private,40, Female,23, Adm-clerical,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+7341, Private,45, Male,33, Sales,0, Assoc-acdm,0, Married-civ-spouse, Husband,less than or equal to 50K
+32135, Private,40, Female,48, Exec-managerial,2258, HS-grad,0, Divorced, Not-in-family,greater than 50K
+14028, Private,40, Female,38, Tech-support,0, Masters,0, Divorced, Unmarried,greater than 50K
+5096, Local-gov,25, Female,65, Other-service,0, HS-grad,0, Widowed, Unmarried,less than or equal to 50K
+19891, Private,40, Male,26, Sales,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+3217, Private,60, Male,59, Craft-repair,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+9834, Private,45, Male,34, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+17755, Private,48, Male,31, Exec-managerial,1977, Masters,0, Married-civ-spouse, Husband,greater than 50K
+24340, Private,24, Male,25, Sales,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+99, Federal-gov,40, Male,32, Other-service,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+9382, Private,54, Male,32, Other-service,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+12767, Private,40, Female,24, Craft-repair,0, Assoc-voc,0, Married-civ-spouse, Wife,less than or equal to 50K
+25074, Private,40, Male,38, Handlers-cleaners,0, 9th,0, Married-civ-spouse, Husband,less than or equal to 50K
+3605, Self-emp-not-inc,90, Male,36, Exec-managerial,0, HS-grad,41310, Married-civ-spouse, Husband,less than or equal to 50K
+4560, Private,40, Male,24, Machine-op-inspct,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+4244, Self-emp-not-inc,40, Male,42, Sales,0, Assoc-acdm,0, Married-civ-spouse, Husband,less than or equal to 50K
+7207, Self-emp-inc,38, Male,45, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+5820, Private,50, Female,28, Other-service,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+24443, Private,60, Male,46, Adm-clerical,1740, Masters,0, Married-civ-spouse, Husband,less than or equal to 50K
+26385, Federal-gov,40, Female,29, Adm-clerical,0, Some-college,0, Married-spouse-absent, Own-child,less than or equal to 50K
+3917, Private,14, Male,19, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+11226, Local-gov,40, Male,27, Protective-serv,2231, Some-college,0, Never-married, Not-in-family,greater than 50K
+3937, Private,40, Male,46, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+16059, Private,30, Female,19, Adm-clerical,0, HS-grad,0, Separated, Own-child,less than or equal to 50K
+29005, Private,40, Male,38, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+4060, Private,65, Male,42, Sales,0, Masters,0, Never-married, Not-in-family,less than or equal to 50K
+9227, Private,35, Female,41, Prof-specialty,0, Masters,27828, Never-married, Not-in-family,greater than 50K
+22776, Private,45, Female,26, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+2868, Self-emp-not-inc,30, Male,25, Prof-specialty,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+3098, Private,40, Female,42, Adm-clerical,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+22257, Private,50, Male,50, Prof-specialty,0, Prof-school,0, Married-civ-spouse, Husband,greater than 50K
+13970, Private,30, Female,39, Prof-specialty,0, 11th,0, Never-married, Unmarried,less than or equal to 50K
+700, Private,40, Male,24, Craft-repair,0, Some-college,2174, Never-married, Not-in-family,less than or equal to 50K
+6130, ?,15, Male,71, ?,0, 7th-8th,0, Separated, Not-in-family,less than or equal to 50K
+21135, Self-emp-inc,40, Male,69, Other-service,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+11039, Private,40, Female,42, Adm-clerical,0, Bachelors,0, Divorced, Not-in-family,less than or equal to 50K
+2918, State-gov,70, Female,45, Exec-managerial,0, Masters,0, Divorced, Not-in-family,less than or equal to 50K
+10204, Private,40, Male,48, Tech-support,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+9992, Private,40, Female,44, Machine-op-inspct,0, HS-grad,0, Divorced, Own-child,less than or equal to 50K
+818, Private,45, Male,64, Transport-moving,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+30558, ?,20, Male,61, ?,0, 1st-4th,3942, Married-civ-spouse, Husband,less than or equal to 50K
+6886, Private,24, Female,58, Other-service,0, 7th-8th,0, Separated, Not-in-family,less than or equal to 50K
+2691, Private,55, Male,23, Craft-repair,0, 9th,0, Married-civ-spouse, Husband,less than or equal to 50K
+8603, Local-gov,40, Male,45, Prof-specialty,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+4489, Private,40, Male,28, Other-service,0, Assoc-acdm,0, Separated, Not-in-family,less than or equal to 50K
+7367, Private,50, Male,22, Exec-managerial,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+29697, Private,10, Female,29, Exec-managerial,0, Bachelors,3325, Never-married, Own-child,less than or equal to 50K
+11968, ?,55, Female,28, ?,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+27264, Private,40, Female,26, Prof-specialty,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+14933, Private,35, Male,36, Craft-repair,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+22083, Private,40, Male,38, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+414, Federal-gov,40, Male,42, Adm-clerical,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+29321, Private,35, Female,36, Adm-clerical,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+11261, Local-gov,40, Female,46, Adm-clerical,0, HS-grad,0, Separated, Unmarried,less than or equal to 50K
+11859, Private,40, Male,30, Adm-clerical,0, Assoc-voc,0, Never-married, Own-child,less than or equal to 50K
+12441, Self-emp-not-inc,45, Male,50, Craft-repair,0, Bachelors,4416, Never-married, Not-in-family,less than or equal to 50K
+6725, Private,40, Male,27, Tech-support,1340, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+4830, Private,40, Male,52, Craft-repair,0, 5th-6th,0, Married-spouse-absent, Other-relative,less than or equal to 50K
+10172, Self-emp-inc,40, Male,68, Sales,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+22181, Private,40, Female,27, Adm-clerical,0, Bachelors,0, Married-civ-spouse, Wife,greater than 50K
+27758, Private,60, Male,44, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+5147, Private,40, Male,48, Handlers-cleaners,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+26902, Private,36, Male,78, Transport-moving,0, 5th-6th,0, Married-civ-spouse, Husband,less than or equal to 50K
+8622, Private,20, Female,21, Sales,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+15679, ?,30, Female,17, ?,0, 10th,0, Never-married, Not-in-family,less than or equal to 50K
+7230, Private,50, Male,25, Prof-specialty,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+10633, Private,50, Male,36, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+10124, Self-emp-not-inc,35, Male,80, Farming-fishing,0, 7th-8th,0, Widowed, Not-in-family,less than or equal to 50K
+5960, Private,35, Male,54, Machine-op-inspct,1902, 9th,0, Married-civ-spouse, Husband,less than or equal to 50K
+1628, Self-emp-not-inc,55, Male,41, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+6535, Private,40, Male,25, Sales,0, Assoc-voc,27828, Never-married, Not-in-family,greater than 50K
+20093, Private,40, Male,26, Prof-specialty,1887, Masters,0, Married-civ-spouse, Husband,greater than 50K
+6687, Private,40, Female,26, Adm-clerical,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+10281, Private,40, Male,17, Farming-fishing,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+20995, Private,40, Male,21, Craft-repair,1504, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+13257, Private,40, Male,49, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+15130, ?,20, Female,47, ?,0, 10th,0, Married-civ-spouse, Wife,less than or equal to 50K
+15762, Private,43, Female,49, Adm-clerical,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+18901, Private,40, Female,30, Prof-specialty,0, Assoc-voc,0, Separated, Unmarried,less than or equal to 50K
+12041, Private,40, Male,34, Prof-specialty,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+16106, Private,20, Female,83, Prof-specialty,0, Some-college,0, Divorced, Unmarried,less than or equal to 50K
+10997, Private,44, Female,32, Exec-managerial,1902, Bachelors,0, Married-civ-spouse, Wife,greater than 50K
+30956, Private,43, Female,44, Adm-clerical,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+2092, Private,50, Male,35, Sales,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+14651, Local-gov,40, Female,43, Tech-support,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+21160, Private,45, Male,36, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+13117, Local-gov,35, Female,35, Prof-specialty,0, Masters,0, Married-civ-spouse, Wife,greater than 50K
+6192, Private,35, Female,38, Adm-clerical,0, Some-college,0, Married-civ-spouse, Wife,greater than 50K
+31815, Private,40, Male,55, Prof-specialty,0, Doctorate,0, Married-civ-spouse, Husband,greater than 50K
+19402, Private,40, Female,31, Other-service,0, HS-grad,0, Separated, Not-in-family,less than or equal to 50K
+6355, Private,40, Male,29, Sales,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+19235, Self-emp-inc,40, Female,27, Sales,0, Some-college,0, Separated, Own-child,less than or equal to 50K
+21034, Self-emp-not-inc,40, Male,44, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+25243, Private,60, Male,33, Prof-specialty,0, Doctorate,0, Married-civ-spouse, Husband,greater than 50K
+30860, Private,40, Male,53, Machine-op-inspct,0, HS-grad,2829, Married-civ-spouse, Husband,less than or equal to 50K
+22959, Private,40, Male,35, Farming-fishing,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+14204, Private,48, Male,41, Machine-op-inspct,0, HS-grad,14344, Never-married, Own-child,greater than 50K
+13455, Private,55, Male,42, Exec-managerial,0, Some-college,99999, Married-civ-spouse, Husband,greater than 50K
+17096, ?,20, Female,25, ?,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+1007, Self-emp-inc,40, Male,39, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+13752, Private,40, Male,46, Craft-repair,0, HS-grad,4064, Married-civ-spouse, Husband,less than or equal to 50K
+11733, Private,50, Male,28, Craft-repair,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+8302, Federal-gov,40, Female,59, Adm-clerical,0, HS-grad,0, Widowed, Unmarried,less than or equal to 50K
+8202, Private,40, Male,29, Machine-op-inspct,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+1990, Private,45, Female,19, Priv-house-serv,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+4221, Private,36, Female,35, Sales,0, Some-college,0, Divorced, Unmarried,less than or equal to 50K
+10829, Private,40, Male,23, Craft-repair,0, HS-grad,0, Never-married, Other-relative,less than or equal to 50K
+19147, State-gov,15, Female,44, Other-service,0, HS-grad,0, Married-civ-spouse, Wife,less than or equal to 50K
+21785, Private,40, Male,43, Sales,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+8862, Private,38, Female,22, Adm-clerical,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+13540, Private,40, Male,33, Craft-repair,0, Assoc-voc,0, Never-married, Unmarried,less than or equal to 50K
+28689, Self-emp-inc,40, Female,34, Sales,0, Bachelors,0, Divorced, Unmarried,less than or equal to 50K
+17065, Private,40, Male,22, Other-service,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+9314, Private,40, Female,36, Adm-clerical,0, Assoc-acdm,0, Never-married, Unmarried,less than or equal to 50K
+15774, Self-emp-not-inc,60, Male,45, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+11928, Private,60, Male,45, Farming-fishing,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+15005, Private,55, Male,56, Prof-specialty,0, Doctorate,0, Married-civ-spouse, Husband,greater than 50K
+3239, Private,45, Female,34, Exec-managerial,0, Some-college,0, Married-civ-spouse, Wife,greater than 50K
+15653, Private,40, Female,36, Adm-clerical,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+11200, Federal-gov,50, Male,37, Adm-clerical,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+13783, Private,40, Male,51, Exec-managerial,1902, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+2514, Private,30, Female,18, Other-service,0, 11th,594, Never-married, Own-child,less than or equal to 50K
+12864, Self-emp-inc,40, Male,45, Prof-specialty,0, Bachelors,15024, Married-civ-spouse, Husband,greater than 50K
+14467, Private,40, Male,25, Other-service,0, 12th,0, Never-married, Not-in-family,less than or equal to 50K
+22555, Self-emp-inc,45, Male,41, Prof-specialty,0, Prof-school,0, Married-civ-spouse, Husband,greater than 50K
+7525, Private,27, Female,46, Other-service,0, 11th,0, Widowed, Not-in-family,less than or equal to 50K
+25922, Private,40, Male,32, Craft-repair,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+22985, Private,40, Male,45, Craft-repair,0, Bachelors,15024, Married-civ-spouse, Husband,greater than 50K
+6092, Private,50, Male,41, Machine-op-inspct,0, HS-grad,0, Separated, Not-in-family,less than or equal to 50K
+2540, Private,8, Female,63, Adm-clerical,0, Assoc-voc,0, Widowed, Unmarried,less than or equal to 50K
+9276, Private,28, Female,31, Other-service,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+21695, Private,40, Male,42, Sales,0, HS-grad,4064, Married-civ-spouse, Husband,less than or equal to 50K
+5836, Private,38, Male,41, Prof-specialty,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+15138, Private,40, Male,48, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+12185, Self-emp-not-inc,50, Female,34, Prof-specialty,0, Bachelors,0, Divorced, Unmarried,less than or equal to 50K
+21490, Private,30, Male,19, Exec-managerial,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+1207, Private,8, Female,46, Exec-managerial,0, Masters,0, Divorced, Unmarried,less than or equal to 50K
+5097, Federal-gov,35, Male,41, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+18211, Private,40, Female,30, Sales,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+5344, ?,40, Male,61, ?,0, Some-college,0, Married-spouse-absent, Not-in-family,less than or equal to 50K
+9057, Self-emp-not-inc,50, Male,41, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+7861, Private,40, Male,48, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+30512, Private,46, Male,28, Craft-repair,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+8978, Private,40, Male,60, Transport-moving,0, 5th-6th,0, Married-civ-spouse, Husband,less than or equal to 50K
+16339, State-gov,50, Male,34, Prof-specialty,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+3422, Self-emp-inc,78, Male,34, Craft-repair,0, HS-grad,2829, Married-civ-spouse, Husband,less than or equal to 50K
+13729, Private,45, Female,41, Prof-specialty,0, Prof-school,0, Divorced, Unmarried,less than or equal to 50K
+21334, Private,60, Male,27, Transport-moving,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+16297, Private,40, Male,46, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+16460, Private,38, Male,43, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+13644, Private,40, Male,47, Sales,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+27865, Private,40, Male,38, Exec-managerial,0, Assoc-acdm,0, Married-civ-spouse, Husband,greater than 50K
+15486, Private,40, Female,52, Exec-managerial,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+29602, Private,35, Male,18, Other-service,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+16858, Local-gov,40, Female,25, Adm-clerical,0, Some-college,0, Never-married, Unmarried,less than or equal to 50K
+361, Private,40, Male,62, Prof-specialty,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+29491, Private,45, Female,39, Exec-managerial,0, Bachelors,0, Divorced, Unmarried,less than or equal to 50K
+2664, Private,40, Male,65, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+19984, Private,40, Male,36, Machine-op-inspct,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+19969, Private,40, Female,21, Adm-clerical,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+31397, Self-emp-not-inc,40, Male,33, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+8665, Private,40, Male,46, Tech-support,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+5513, Private,40, Male,40, Craft-repair,0, HS-grad,4064, Married-civ-spouse, Husband,less than or equal to 50K
+7945, Private,48, Female,50, Machine-op-inspct,0, HS-grad,0, Divorced, Other-relative,less than or equal to 50K
+3752, Private,40, Male,47, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+11705, Private,40, Female,42, Sales,0, Assoc-acdm,0, Separated, Not-in-family,less than or equal to 50K
+10705, Private,40, Female,44, Adm-clerical,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+18090, Private,38, Male,24, Sales,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+2149, Private,40, Female,43, Craft-repair,0, Assoc-acdm,0, Never-married, Unmarried,less than or equal to 50K
+2306, Private,40, Male,42, Craft-repair,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+14484, Private,20, Male,60, Sales,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+15013, Private,50, Male,26, Transport-moving,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+5148, Self-emp-not-inc,40, Male,39, Craft-repair,0, 9th,0, Married-civ-spouse, Husband,less than or equal to 50K
+7027, Local-gov,50, Female,25, Prof-specialty,0, Bachelors,0, Never-married, Not-in-family,greater than 50K
+31741, Federal-gov,40, Male,31, Sales,0, Assoc-acdm,0, Married-civ-spouse, Husband,less than or equal to 50K
+5243, Private,40, Female,50, Prof-specialty,0, Assoc-voc,0, Separated, Unmarried,less than or equal to 50K
+13317, Private,40, Male,38, Transport-moving,0, 10th,3103, Married-civ-spouse, Husband,greater than 50K
+15265, Private,45, Female,23, Other-service,0, HS-grad,0, Never-married, Other-relative,less than or equal to 50K
+142, Private,55, Male,40, Exec-managerial,0, HS-grad,7688, Married-civ-spouse, Husband,greater than 50K
+1608, Private,40, Male,39, Craft-repair,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+24277, Private,40, Male,33, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+15201, Private,24, Male,62, Tech-support,0, Some-college,2829, Married-civ-spouse, Husband,less than or equal to 50K
+4510, Private,10, Female,46, Other-service,0, Some-college,0, Divorced, Unmarried,less than or equal to 50K
+24947, Private,45, Male,36, Adm-clerical,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+13145, Private,50, Male,59, Prof-specialty,0, Doctorate,0, Never-married, Not-in-family,less than or equal to 50K
+32235, Private,44, Male,47, Sales,0, Assoc-acdm,0, Divorced, Own-child,less than or equal to 50K
+27286, Self-emp-not-inc,5, Female,29, Other-service,0, 11th,0, Married-civ-spouse, Wife,less than or equal to 50K
+3045, Local-gov,40, Male,38, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+29632, Self-emp-inc,40, Female,51, Adm-clerical,0, Assoc-voc,0, Never-married, Own-child,less than or equal to 50K
+25375, Private,40, Male,22, Craft-repair,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+29101, ?,30, Female,19, ?,0, Some-college,0, Never-married, Other-relative,less than or equal to 50K
+11573, ?,40, Female,23, ?,0, HS-grad,0, Separated, Own-child,less than or equal to 50K
+4357, State-gov,40, Female,30, Prof-specialty,0, Assoc-voc,0, Never-married, Not-in-family,less than or equal to 50K
+10946, Private,40, Female,29, Adm-clerical,0, Assoc-voc,0, Never-married, Own-child,less than or equal to 50K
+11708, Private,40, Male,20, Other-service,2001, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+26539, State-gov,40, Male,59, Transport-moving,0, 9th,0, Married-civ-spouse, Husband,less than or equal to 50K
+7399, Private,40, Female,44, Machine-op-inspct,0, 11th,0, Divorced, Unmarried,less than or equal to 50K
+830, State-gov,10, Female,66, Machine-op-inspct,0, HS-grad,1424, Married-civ-spouse, Wife,less than or equal to 50K
+20134, Private,40, Male,39, Craft-repair,0, Prof-school,7688, Married-civ-spouse, Husband,greater than 50K
+6815, Private,26, Female,45, Tech-support,0, HS-grad,0, Separated, Not-in-family,less than or equal to 50K
+19652, Private,40, Male,26, Transport-moving,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+16966, ?,10, Male,47, ?,0, 7th-8th,0, Married-civ-spouse, Husband,less than or equal to 50K
+12763, Private,40, Female,42, Exec-managerial,0, HS-grad,0, Widowed, Not-in-family,less than or equal to 50K
+9665, Private,40, Male,18, Exec-managerial,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+22588, Private,50, Male,36, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+1481, Self-emp-not-inc,15, Male,59, Transport-moving,0, Masters,0, Married-civ-spouse, Husband,less than or equal to 50K
+7914, State-gov,40, Male,64, Prof-specialty,0, Bachelors,5178, Married-civ-spouse, Husband,greater than 50K
+29035, Private,40, Male,45, Craft-repair,0, Assoc-acdm,0, Divorced, Not-in-family,less than or equal to 50K
+14451, State-gov,40, Male,58, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+29980, Private,55, Male,20, Farming-fishing,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+28038, Private,50, Female,32, Exec-managerial,0, Assoc-voc,0, Divorced, Unmarried,less than or equal to 50K
+18590, Private,40, Male,31, Other-service,0, 7th-8th,0, Married-civ-spouse, Husband,less than or equal to 50K
+5908, Private,40, Female,27, Adm-clerical,0, Assoc-voc,0, Married-civ-spouse, Wife,less than or equal to 50K
+7038, Private,40, Female,19, Adm-clerical,0, Assoc-voc,0, Never-married, Own-child,less than or equal to 50K
+29563, Private,40, Female,33, Exec-managerial,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+14468, Private,45, Male,30, Prof-specialty,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+31727, Private,50, Male,50, Exec-managerial,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+16568, Private,40, Male,25, Craft-repair,0, HS-grad,0, Separated, Not-in-family,less than or equal to 50K
+6556, Private,40, Male,21, Craft-repair,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+2991, Private,40, Male,55, Other-service,0, 7th-8th,0, Married-civ-spouse, Husband,less than or equal to 50K
+10655, Private,45, Female,40, Adm-clerical,0, Some-college,0, Separated, Unmarried,less than or equal to 50K
+13629, Private,50, Male,26, Exec-managerial,0, Assoc-voc,0, Never-married, Not-in-family,less than or equal to 50K
+9522, Private,25, Female,40, Other-service,0, HS-grad,0, Widowed, Unmarried,less than or equal to 50K
+4758, Self-emp-not-inc,60, Male,31, Transport-moving,2205, 10th,0, Never-married, Not-in-family,less than or equal to 50K
+1411, Private,10, Female,59, Prof-specialty,0, Masters,0, Married-civ-spouse, Wife,less than or equal to 50K
+25944, Private,40, Male,28, Handlers-cleaners,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+21125, ?,48, Male,21, ?,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+32116, Private,40, Male,56, Adm-clerical,0, 10th,0, Married-civ-spouse, Husband,less than or equal to 50K
+2839, Private,40, Male,38, Craft-repair,0, 9th,0, Married-civ-spouse, Husband,less than or equal to 50K
+18496, ?,60, Male,57, ?,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+5649, Self-emp-not-inc,50, Male,32, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+15215, Private,20, Female,24, Prof-specialty,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+1560, ?,6, Female,55, ?,0, HS-grad,0, Married-civ-spouse, Wife,greater than 50K
+20774, Private,40, Female,21, Sales,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+13667, State-gov,40, Female,22, Tech-support,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+7856, Local-gov,40, Male,28, Prof-specialty,0, Assoc-acdm,0, Widowed, Unmarried,less than or equal to 50K
+32122, Private,40, Male,49, Craft-repair,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+13579, Private,50, Male,46, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+9008, Private,20, Female,28, Other-service,0, HS-grad,0, Separated, Unmarried,less than or equal to 50K
+19081, Private,8, Female,21, Adm-clerical,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+8745, Federal-gov,80, Male,51, Transport-moving,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+23612, Private,40, Female,18, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Wife,less than or equal to 50K
+2658, Private,50, Male,49, Transport-moving,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+11170, Private,40, Male,44, Adm-clerical,0, 11th,0, Married-civ-spouse, Husband,greater than 50K
+32225, Private,45, Male,51, Machine-op-inspct,0, 9th,0, Married-civ-spouse, Husband,less than or equal to 50K
+3178, Private,40, Female,45, Other-service,0, HS-grad,0, Married-civ-spouse, Wife,greater than 50K
+23632, Private,10, Male,18, Other-service,0, 12th,0, Never-married, Own-child,less than or equal to 50K
+15516, Private,40, Male,55, Prof-specialty,0, Doctorate,0, Never-married, Not-in-family,less than or equal to 50K
+91, Private,40, Female,37, Craft-repair,0, Some-college,0, Divorced, Unmarried,less than or equal to 50K
+28910, Local-gov,60, Female,59, Prof-specialty,0, Masters,8614, Divorced, Unmarried,greater than 50K
+11179, Local-gov,40, Male,20, Handlers-cleaners,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+10393, Private,50, Male,38, Sales,0, Bachelors,0, Divorced, Own-child,less than or equal to 50K
+15928, Private,40, Male,37, Machine-op-inspct,0, HS-grad,7298, Married-civ-spouse, Husband,greater than 50K
+14751, Private,50, Female,34, Exec-managerial,0, Some-college,2174, Never-married, Not-in-family,less than or equal to 50K
+31625, Private,16, Female,74, Handlers-cleaners,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+281, Local-gov,40, Male,42, Craft-repair,0, Some-college,5178, Married-civ-spouse, Husband,greater than 50K
+30264, Private,40, Male,34, Handlers-cleaners,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+27293, Self-emp-not-inc,45, Male,26, Exec-managerial,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+18669, Local-gov,50, Male,45, Prof-specialty,0, Some-college,7688, Married-civ-spouse, Husband,greater than 50K
+21565, Private,55, Male,28, Prof-specialty,0, 7th-8th,0, Married-civ-spouse, Husband,less than or equal to 50K
+28408, Private,40, Male,27, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+5535, Private,40, Male,25, Other-service,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+2435, Private,40, Male,35, Exec-managerial,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+16084, Private,8, Male,18, Other-service,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+7144, Private,35, Female,30, Prof-specialty,0, Masters,0, Married-civ-spouse, Wife,greater than 50K
+10451, Private,40, Male,40, Machine-op-inspct,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+4661, ?,25, Male,20, ?,0, 5th-6th,0, Never-married, Not-in-family,less than or equal to 50K
+23090, Federal-gov,40, Female,46, Adm-clerical,0, Assoc-acdm,0, Divorced, Unmarried,less than or equal to 50K
+25395, Private,45, Male,66, Exec-managerial,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+31258, Private,35, Male,27, Machine-op-inspct,0, 10th,0, Separated, Own-child,less than or equal to 50K
+26966, Private,17, Male,17, Handlers-cleaners,0, 11th,0, Never-married, Own-child,less than or equal to 50K
+15959, Local-gov,40, Female,25, Adm-clerical,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+5804, Self-emp-not-inc,35, Male,23, Farming-fishing,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+6232, Self-emp-not-inc,50, Male,90, Prof-specialty,0, Bachelors,10566, Married-civ-spouse, Husband,less than or equal to 50K
+14038, Private,40, Male,35, Machine-op-inspct,0, Assoc-voc,0, Married-civ-spouse, Husband,less than or equal to 50K
+1348, Private,48, Male,25, Prof-specialty,0, Bachelors,4865, Never-married, Not-in-family,less than or equal to 50K
+6875, Private,40, Female,42, Other-service,0, 7th-8th,0, Divorced, Unmarried,less than or equal to 50K
+31589, Private,40, Male,26, Protective-serv,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+14973, Private,40, Male,59, Handlers-cleaners,0, 9th,0, Widowed, Unmarried,less than or equal to 50K
+6627, Private,48, Male,29, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+14908, Private,52, Female,27, Machine-op-inspct,0, 5th-6th,0, Never-married, Not-in-family,less than or equal to 50K
+5004, Private,40, Male,36, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+12958, Private,40, Female,20, Protective-serv,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+3034, Private,40, Male,61, Craft-repair,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+21680, Private,45, Male,28, Sales,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+11014, Private,35, Female,32, Sales,0, 10th,0, Divorced, Own-child,less than or equal to 50K
+684, State-gov,5, Female,18, Adm-clerical,0, 11th,0, Never-married, Own-child,less than or equal to 50K
+16601, Local-gov,40, Male,40, Protective-serv,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+13764, Private,40, Female,22, Adm-clerical,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+822, Private,40, Male,29, Tech-support,0, Assoc-voc,0, Never-married, Own-child,less than or equal to 50K
+13734, Private,70, Female,27, Adm-clerical,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+8400, Self-emp-inc,50, Male,47, Prof-specialty,0, Doctorate,0, Married-civ-spouse, Husband,less than or equal to 50K
+28742, Private,40, Male,41, Adm-clerical,0, 12th,0, Divorced, Not-in-family,less than or equal to 50K
+6176, Self-emp-not-inc,40, Male,36, Transport-moving,0, 11th,0, Never-married, Not-in-family,less than or equal to 50K
+9717, Self-emp-not-inc,40, Male,41, Transport-moving,1590, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+4395, Private,40, Male,28, Handlers-cleaners,0, 11th,0, Never-married, Other-relative,less than or equal to 50K
+20843, Private,50, Female,53, Adm-clerical,0, Some-college,0, Never-married, Not-in-family,greater than 50K
+15774, Private,40, Male,39, Adm-clerical,0, Some-college,15024, Married-civ-spouse, Husband,greater than 50K
+29151, State-gov,40, Female,24, Tech-support,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+25444, Self-emp-inc,40, Male,56, Exec-managerial,1672, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+19291, Self-emp-not-inc,50, Male,50, Prof-specialty,0, Prof-school,0, Married-civ-spouse, Husband,greater than 50K
+23165, Private,40, Male,50, Handlers-cleaners,0, 12th,0, Divorced, Unmarried,less than or equal to 50K
+7485, Private,40, Male,37, Farming-fishing,0, Preschool,0, Married-civ-spouse, Husband,less than or equal to 50K
+8721, State-gov,50, Male,47, Prof-specialty,0, Doctorate,15024, Married-civ-spouse, Husband,greater than 50K
+17049, Private,40, Male,50, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+610, Private,60, Female,52, Prof-specialty,0, Masters,6849, Divorced, Not-in-family,less than or equal to 50K
+15409, Private,40, Female,32, Exec-managerial,0, Assoc-acdm,0, Married-civ-spouse, Wife,less than or equal to 50K
+4499, Private,40, Male,61, Machine-op-inspct,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+8719, Private,40, Male,28, Exec-managerial,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+526, Private,40, Male,42, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+3120, Private,45, Female,28, Adm-clerical,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+31376, Private,40, Male,57, Handlers-cleaners,0, 1st-4th,0, Married-civ-spouse, Husband,less than or equal to 50K
+18778, Private,40, Male,36, Craft-repair,0, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+15841, Private,40, Female,23, Adm-clerical,0, HS-grad,0, Never-married, Not-in-family,less than or equal to 50K
+2845, Private,45, Male,50, Sales,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+5483, Private,40, Male,32, Craft-repair,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+8003, Self-emp-not-inc,38, Female,35, Sales,0, HS-grad,0, Never-married, Unmarried,less than or equal to 50K
+9791, Private,40, Male,31, Craft-repair,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+17821, Self-emp-inc,40, Male,57, Prof-specialty,0, Prof-school,0, Married-civ-spouse, Husband,less than or equal to 50K
+26480, Private,50, Male,22, Handlers-cleaners,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+12244, Private,20, Female,76, Adm-clerical,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+27379, Private,45, Male,40, Exec-managerial,0, Some-college,0, Divorced, Not-in-family,less than or equal to 50K
+12252, Private,45, Male,50, Transport-moving,0, HS-grad,0, Married-spouse-absent, Not-in-family,less than or equal to 50K
+12162, Private,40, Female,35, Exec-managerial,0, HS-grad,0, Divorced, Unmarried,greater than 50K
+13144, Private,25, Male,37, Craft-repair,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+904, Private,38, Male,26, Adm-clerical,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+3478, Private,40, Male,26, Craft-repair,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
+9179, Private,60, Male,32, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+9926, ?,8, Male,73, ?,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+11100, Local-gov,40, Female,29, Prof-specialty,0, Masters,1506, Never-married, Other-relative,less than or equal to 50K
+980, Self-emp-not-inc,20, Male,66, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+3498, Private,40, Male,44, Other-service,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+10402, Private,50, Male,20, Sales,0, Some-college,0, Never-married, Not-in-family,less than or equal to 50K
+15818, Self-emp-not-inc,25, Male,50, Other-service,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+4698, Federal-gov,60, Female,57, Exec-managerial,0, Masters,0, Divorced, Not-in-family,greater than 50K
+11521, Private,40, Male,43, Exec-managerial,0, Bachelors,7688, Married-civ-spouse, Husband,greater than 50K
+25918, Private,40, Female,49, Exec-managerial,0, Bachelors,0, Divorced, Unmarried,less than or equal to 50K
+21037, Private,60, Male,54, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+7192, Local-gov,60, Male,27, Farming-fishing,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+5449, Private,25, Female,19, Handlers-cleaners,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+12749, Local-gov,20, Male,64, Transport-moving,0, HS-grad,0, Divorced, Unmarried,less than or equal to 50K
+3, Private,40, Male,53, Handlers-cleaners,0, 11th,0, Married-civ-spouse, Husband,less than or equal to 50K
+9472, Private,50, Male,40, Craft-repair,0, Some-college,0, Divorced, Other-relative,less than or equal to 50K
+9486, Private,20, Male,25, Exec-managerial,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+13036, Private,40, Male,37, Craft-repair,0, 7th-8th,0, Married-civ-spouse, Husband,less than or equal to 50K
+4653, Private,40, Male,42, Tech-support,0, HS-grad,8614, Divorced, Not-in-family,greater than 50K
+14655, Private,40, Male,47, Handlers-cleaners,0, 1st-4th,0, Married-civ-spouse, Husband,less than or equal to 50K
+5923, State-gov,38, Male,45, Adm-clerical,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+12656, Private,20, Female,20, Sales,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+12858, ?,25, Male,20, ?,0, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+2745, Private,40, Female,51, Machine-op-inspct,0, 11th,5455, Divorced, Unmarried,less than or equal to 50K
+11169, Private,30, Male,31, Transport-moving,0, 5th-6th,0, Never-married, Not-in-family,less than or equal to 50K
+4600, Private,40, Male,36, Machine-op-inspct,1887, HS-grad,0, Married-civ-spouse, Husband,greater than 50K
+7343, Private,55, Male,32, Prof-specialty,0, HS-grad,0, Separated, Not-in-family,less than or equal to 50K
+29574, Local-gov,20, Male,66, Exec-managerial,0, HS-grad,3432, Married-civ-spouse, Husband,less than or equal to 50K
+1347, Private,40, Male,25, Prof-specialty,0, Bachelors,0, Never-married, Own-child,less than or equal to 50K
+8183, ?,40, Male,67, ?,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+16222, Private,20, Female,19, Other-service,1602, HS-grad,0, Never-married, Own-child,less than or equal to 50K
+26089, Self-emp-inc,35, Male,57, Prof-specialty,0, Prof-school,0, Married-civ-spouse, Husband,greater than 50K
+6077, Self-emp-inc,16, Female,17, Adm-clerical,0, 12th,0, Never-married, Own-child,less than or equal to 50K
+1660, Private,15, Female,19, Sales,0, Some-college,0, Never-married, Own-child,less than or equal to 50K
+30945, Private,65, Male,49, Exec-managerial,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+4747, Private,40, Male,42, Prof-specialty,0, Masters,0, Married-civ-spouse, Husband,greater than 50K
+3458, Private,40, Male,35, Sales,0, Bachelors,0, Married-civ-spouse, Husband,less than or equal to 50K
+7567, Private,50, Male,41, Prof-specialty,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+12446, Private,12, Female,90, Adm-clerical,1944, Some-college,0, Never-married, Own-child,less than or equal to 50K
+3328, Private,60, Male,45, Prof-specialty,0, Bachelors,0, Married-civ-spouse, Husband,greater than 50K
+26646, Private,40, Male,48, Tech-support,0, Some-college,0, Married-civ-spouse, Husband,greater than 50K
+421, Private,18, Male,17, Handlers-cleaners,0, 11th,2176, Never-married, Own-child,less than or equal to 50K
+28505, State-gov,40, Male,39, Adm-clerical,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+22930, Self-emp-not-inc,14, Female,74, Farming-fishing,0, HS-grad,0, Widowed, Not-in-family,less than or equal to 50K
+29857, Private,60, Male,40, Sales,0, Assoc-acdm,0, Married-civ-spouse, Husband,greater than 50K
+12794, State-gov,38, Male,23, Protective-serv,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+2883, Private,50, Female,45, Exec-managerial,0, Masters,0, Divorced, Not-in-family,greater than 50K
+8839, ?,15, Female,20, ?,0, Assoc-voc,0, Never-married, Own-child,less than or equal to 50K
+13085, State-gov,38, Male,44, Protective-serv,0, HS-grad,0, Married-civ-spouse, Husband,less than or equal to 50K
+9065, Private,40, Male,33, Farming-fishing,0, 10th,0, Never-married, Not-in-family,less than or equal to 50K
+24627, Federal-gov,40, Female,35, Handlers-cleaners,0, Some-college,0, Never-married, Unmarried,less than or equal to 50K
+12899, Private,45, Male,41, Tech-support,0, Bachelors,7430, Divorced, Unmarried,greater than 50K
+28183, Private,50, Male,32, Exec-managerial,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+6441, Private,35, Female,22, Other-service,0, Bachelors,0, Never-married, Not-in-family,less than or equal to 50K
+9782, Local-gov,60, Male,37, Protective-serv,0, Some-college,0, Married-civ-spouse, Husband,less than or equal to 50K
+11070, Private,40, Male,38, Craft-repair,0, HS-grad,0, Divorced, Not-in-family,less than or equal to 50K
