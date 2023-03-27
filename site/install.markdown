@@ -4,8 +4,6 @@ title: Install
 permalink: /install/
 ---
 
-Please use `Python>=3.9.6`.
-
 ### Getting the data
 
 To download the data, clone [the github repository](https://github.com/dylan-slack/Tablet).
@@ -22,14 +20,22 @@ Tablet/data/benchmark
 
 ### Installing TABLET
 
+Please use `Python>=3.9.6`. Also, ensure you have `pip>=23.0.1`.
+
+```shell
+conda create -n tablet python=3.9.6
+conda activate tablet
+pip install --upgrade pip
+```
+
 If you want to install the tablet package from source, navigate into the TABLET package directory and install.
 
 ```shell
 cd Tablet
-python setup.py install
+python3 -m pip install -e .
 ```
 
-Otherwise, you can install from PyPI with pip.
+Otherwise, you can install from PyPI with pip. [Note: not released yet]
 
 ```shell
 pip install tablet-benchmark

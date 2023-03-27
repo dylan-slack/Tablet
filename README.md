@@ -66,10 +66,10 @@ If you want to install the tablet package from source, navigate into the TABLET 
 
 ```shell
 cd Tablet
-python setup.py install
+python3 -m pip install -e .
 ```
 
-Otherwise, you can install from PyPI with pip.
+Otherwise, you can install from PyPI with pip. [Note: not released yet]
 
 ```shell
 pip install tablet-benchmark
