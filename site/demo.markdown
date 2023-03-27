@@ -6,4 +6,4 @@ permalink: /demo/
 
 Please visit and like this demo on [Huggingface 🤗 Spaces](https://google.com)!
 
-<iframe width="100%" height="1000px" src="http://localhost:8501"></iframe>
+<iframe width="100%" height="1000px" src="https://nlp.ics.uci.edu/tablet/"></iframe>

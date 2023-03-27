@@ -11,7 +11,7 @@ Hopefully, we can create models that solve tabular prediction tasks using instru
 ## Links 
 - Check out the project [website](https://dylanslacks.website/Tablet) 🖥️
 - Read the TABLET [paper](temp) ✨
-- Play with the TABLET [demo](demo) 🚀
+- Play with the TABLET [demo](https://nlp.ics.uci.edu/tablet/) 🚀
 
 ## Overview
 
