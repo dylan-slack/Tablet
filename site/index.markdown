@@ -37,10 +37,10 @@ their phrasing, granularity, and collection source.
 
 ## Getting Started
 
-- [Demo](Tablet/demo): Explore LLM predictions on TABLET 🕵️
-- [Install](Tablet/install): Install TABLET 💾
-- [Evaluate](Tablet/evaluate): Follow a tutorial on how to evaluate an LLM on TABLET 💯
-- [Contribute](Tablet/contribute): Follow a tutorial on how to contribute a new task to TABLET ✏️
+- [Demo](demo): Explore LLM predictions on TABLET 🕵️
+- [Install](install): Install TABLET 💾
+- [Evaluate](evaluate): Follow a tutorial on how to evaluate an LLM on TABLET 💯
+- [Contribute](contribute): Follow a tutorial on how to contribute a new task to TABLET ✏️
 
 ## Citation
 
