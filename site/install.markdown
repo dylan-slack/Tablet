@@ -20,7 +20,7 @@ Tablet/data/benchmark
 
 ### Installing TABLET
 
-Please use `Python>=3.9.6`. Also, ensure you have `pip>=23.0.1`.
+Please use `Python>=3.9`. Because of a quirk in one of the packages, please do not use `Python=3.9.7`. Also, ensure you have `pip>=23.0.1`.
 
 ```shell
 conda create -n tablet python=3.9.6
