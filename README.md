@@ -54,7 +54,13 @@ Tablet/data/benchmark
 
 ### Installing TABLET
 
-Please use `Python>=3.9.6`.
+Please use `Python>=3.9.6`. Also, ensure you have `pip>=23.0.1`.
+
+```shell
+conda create -n tablet python=3.9.6
+conda activate tablet
+pip install --upgrade pip
+```
 
 If you want to install the tablet package from source, navigate into the TABLET package directory and install.
 

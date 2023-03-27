@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "tablet"
+name = "Tablet"
 version = "0.1.0"
 description = ""
 authors = ["dylan-slack <dslack@uci.edu>"]
