@@ -14,19 +14,20 @@ layout: home
 {% include button.html button_name="Paper" button_link="https://google.com" button_class="primary" %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{% include button.html button_name="Code" button_link="https://github.com/dylan-slack/Tablet" button_class="primary" %}
 </center>
 
-## About
+## Overview
 
 While many prediction problems require the use of tabular data, often, gathering sufficient training data can be a challenge task, due to costs or privacy issues.
-Large language models (LLMs) offer considerable world knowledge due to their pre-training and could help improve sample efficiency for these problems.
+Large language models (LLMs) offer considerable world knowledge due to their pre-training and can help improve sample efficiency for these problems.
 Still, these models are often not completely aligned with many tabular prediction tasks because of model biases from pre-training and lack of information about the task, hurting their performance in the zero and few shot settings.
-
-What if we could use task _instructions_ to help bridge this gap? That's where **TABLET** comes in. 
+Task _instructions_ are ideal for bridging this gap, because they offer LLMs context about the task. That's where **TABLET** comes in. 
 TABLET is a living benchmark of tabular datasets annotated with task instructions for evaluating how well LLMs utilize
-instructions for improving performance on tabular prediction tasks.
+instructions for improving performance.
 
-To start, we've included 20 diverse classification tasks in TABLET, across domains like medical and financial.
-We've additionally collected multiple instructions for each task—both generated and naturally occurring—that vary in 
-their phrasing, granularity, and collection source.
+TABLET contains 20 diverse classification tasks.
+Each task is annotated with multiple instructions. We collected these instructions from naturally occurring sources and generated them with GPT-3, and they vary in their
+phrasing, granularity, and technicality.
+
+The results [in our paper](google.com) demonstrate instructions are highly useful for improving LLM performance on tabular prediction. Still, LLMs underperform fully supervised models fit on all the training data, and we analyze several of the shortcomings of LLMs which contribute to this. Hopefully, we develop models that close this gap! 
 
 
 ## What can you do with TABLET?
@@ -37,10 +38,17 @@ their phrasing, granularity, and collection source.
 
 ## Getting Started
 
+- [Paper](www.google.com): Read our evaluation on TABLET 📝
 - [Demo](demo): Explore LLM predictions on TABLET 🕵️
 - [Install](install): Install TABLET 💾
 - [Evaluate](evaluate): Follow a tutorial on how to evaluate an LLM on TABLET 💯
 - [Contribute](contribute): Follow a tutorial on how to contribute a new task to TABLET ✏️
+
+## Tasks
+
+Here are the current tasks in TABLET, a short description, the creator, and the number of each type of instruction. Contribute more tasks to TABLET by following the instructions in [contribute](contribute), and I will add the task and your name and website as the person who contributed it (if you want).
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr42xpzNOKcUmXse?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Citation
 
@@ -52,12 +60,6 @@ Year = {2023},
 journal = {arXiv},
 }
 ```
-
-## Tasks
-
-Here are the current tasks in TABLET, a short description, the creator, and the number of each type of instruction. Contribute more tasks to TABLET by following the instructions in [contribute](Tablet/contribute), and I will add the task and your name and website as the person who contributed it (if you want).
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr42xpzNOKcUmXse?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Authors
 
