@@ -27,7 +27,7 @@ TABLET contains 20 diverse classification tasks.
 Each task is annotated with multiple instructions. We collected these instructions from naturally occurring sources and generated them with GPT-3, and they vary in their
 phrasing, granularity, and technicality.
 
-The results [in our paper](google.com) demonstrate instructions are highly useful for improving LLM performance on tabular prediction. Still, LLMs underperform fully supervised models fit on all the training data, and we analyze several of the shortcomings of LLMs which contribute to this. Hopefully, we develop models that close this gap! 
+The results [in our paper](https://arxiv.org/abs/2304.13188) demonstrate instructions are highly useful for improving LLM performance on tabular prediction. Still, LLMs underperform fully supervised models fit on all the training data, and we analyze several of the shortcomings of LLMs which contribute to this. Hopefully, we develop models that close this gap! 
 
 
 ## What can you do with TABLET?
