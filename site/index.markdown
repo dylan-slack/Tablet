@@ -38,7 +38,7 @@ The results [in our paper](google.com) demonstrate instructions are highly usefu
 
 ## Getting Started
 
-- [Paper](www.google.com): Read our evaluation on TABLET 📝
+- [Paper](https://arxiv.org/abs/2304.13188): Read our evaluation on TABLET 📝
 - [Demo](demo): Explore LLM predictions on TABLET 🕵️
 - [Install](install): Install TABLET 💾
 - [Evaluate](evaluate): Follow a tutorial on how to evaluate an LLM on TABLET 💯
