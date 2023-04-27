@@ -11,7 +11,7 @@ layout: home
 </p>
 
 <center>
-{% include button.html button_name="Paper" button_link="https://google.com" button_class="primary" %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{% include button.html button_name="Code" button_link="https://github.com/dylan-slack/Tablet" button_class="primary" %}
+{% include button.html button_name="Paper" button_link="https://arxiv.org/abs/2304.13188" button_class="primary" %}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{% include button.html button_name="Code" button_link="https://github.com/dylan-slack/Tablet" button_class="primary" %}
 </center>
 
 ## Overview
