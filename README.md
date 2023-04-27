@@ -29,10 +29,10 @@ If TABLET is useful to your work, please cite us.
 
 ```latex
 @article{tabletSlack23,
-Author = {Dylan Slack and Sameer Singh},
-Title = {TABLET: Learning From Instructions For Tabular Dataset Tasks},
-Year = {2023},
-journal = {arXiv},
+         Author = {Dylan Slack and Sameer Singh},
+         Title = {TABLET: Learning From Instructions For Tabular Data},
+         Year = {2023},
+         journal = {arXiv},
 }
 ```
 
