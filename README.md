@@ -3,7 +3,7 @@
 <img src="./site/assets/logo.png" alt="TABLET logo" width="600"/><img src="./site/assets/ucilogo.png" alt="UCI NLP Logo" width="150">
 </p>
 
-# TABLET: Learning From Instructions For Tabular Prediction With Language Models 
+# TABLET: Learning From Instructions For Tabular Data
 
 Welcome to the TABLET github! The goal of this project is to benchmark progress on instruction learning for tabular prediction. 
 Hopefully, we can create models that solve tabular prediction tasks using instructions and few labeled examples.
